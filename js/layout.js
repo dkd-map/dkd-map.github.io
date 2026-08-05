@@ -38,7 +38,7 @@ function header(active) {
     <div class="header-inner">
       <div class="header-top">
         <a class="brand" href="index.html">
-          <img src="assets/DKDM_logo.png" alt="DKDM Logo" class="brand-logo">
+          <img src="assets/DKDM_Logo.png" alt="DKDM Logo" class="brand-logo">
           <span class="brand-text">
             <span class="brand-title">Diabetic Kidney Disease Map</span>
             <span class="brand-sub">${D.subtitle}</span>

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Use Cases — DKDM</title>
+  <meta name="description" content="Step-by-step worked examples showing how to answer scientific questions using the Diabetic Kidney Disease Map.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main>
+
+<section class="page-head container">
+  <p class="eyebrow">Guide</p>
+  <h1>Use Cases</h1>
+  <p class="muted" style="max-width:760px;margin-top:4px">Five step-by-step examples showing how to answer real scientific questions with DKDM. Each example links directly to the relevant tools so you can follow along.</p>
+</section>
+
+<section class="container section" style="padding-top:8px">
+  <div class="prose">
+
+  <!-- Use Case 1 -->
+  <div class="uc-card" id="uc1">
+    <div class="uc-header">
+      <span class="uc-number">1</span>
+      <h2>Find dysregulated pathways in podocytes</h2>
+    </div>
+    <p class="uc-question"><strong>Question:</strong> Which signaling pathways are significantly enriched in podocytes, and which genes drive that enrichment?</p>
+    <p>Podocytes are specialized epithelial cells of the glomerular filtration barrier and a primary site of injury in DKD. Identifying enriched pathways helps pinpoint the signaling programs most active in this cell type.</p>
+    <h4>Steps</h4>
+    <ol>
+      <li>Go to the <a href="pathway-explorer.html">Pathway Explorer</a> page.</li>
+      <li>Ensure <strong>Browse by Cell Type</strong> mode is selected.</li>
+      <li>Select <strong>Podocyte Cell</strong> from the dropdown.</li>
+      <li>Set the FDR filter to <strong>FDR &le; 0.05</strong> (or stricter if desired).</li>
+      <li>Review the ranked pathway list. The top results include inflammatory pathways such as <em>Interleukin-6 signaling</em>, <em>Interleukin-27 signaling</em>, and <em>Signaling by Leptin</em>, along with <em>AKT phosphorylates targets in the cytosol</em>.</li>
+      <li>Click <strong>Show</strong> next to any pathway to reveal the overlapping genes. Each gene links to the Gene Search page for deeper investigation.</li>
+      <li>Click the pathway name link to open the full pathway page in Reactome or KEGG for complete context.</li>
+    </ol>
+    <div class="uc-try">
+      <a class="btn btn-primary btn-sm" href="pathway-explorer.html">Open Pathway Explorer &rarr;</a>
+    </div>
+  </div>
+
+  <!-- Use Case 2 -->
+  <div class="uc-card" id="uc2">
+    <div class="uc-header">
+      <span class="uc-number">2</span>
+      <h2>Identify hub genes in proximal tubule cells</h2>
+    </div>
+    <p class="uc-question"><strong>Question:</strong> Which genes are the most central hubs in the proximal tubule cell signaling network, and what are their roles?</p>
+    <p>Hub genes &mdash; those with high network centrality &mdash; often represent critical regulatory nodes and potential therapeutic targets. The proximal tubule is a major site of DKD-related injury and metabolic dysregulation.</p>
+    <h4>Steps</h4>
+    <ol>
+      <li>Go to the <a href="gene-search.html?gene=ALB">Gene Search</a> page.</li>
+      <li>Search for <strong>ALB</strong> (rank #1 in proximal tubule centrality). The centrality table shows its rank, degree, betweenness, and PageRank scores across all cell types where it appears.</li>
+      <li>Next, search for <strong>TP53</strong> (rank #2), <strong>TGFB1</strong> (rank #3), <strong>HIF1A</strong> (rank #4), and <strong>BCL2</strong> (rank #5) to explore the top hub genes in proximal tubule cells.</li>
+      <li>For each gene, check the <strong>Cell types</strong> section to see which other cells contain it, and click a cell type link to open its Dynamic DKDM network.</li>
+      <li>Use the <strong>External links</strong> (NCBI Gene, UniProt, Open Targets) to investigate druggability and disease associations.</li>
+      <li>Check the <strong>Associated pathways</strong> section to see which enriched pathways each hub gene participates in.</li>
+    </ol>
+    <div class="uc-try">
+      <a class="btn btn-primary btn-sm" href="gene-search.html?gene=ALB">Search ALB (PT hub #1) &rarr;</a>
+      <a class="btn btn-ghost btn-sm" href="gene-search.html?gene=TP53">Search TP53 (#2)</a>
+    </div>
+  </div>
+
+  <!-- Use Case 3 -->
+  <div class="uc-card" id="uc3">
+    <div class="uc-header">
+      <span class="uc-number">3</span>
+      <h2>Find cell communication via a specific ligand</h2>
+    </div>
+    <p class="uc-question"><strong>Question:</strong> Which kidney cell types produce VEGFA as a signaling ligand, and which cells receive the signal?</p>
+    <p>VEGFA is a key angiogenic factor implicated in DKD-associated vascular changes. Understanding which cells send VEGFA signals and which cells bear the receptors reveals the intercellular communication architecture.</p>
+    <h4>Steps</h4>
+    <ol>
+      <li>Go to the <a href="gene-search.html?gene=VEGFA">Gene Search</a> page and search for <strong>VEGFA</strong>.</li>
+      <li>In the result, look at the <strong>Cell&ndash;cell communication role</strong> section. VEGFA acts as a ligand in 12 cell populations including podocytes, mesangial cells, endothelial cells, and proximal tubule cells.</li>
+      <li>Check the <strong>Present in</strong> section to see all 13 cell types containing VEGFA, with links to open each in Dynamic DKDM.</li>
+      <li>Click the <strong>UniProt</strong> external link to access the full protein annotation, including known receptors.</li>
+      <li>To explore the full ligand&ndash;receptor network visually, open the <a href="about-cci.html">Cell&ndash;Cell Interaction Map</a> and download the CSV to filter for VEGFA-specific interactions.</li>
+    </ol>
+    <div class="uc-try">
+      <a class="btn btn-primary btn-sm" href="gene-search.html?gene=VEGFA">Search VEGFA &rarr;</a>
+      <a class="btn btn-ghost btn-sm" href="about-cci.html">Open CCI Map</a>
+    </div>
+  </div>
+
+  <!-- Use Case 4 -->
+  <div class="uc-card" id="uc4">
+    <div class="uc-header">
+      <span class="uc-number">4</span>
+      <h2>Discover miRNA regulation of a gene</h2>
+    </div>
+    <p class="uc-question"><strong>Question:</strong> Which miRNAs regulate HIF1A in DKD, and what experimental evidence supports these interactions?</p>
+    <p>HIF1A is a central hypoxia-responsive transcription factor and a top hub gene in multiple kidney cell types. Identifying its miRNA regulators reveals the post-transcriptional layer controlling its expression.</p>
+    <h4>Steps</h4>
+    <ol>
+      <li>Go to the <a href="gene-search.html?gene=HIF1A">Gene Search</a> page and search for <strong>HIF1A</strong>.</li>
+      <li>Scroll to the <strong>miRNA regulation</strong> section. You will see 4 experimentally validated miRNA interactions plus 1 predicted-only interaction.</li>
+      <li>The validated table shows: <strong>hsa-miR-142-5p</strong> (luciferase assay, PMID 28069592), <strong>hsa-miR-199a-5p</strong> (luciferase assay, PMID 21847633), <strong>hsa-miR-199b-5p</strong> (luciferase assay, PMID 21557766), and <strong>hsa-miR-429</strong> (qRT-PCR, PMID 25550463).</li>
+      <li>Click any PMID link to open the original publication in PubMed.</li>
+      <li>Check the <strong>Network centrality</strong> section to see that HIF1A is rank #4 in proximal tubule cells &mdash; a major hub under miRNA control.</li>
+      <li>For the full miRNA&ndash;target network, open the <a href="about-mirna.html">miRNA&ndash;Target Regulatory Network</a> map.</li>
+    </ol>
+    <div class="uc-try">
+      <a class="btn btn-primary btn-sm" href="gene-search.html?gene=HIF1A">Search HIF1A &rarr;</a>
+      <a class="btn btn-ghost btn-sm" href="about-mirna.html">Open miRNA Map</a>
+    </div>
+  </div>
+
+  <!-- Use Case 5 -->
+  <div class="uc-card" id="uc5">
+    <div class="uc-header">
+      <span class="uc-number">5</span>
+      <h2>Explore the ODE model of a cell type</h2>
+    </div>
+    <p class="uc-question"><strong>Question:</strong> What does the dynamic signaling network of mesangial cells look like, and how can I find a specific gene within it?</p>
+    <p>Mesangial cells provide structural support to the glomerulus and are key players in DKD fibrosis. The Dynamic DKDM app lets you interactively explore their ODE model.</p>
+    <h4>Steps</h4>
+    <ol>
+      <li>Go to the <a href="cell-types.html">Cell Types</a> page and click <strong>Mesangial Cells</strong>, or go directly to the <a href="https://dkd-map.github.io/DynamicDKDM/network/Mesengial/" target="_blank" rel="noopener">Mesangial Cell network in Dynamic DKDM</a>.</li>
+      <li>The interactive network graph loads, showing all molecular species (genes, proteins, RNA) as nodes and regulatory interactions as edges.</li>
+      <li>Use the <strong>search bar</strong> at the top to type a gene symbol (e.g., <strong>TGFB1</strong>). Matching nodes are highlighted with an orange border and centered in the view; non-matching nodes are dimmed.</li>
+      <li>Click any node to open the detail panel, showing the clean gene symbol, species type, and external database links (NCBI Gene, UniProt, HGNC, Open Targets).</li>
+      <li>Use the <strong>filter</strong> controls to show only genes, only proteins, or only RNA species.</li>
+      <li>Click <strong>Download SBML</strong> to export the model for simulation in COPASI, tellurium, or other SBML-compatible tools.</li>
+    </ol>
+    <div class="uc-try">
+      <a class="btn btn-primary btn-sm" href="https://dkd-map.github.io/DynamicDKDM/network/Mesengial/" target="_blank" rel="noopener">Open Mesangial Cell network &rarr;</a>
+      <a class="btn btn-ghost btn-sm" href="cell-types.html">Browse all cell types</a>
+    </div>
+  </div>
+
+  </div>
+</section>
+
+</main>
+
+<script src="js/data.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/main.js"></script>
+<script>window.PAGE="explore"; DKDMLayout.mount();</script>
+</body>
+</html>

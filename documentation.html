@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Documentation — DKDM</title>
+  <meta name="description" content="Complete documentation for the Diabetic Kidney Disease Map: data sources, methods, how to use each feature, data formats, and FAQ.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main>
+
+<section class="page-head container">
+  <p class="eyebrow">Reference</p>
+  <h1>Documentation</h1>
+  <p class="muted" style="max-width:760px;margin-top:4px">Everything you need to understand and use DKDM: data sources, computational methods, feature guides, file formats, and answers to common questions.</p>
+</section>
+
+<section class="container section" style="padding-top:8px">
+  <!-- Table of contents -->
+  <nav class="doc-toc">
+    <h3>Contents</h3>
+    <ul>
+      <li><a href="#overview">1. Overview</a></li>
+      <li><a href="#data-sources">2. Data Sources</a></li>
+      <li><a href="#methods">3. Methods</a></li>
+      <li><a href="#features">4. How to Use Each Feature</a></li>
+      <li><a href="#formats">5. Data Formats</a></li>
+      <li><a href="#faq">6. FAQ</a></li>
+    </ul>
+  </nav>
+
+  <div class="prose">
+
+  <!-- 1. OVERVIEW -->
+  <h2 id="overview">1. Overview</h2>
+  <p>The Diabetic Kidney Disease Map (DKDM) is a freely accessible, cell-resolved, FAIR-compliant systems biology resource that consolidates heterogeneous biological knowledge about DKD into a unified, computable, and interactively explorable platform. It integrates five complementary evidence layers &mdash; literature mining, transcriptomics, proteomics, genome-wide association data, and non-coding RNA &mdash; yielding a curated inventory of 831 high-confidence DKD-associated biomolecules mapped onto 24 renal cell types.</p>
+  <p>The platform provides four main interactive surfaces:</p>
+  <ul>
+    <li><strong>Cell Types</strong> &mdash; 24 kidney cell types, each with a MINERVA annotated map, ODE model, and downloadable analysis results</li>
+    <li><strong>Gene Search</strong> &mdash; search any gene to see its presence across cell types, centrality rankings, cell&ndash;cell communication role, miRNA regulators, and associated pathways</li>
+    <li><strong>Pathway Explorer</strong> &mdash; browse pathway enrichment results by cell type or search by pathway name to see which cell types share it</li>
+    <li><strong>Dynamic DKDM</strong> &mdash; an interactive network atlas for exploring and simulating parametric ODE models for each cell type</li>
+  </ul>
+  <p>Two additional network maps cover intercellular communication (Cell&ndash;Cell Interaction Map) and post-transcriptional regulation (miRNA&ndash;Target Regulatory Network).</p>
+
+  <!-- 2. DATA SOURCES -->
+  <h2 id="data-sources">2. Data Sources</h2>
+
+  <h3>Kidney Precision Medicine Project (KPMP) single-cell atlas</h3>
+  <p>The 24 renal cell types and their gene expression profiles are derived from the Kidney Precision Medicine Project (KPMP) single-cell RNA sequencing atlas, comprising over 100,000 human kidney cells. Cell-type-specific expression profiles were used to filter protein&ndash;protein interactions, ligand&ndash;receptor pairs, and miRNA&ndash;target relationships to ensure that only interactions supported by actual expression evidence in human kidney tissue are represented.</p>
+
+  <h3>STRING &mdash; Protein&ndash;Protein Interactions</h3>
+  <p>Intracellular protein&ndash;protein interaction (PPI) networks for each cell type were constructed using the STRING database. Interactions were filtered by cell-type-specific expression to generate cell-resolved PPI networks. These networks form the structural basis for centrality analysis and the ODE models.</p>
+
+  <h3>SIGNOR &mdash; Signaling Pathways</h3>
+  <p>Directed regulatory interactions (activation, inhibition, post-translational modifications) were sourced from the SIGNOR database. These provide the causal directionality needed to build dynamic models &mdash; each directed interaction becomes a rate term in the ODE system.</p>
+
+  <h3>KEGG &amp; Reactome &mdash; Pathway Enrichment</h3>
+  <p>Pathway enrichment analysis was performed using Enrichr, which queries multiple pathway libraries including KEGG and Reactome. Results include pathway names, gene set identifiers, p-values, FDR-adjusted q-values, and the overlapping gene lists. These data power the Pathway Explorer.</p>
+
+  <h3>SEPDB &amp; CellChatDB &mdash; Cell&ndash;Cell Communication</h3>
+  <p>The Cell&ndash;Cell Interaction Map integrates high-confidence secreted ligands from SEPDB with experimentally validated ligand&ndash;receptor pairs from CellChatDB, filtered by cell-type-specific expression from the KPMP atlas. The resulting network comprises 498 directed intercellular interactions across all 24 cell types.</p>
+
+  <h3>miRTarBase &amp; GSE51674 &mdash; miRNA Regulation</h3>
+  <p>Dysregulated miRNAs were identified through differential expression analysis of the human kidney microarray dataset GSE51674 using limma with Benjamini&ndash;Hochberg correction (FDR &le; 0.05), yielding 128 reproducibly dysregulated miRNAs. Only experimentally validated miRNA&ndash;target relationships from miRTarBase were retained, ensuring biological relevance.</p>
+
+  <h3>MINERVA Platform</h3>
+  <p>The annotated disease map is deployed on the MINERVA platform, which provides interactive visualization, element-level annotations, references, and evidence tracking for every molecular component and interaction.</p>
+
+  <h3>FAIRDOMHub</h3>
+  <p>All underlying data &mdash; centrality measurements, pathway enrichment results, GO enrichment results, PPI networks, and biological process results &mdash; are publicly deposited on FAIRDOMHub in compliance with FAIR data principles.</p>
+
+  <!-- 3. METHODS -->
+  <h2 id="methods">3. Methods</h2>
+
+  <h3>Marker identification and cell-type assignment</h3>
+  <p>The 24 renal cell types were identified from the KPMP single-cell atlas using established marker genes. Each cell type's expression profile was used to filter downstream interaction networks, ensuring cell-type specificity.</p>
+
+  <h3>Protein&ndash;protein interaction (PPI) network construction</h3>
+  <p>For each cell type, STRING PPIs were filtered to retain only interactions between proteins encoded by genes expressed in that cell type. This produced 24 cell-type-specific intracellular PPI networks.</p>
+
+  <h3>Network centrality analysis</h3>
+  <p>Six centrality measures were computed for each node in every cell-type PPI network:</p>
+  <ul>
+    <li><strong>Degree centrality</strong> &mdash; number of direct connections</li>
+    <li><strong>Betweenness centrality</strong> &mdash; how often a node lies on shortest paths between others</li>
+    <li><strong>Closeness centrality</strong> &mdash; average inverse distance to all other nodes</li>
+    <li><strong>Eigenvector centrality</strong> &mdash; connection to well-connected neighbors</li>
+    <li><strong>PageRank</strong> &mdash; iterative importance score based on connected nodes</li>
+    <li><strong>Harmonic centrality</strong> &mdash; sum of inverse distances to all other nodes</li>
+  </ul>
+  <p>A composite <strong>centrality rank</strong> orders genes within each cell type. Hub genes (high centrality) are prioritized as potential therapeutic targets. These data are available in the Gene Search results and as downloadable CSV files.</p>
+
+  <h3>Pathway enrichment analysis</h3>
+  <p>For each cell type, the gene set was tested for enrichment against pathway libraries (KEGG, Reactome, WikiPathways) using Enrichr's hypergeometric test. Results include p-values, FDR-adjusted q-values, enrichment ratios, and overlapping gene lists. The Pathway Explorer provides interactive access to these results with FDR filtering.</p>
+
+  <h3>Gene Ontology (GO) enrichment</h3>
+  <p>GO enrichment was performed for Biological Process, Molecular Function, and Cellular Component ontologies. Results are available as downloadable files from each cell type's resource panel.</p>
+
+  <h3>ODE model construction (SPADAN framework)</h3>
+  <p>Parametric ordinary differential equation (ODE) models were generated for each cell type using the SPADAN framework. Each node in the cell-type-specific signaling network is represented as a molecular species governed by a differential equation, and each directed regulatory interaction (from SIGNOR) is encoded as a rate term. Because large-scale quantitative time-series data from human DKD kidney tissue are not currently available, model parameters are defined within biologically plausible ranges rather than fixed numerically. This parametric approach encodes the structural logic of each cell type's signaling network while remaining flexible for future data-driven refinement.</p>
+
+  <h3>SBML export</h3>
+  <p>All ODE models are exported in Systems Biology Markup Language (SBML) format, making them directly importable into standard simulation environments including COPASI, tellurium, and libSBML-based tools. The Dynamic DKDM web app parses these SBML files client-side to render interactive network visualizations.</p>
+
+  <h3>Druggability scoring</h3>
+  <p>Computational druggability scores and drug&ndash;target interaction predictions were computed for over 1,200 compound&ndash;target pairs, providing a therapeutic prioritization layer on top of the molecular network.</p>
+
+  <!-- 4. FEATURES -->
+  <h2 id="features">4. How to Use Each Feature</h2>
+
+  <h3>Gene Search</h3>
+  <p>The Gene Search page lets you look up any gene symbol and instantly see its role across the entire DKDM resource.</p>
+  <ul>
+    <li><strong>Search:</strong> Type a gene symbol (e.g., TP53, AKT1, VEGFA) in the search bar. Autocomplete suggestions appear as you type. Press Enter or click Search.</li>
+    <li><strong>External links:</strong> Each result includes direct links to NCBI Gene, UniProt, HGNC, Open Targets, and KEGG for that gene.</li>
+    <li><strong>Cell type presence:</strong> See which of the 24 kidney cell types contain this gene, with links to open the Dynamic DKDM network for each cell type.</li>
+    <li><strong>Centrality table:</strong> If the gene appears in centrality analyses, its rank and centrality scores (degree, betweenness, PageRank) are shown per cell type.</li>
+    <li><strong>Cell&ndash;cell communication:</strong> If the gene acts as a ligand or receptor in intercellular signaling, the relevant cell types are listed.</li>
+    <li><strong>miRNA regulation:</strong> Validated miRNA&ndash;target interactions are shown with experiment type and PubMed references.</li>
+    <li><strong>Pathways:</strong> Enriched pathways containing this gene are listed per cell type, with links to the Pathway Explorer.</li>
+    <li><strong>Direct linking:</strong> You can link directly to a gene result using <code>gene-search.html?gene=SYMBOL</code>.</li>
+  </ul>
+
+  <h3>Pathway Explorer</h3>
+  <p>The Pathway Explorer provides two complementary ways to explore enrichment results.</p>
+  <ul>
+    <li><strong>Browse by Cell Type:</strong> Select a cell type from the dropdown to see all enriched pathways sorted by FDR. Use the FDR filter to control significance stringency. Click "Show" next to any pathway to reveal the overlapping genes, each linking back to Gene Search.</li>
+    <li><strong>Search by Pathway Name:</strong> Type a pathway name or keyword (e.g., "inflammasome", "insulin signaling") to find which cell types share that pathway. Results show per-cell p-values, FDR, and gene overlaps.</li>
+    <li><strong>Pathway database links:</strong> Each pathway links to its source database (Reactome, KEGG) for full pathway context.</li>
+    <li><strong>Direct linking:</strong> You can link directly to a pathway search using <code>pathway-explorer.html?q=Pathway+Name</code>.</li>
+  </ul>
+
+  <h3>Dynamic DKDM</h3>
+  <p>The Dynamic DKDM web app provides an interactive network atlas for each cell type's ODE model.</p>
+  <ul>
+    <li><strong>Network visualization:</strong> Each cell type's signaling network is rendered as an interactive graph. Nodes represent molecular species (genes, proteins, RNA); edges represent regulatory interactions.</li>
+    <li><strong>Gene search within a network:</strong> Use the search bar in the network view to find a specific gene. Matching nodes are highlighted and centered; non-matching nodes are dimmed.</li>
+    <li><strong>Node details:</strong> Click any node to see its clean gene symbol, species type, and external database links (NCBI Gene, UniProt, HGNC, Open Targets).</li>
+    <li><strong>Filtering:</strong> Filter nodes by type (gene, protein, RNA) to focus on specific molecular layers.</li>
+    <li><strong>Download:</strong> Download the SBML model for any cell type for use in simulation tools.</li>
+  </ul>
+
+  <h3>Cell Types</h3>
+  <p>The Cell Types page presents all 24 renal cell types as a visual grid.</p>
+  <ul>
+    <li>Click any cell type card to open a resource panel with links to its MINERVA map, Dynamic DKDM model, and analysis results.</li>
+    <li>Download cell-type-specific files: biological process results, network centrality measurements, pathway enrichment results, and PPI networks.</li>
+  </ul>
+
+  <h3>Cell&ndash;Cell Interaction Map</h3>
+  <p>The interactive CCI map visualizes 498 directed ligand&ndash;receptor interactions between cell types. Explore which cells send and receive signals, and download the full network as CSV.</p>
+
+  <h3>miRNA&ndash;Target Regulatory Network</h3>
+  <p>The interactive miRNA map shows 128 dysregulated miRNAs and their validated target genes. Explore regulatory relationships and download the full network as CSV.</p>
+
+  <!-- 5. DATA FORMATS -->
+  <h2 id="formats">5. Data Formats</h2>
+
+  <h3>SBML models (.xml)</h3>
+  <p>Each cell type's ODE model is provided in SBML Level 3 format. Species IDs use suffixes to denote molecular type:</p>
+  <ul>
+    <li><code>_g</code> &mdash; gene (DNA)</li>
+    <li><code>_p</code> &mdash; protein</li>
+    <li><code>_rna</code> &mdash; RNA transcript</li>
+    <li><code>_u</code> &mdash; ubiquitinated form (in select cell types)</li>
+  </ul>
+  <p>The Dynamic DKDM web app automatically strips these suffixes for display, showing clean HGNC gene symbols. When working with SBML files directly, use the suffix to distinguish molecular species of the same gene.</p>
+
+  <h3>Network centrality CSV</h3>
+  <p>Columns: <code>gene, degree_centrality, betweenness_centrality, closeness_centrality, eigenvector_centrality, pagerank, harmonic_centrality, centrality_rank</code></p>
+
+  <h3>Pathway enrichment Excel (.xlsx)</h3>
+  <p>Sheet <code>PathwayEnrichmentResults_Top30</code> with columns: <code>id, geneSet, link, size, overlap, expect, enrichmentRatio, pValue, FDR, gene_count, genes</code>. The <code>genes</code> column contains semicolon-separated gene symbols.</p>
+
+  <h3>Cell&ndash;cell interaction CSV</h3>
+  <p>Columns: <code>Ligand, Ligand UniprotID, Ligand CellType, Receptor, Receptor UniprotID, Receptor CellType, evidence, annotation, interaction_name</code></p>
+
+  <h3>miRNA&ndash;target interaction CSV</h3>
+  <p>Columns: <code>miRNA, Target Gene, Interaction Type, Prediction Score, Experiment, Reference (PMID)</code></p>
+
+  <h3>JSON indices (web app)</h3>
+  <p>The Gene Search and Pathway Explorer pages are powered by two JSON indices:</p>
+  <ul>
+    <li><code>gene-index.json</code> &mdash; per-gene summary aggregating cell types, centrality, CCI role, miRNA regulation, and pathways</li>
+    <li><code>pathway-index.json</code> &mdash; per-pathway summary with cell-type-specific enrichment statistics and gene lists</li>
+  </ul>
+  <p>These are generated from the source data files and can be regenerated using the build script.</p>
+
+  <!-- 6. FAQ -->
+  <h2 id="faq">6. FAQ</h2>
+
+  <h3>What does the _g / _p / _rna suffix mean?</h3>
+  <p>In the SBML models, each gene can appear as multiple molecular species &mdash; for example, TP53 as a gene (<code>TP53_g</code>), as a protein (<code>TP53_p</code>), or as an RNA transcript (<code>TP53_rna</code>). The Dynamic DKDM web app and Gene Search display clean gene symbols without these suffixes. When working with raw SBML files, the suffix tells you which molecular form of the gene that node represents.</p>
+
+  <h3>Why are some pathways missing gene lists?</h3>
+  <p>One cell type (B Cell) has pathway enrichment results without gene-level overlap data in the source file. For this cell type, pathway names and statistics are available, but the gene list is empty. All other cell types include full gene lists.</p>
+
+  <h3>How were the 24 cell types chosen?</h3>
+  <p>The cell types were identified from the KPMP single-cell RNA sequencing atlas of over 100,000 human kidney cells, covering both the nephron (from podocytes to collecting duct) and the interstitial/vascular compartments. They represent the major cell populations relevant to DKD pathology.</p>
+
+  <h3>Can I use the ODE models for quantitative simulation?</h3>
+  <p>The models are parametric &mdash; they encode the structural logic of each cell type's signaling network with biologically plausible parameter ranges, not fixed values calibrated to time-series data. They are suitable for structural analysis, sensitivity analysis, and qualitative perturbation studies. For quantitative simulation, you would need to calibrate parameters using your own experimental data.</p>
+
+  <h3>How do I cite DKDM?</h3>
+  <p>Please cite: Kiyanpour F, et al. DKDM: A Multi-Scale Digital Resource for Diabetic Kidney Disease. The full citation will be announced here once the manuscript is published.</p>
+
+  <h3>Is the data freely available?</h3>
+  <p>Yes. All data are publicly available on FAIRDOMHub and GitHub under FAIR principles. The MINERVA map, Dynamic DKDM app, and all downloadable files are free to use for research purposes.</p>
+
+  <h3>How do I report an issue or suggest an improvement?</h3>
+  <p>Please use the <a href="https://github.com/dkd-map/dkd-map.github.io" target="_blank" rel="noopener">GitHub repository</a> to file issues or contact the team directly.</p>
+
+  </div>
+</section>
+
+</main>
+
+<script src="js/data.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/main.js"></script>
+<script>window.PAGE="documentation"; DKDMLayout.mount();</script>
+</body>
+</html>

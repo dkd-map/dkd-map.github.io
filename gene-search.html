@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gene Search — DKDM</title>
+  <meta name="description" content="Search for any gene across 24 kidney cell types in the Diabetic Kidney Disease Map.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main>
+
+<section class="page-head container">
+  <p class="eyebrow">Explore</p>
+  <h1>Gene Search</h1>
+  <p class="muted" style="max-width:760px;margin-top:4px">Search for any gene to see which kidney cell types contain it, its network centrality rank, cell&ndash;cell communication role, miRNA regulators, and associated pathways. Every gene symbol links to external databases for further investigation.</p>
+</section>
+
+<section class="container section" style="padding-top:8px">
+  <div class="gene-search-wrap">
+    <div class="gene-search-bar">
+      <input type="text" id="geneInput" placeholder="Enter a gene symbol (e.g. TP53, AKT1, VEGFA)…" autocomplete="off" spellcheck="false">
+      <button class="btn btn-primary btn-sm" id="geneSearchBtn">Search</button>
+    </div>
+    <div id="geneAutocomplete" class="gene-autocomplete"></div>
+  </div>
+
+  <div id="geneResults" class="gene-results"></div>
+  <div id="genePlaceholder" class="gene-placeholder">
+    <p class="muted" style="text-align:center;padding:40px 0">Start by typing a gene symbol above. Try <strong>TP53</strong>, <strong>AKT1</strong>, <strong>MAPK1</strong>, or <strong>NPHS1</strong>.</p>
+  </div>
+</section>
+
+</main>
+
+<script src="js/data.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/main.js"></script>
+<script src="js/gene-search.js"></script>
+<script>window.PAGE="explore"; DKDMLayout.mount();</script>
+</body>
+</html>

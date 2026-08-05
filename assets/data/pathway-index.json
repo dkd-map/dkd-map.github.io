@@ -1,0 +1,7435 @@
+{
+ "CLEC7A/inflammasome pathway": {
+  "B Cell": {
+   "pvalue": 0.001102332,
+   "fdr": 0.010801587,
+   "genes": [],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 0.0014061494321098,
+   "fdr": 0.0131729933063034,
+   "genes": [
+    "PYCARD",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.0011749087734836,
+   "fdr": 0.0134974356854459,
+   "genes": [
+    "NFKB1",
+    "PYCARD"
+   ],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 2.94578853754501e-07,
+   "fdr": 9.13194446638954e-06,
+   "genes": [
+    "IL1B",
+    "NFKB1",
+    "PYCARD",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.0013008791078581,
+   "fdr": 0.0136913511043094,
+   "genes": [
+    "PYCARD",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.000941786505028741,
+   "fdr": 0.0123518922390307,
+   "genes": [
+    "NFKB1",
+    "PYCARD"
+   ],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 2.7280791721207e-05,
+   "fdr": 0.000442988094139599,
+   "genes": [
+    "IL1B",
+    "NFKB1",
+    "PYCARD"
+   ],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 2.46204738763022e-05,
+   "fdr": 0.000435511988925137,
+   "genes": [
+    "NFKB1",
+    "PYCARD",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.0011749087734836,
+   "fdr": 0.0187216771849504,
+   "genes": [
+    "NFKB1",
+    "PYCARD"
+   ],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.0015999446281327,
+   "fdr": 0.0154994635850358,
+   "genes": [
+    "NFKB1",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.000941786505028741,
+   "fdr": 0.0123518922390307,
+   "genes": [
+    "NFKB1",
+    "PYCARD"
+   ],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  },
+  "Plasma Cell": {
+   "pvalue": 0.000469904421565692,
+   "fdr": 0.0080927983714091,
+   "genes": [
+    "PYCARD",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  },
+  "T Cell": {
+   "pvalue": 0.0011996024559172,
+   "fdr": 0.012222247686099,
+   "genes": [
+    "NFKB1",
+    "PYCARD"
+   ],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.000941786505028741,
+   "fdr": 0.0123518922390307,
+   "genes": [
+    "NFKB1",
+    "PYCARD"
+   ],
+   "geneSet": "R-HSA-5660668",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5660668"
+  }
+ },
+ "Cross-presentation of particulate exogenous antigens (phagosomes)": {
+  "B Cell": {
+   "pvalue": 3.48e-05,
+   "fdr": 0.000697892,
+   "genes": [],
+   "geneSet": "R-HSA-1236973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1236973"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 9.12139446100912e-05,
+   "fdr": 0.0010875508780433,
+   "genes": [
+    "CYBA",
+    "CYBB",
+    "NCF1"
+   ],
+   "geneSet": "R-HSA-1236973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1236973"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 6.78456841473051e-05,
+   "fdr": 0.000978077194518821,
+   "genes": [
+    "CYBA",
+    "CYBB",
+    "NCF1"
+   ],
+   "geneSet": "R-HSA-1236973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1236973"
+  },
+  "Plasma Cell": {
+   "pvalue": 0.00087074884453131,
+   "fdr": 0.0133750160353683,
+   "genes": [
+    "CYBA",
+    "NCF1"
+   ],
+   "geneSet": "R-HSA-1236973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1236973"
+  },
+  "T Cell": {
+   "pvalue": 0.0022128178631305,
+   "fdr": 0.0199621928922623,
+   "genes": [
+    "CYBA",
+    "NCF1"
+   ],
+   "geneSet": "R-HSA-1236973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1236973"
+  }
+ },
+ "DEx/H-box helicases activate type I IFN and inflammatory cytokines production": {
+  "B Cell": {
+   "pvalue": 0.001534511,
+   "fdr": 0.01384308,
+   "genes": [],
+   "geneSet": "R-HSA-3134963",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134963"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.001809985442657,
+   "fdr": 0.017634429598459,
+   "genes": [
+    "NFKB2",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-3134963",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134963"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.0013116027048574,
+   "fdr": 0.0155297403595965,
+   "genes": [
+    "MYD88",
+    "NFKB1"
+   ],
+   "geneSet": "R-HSA-3134963",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134963"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 0.0025518363562846,
+   "fdr": 0.0194235758368987,
+   "genes": [
+    "NFKB1",
+    "NFKB2"
+   ],
+   "geneSet": "R-HSA-3134963",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134963"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 0.0023854889847254,
+   "fdr": 0.0190951113566052,
+   "genes": [
+    "NFKB1",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-3134963",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134963"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.0013116027048574,
+   "fdr": 0.0155297403595965,
+   "genes": [
+    "MYD88",
+    "NFKB1"
+   ],
+   "geneSet": "R-HSA-3134963",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134963"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.0013116027048574,
+   "fdr": 0.0155297403595965,
+   "genes": [
+    "MYD88",
+    "NFKB1"
+   ],
+   "geneSet": "R-HSA-3134963",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134963"
+  }
+ },
+ "Erythropoietin activates Phosphoinositide-3-kinase (PI3K)": {
+  "B Cell": {
+   "pvalue": 0.000100583,
+   "fdr": 0.001559043,
+   "genes": [],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.0043573960882568,
+   "fdr": 0.0395178740982864,
+   "genes": [
+    "JAK2",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 0.000144860525323808,
+   "fdr": 0.0021291999627335,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.000110673922745885,
+   "fdr": 0.0019656149821014,
+   "genes": [
+    "IRS2",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 6.18443012767588e-06,
+   "fdr": 0.000121200613421694,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  },
+  "Mesangial Cell": {
+   "pvalue": 7.94265786427939e-05,
+   "fdr": 0.0018808655081383,
+   "genes": [
+    "IRS2",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 4.77225745698639e-06,
+   "fdr": 0.000108489319522157,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 0.000195178494644121,
+   "fdr": 0.0023271282053722,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "PIK3CA"
+   ],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  },
+  "Pericyte Cell": {
+   "pvalue": 7.94265786427939e-05,
+   "fdr": 0.0018808655081383,
+   "genes": [
+    "IRS2",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.000128923620684728,
+   "fdr": 0.0024423863696384,
+   "genes": [
+    "JAK2",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  },
+  "Principal Cell": {
+   "pvalue": 2.19540759660574e-06,
+   "fdr": 0.000129074825938372,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.00011417885191145,
+   "fdr": 0.0022122152557843,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 7.94265786427939e-05,
+   "fdr": 0.0018808655081383,
+   "genes": [
+    "IRS2",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.000125127330950602,
+   "fdr": 0.0021334209927077,
+   "genes": [
+    "JAK2",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9027276",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027276"
+  }
+ },
+ "Growth hormone receptor signaling": {
+  "B Cell": {
+   "pvalue": 4.42e-08,
+   "fdr": 5.38e-06,
+   "genes": [],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  },
+  "Endothelial Cell": {
+   "pvalue": 2.5401294401206e-09,
+   "fdr": 2.70682543462852e-07,
+   "genes": [
+    "IRS1",
+    "MAPK1",
+    "SOCS1",
+    "SOCS3",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 4.37203606651337e-11,
+   "fdr": 1.49086429868106e-08,
+   "genes": [
+    "IRS1",
+    "IRS2",
+    "JAK2",
+    "MAPK1",
+    "PTPN6",
+    "SOCS1",
+    "STAT1",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 5.35903560416883e-08,
+   "fdr": 7.61429642092322e-06,
+   "genes": [
+    "IRS1",
+    "IRS2",
+    "MAPK1",
+    "SOCS1",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 4.46576109425223e-12,
+   "fdr": 5.07608177713336e-10,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "MAPK1",
+    "PTPN6",
+    "SOCS1",
+    "SOCS3",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  },
+  "Mesangial Cell": {
+   "pvalue": 2.73672416950532e-08,
+   "fdr": 5.83264338625821e-06,
+   "genes": [
+    "IRS2",
+    "MAPK1",
+    "SOCS1",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 2.46258569092106e-12,
+   "fdr": 8.39741720604081e-10,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "MAPK1",
+    "PTPN6",
+    "SOCS1",
+    "SOCS3",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 1.79967152291737e-12,
+   "fdr": 3.83554993321766e-10,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "MAPK1",
+    "PTPN6",
+    "SOCS1",
+    "SOCS3",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  },
+  "Pericyte Cell": {
+   "pvalue": 2.73672416950532e-08,
+   "fdr": 5.83264338625821e-06,
+   "genes": [
+    "IRS2",
+    "MAPK1",
+    "SOCS1",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  },
+  "Plasma Cell": {
+   "pvalue": 9.21484748128698e-06,
+   "fdr": 0.000424630133934981,
+   "genes": [
+    "PTPN6",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  },
+  "Principal Cell": {
+   "pvalue": 1.45845324706073e-09,
+   "fdr": 2.40871073087234e-07,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "MAPK1",
+    "PTPN6",
+    "SOCS1",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 5.70790386067443e-08,
+   "fdr": 9.73197608244991e-06,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "PTPN6",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  },
+  "T Cell": {
+   "pvalue": 1.26011845402729e-09,
+   "fdr": 2.12414686950879e-07,
+   "genes": [
+    "MAPK1",
+    "PTPN6",
+    "SOCS1",
+    "SOCS3",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 2.73672416950532e-08,
+   "fdr": 5.83264338625821e-06,
+   "genes": [
+    "IRS2",
+    "MAPK1",
+    "SOCS1",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-982772",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-982772"
+  }
+ },
+ "IkBA variant leads to EDA-ID": {
+  "B Cell": {
+   "pvalue": 2.19e-05,
+   "fdr": 0.000476405,
+   "genes": [],
+   "geneSet": "R-HSA-5603029",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5603029"
+  },
+  "Endothelial Cell": {
+   "pvalue": 0.0020309961549394,
+   "fdr": 0.0184194066179344,
+   "genes": [
+    "IKBKB",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-5603029",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5603029"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 0.0019559593949394,
+   "fdr": 0.0165915958625458,
+   "genes": [
+    "NFKB2",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-5603029",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5603029"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 5.75146634095302e-05,
+   "fdr": 0.000766113289947258,
+   "genes": [
+    "IKBKB",
+    "NFKB1",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-5603029",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5603029"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 2.8113270860941e-05,
+   "fdr": 0.000887650496627861,
+   "genes": [
+    "IKBKB",
+    "NFKB2",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-5603029",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5603029"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 4.73482556151427e-05,
+   "fdr": 0.000678393074149734,
+   "genes": [
+    "IKBKB",
+    "NFKB1",
+    "NFKB2"
+   ],
+   "geneSet": "R-HSA-5603029",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5603029"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 4.27432502390079e-05,
+   "fdr": 0.00065655172664422,
+   "genes": [
+    "IKBKB",
+    "NFKB1",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-5603029",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5603029"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.0016352325414483,
+   "fdr": 0.022853044944012,
+   "genes": [
+    "IKBKB",
+    "NFKB1"
+   ],
+   "geneSet": "R-HSA-5603029",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5603029"
+  },
+  "Principal Cell": {
+   "pvalue": 0.0017390536491741,
+   "fdr": 0.0155240129415807,
+   "genes": [
+    "IKBKB",
+    "NFKB2"
+   ],
+   "geneSet": "R-HSA-5603029",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5603029"
+  },
+  "T Cell": {
+   "pvalue": 0.0016694955818834,
+   "fdr": 0.0160818642209677,
+   "genes": [
+    "IKBKB",
+    "NFKB1"
+   ],
+   "geneSet": "R-HSA-5603029",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5603029"
+  }
+ },
+ "Inflammasomes": {
+  "B Cell": {
+   "pvalue": 6.31e-07,
+   "fdr": 3.16e-05,
+   "genes": [],
+   "geneSet": "R-HSA-622312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-622312"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 1.1632368943637e-06,
+   "fdr": 4.72218786878599e-05,
+   "genes": [
+    "BCL2",
+    "NFKB2",
+    "PYCARD",
+    "RELA",
+    "TXN"
+   ],
+   "geneSet": "R-HSA-622312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-622312"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 9.10921327257341e-08,
+   "fdr": 3.52982014312219e-06,
+   "genes": [
+    "BCL2",
+    "NFKB1",
+    "PYCARD",
+    "RELA",
+    "TXN",
+    "TXNIP"
+   ],
+   "geneSet": "R-HSA-622312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-622312"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 6.17117670298483e-08,
+   "fdr": 2.63046406964728e-06,
+   "genes": [
+    "BCL2",
+    "NFKB1",
+    "NFKB2",
+    "PYCARD",
+    "TXN",
+    "TXNIP"
+   ],
+   "geneSet": "R-HSA-622312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-622312"
+  },
+  "Parietal Cell": {
+   "pvalue": 1.60769521784231e-06,
+   "fdr": 0.000114213347767548,
+   "genes": [
+    "BCL2",
+    "NFKB1",
+    "RELA",
+    "TXN",
+    "TXNIP"
+   ],
+   "geneSet": "R-HSA-622312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-622312"
+  },
+  "Plasma Cell": {
+   "pvalue": 4.27358468335636e-06,
+   "fdr": 0.000227701933910081,
+   "genes": [
+    "BCL2",
+    "PYCARD",
+    "RELA",
+    "TXN"
+   ],
+   "geneSet": "R-HSA-622312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-622312"
+  },
+  "T Cell": {
+   "pvalue": 7.80562276592178e-07,
+   "fdr": 3.24599678436503e-05,
+   "genes": [
+    "BCL2",
+    "NFKB1",
+    "PYCARD",
+    "TXN",
+    "TXNIP"
+   ],
+   "geneSet": "R-HSA-622312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-622312"
+  }
+ },
+ "Interleukin-27 signaling": {
+  "B Cell": {
+   "pvalue": 1.7e-06,
+   "fdr": 7.45e-05,
+   "genes": [],
+   "geneSet": "R-HSA-9020956",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020956"
+  },
+  "Connecting Tubule Cell": {
+   "pvalue": 0.000125127330950602,
+   "fdr": 0.0034974114634553,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-9020956",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020956"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.000117755615583581,
+   "fdr": 0.0026417542706579,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-9020956",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020956"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 6.18443012767588e-06,
+   "fdr": 0.000121200613421694,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-9020956",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020956"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 4.77225745698639e-06,
+   "fdr": 0.000108489319522157,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-9020956",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020956"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 4.16369155065154e-06,
+   "fdr": 0.000114501517642917,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-9020956",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020956"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.000110673922745885,
+   "fdr": 0.003472502225245,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-9020956",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020956"
+  },
+  "Plasma Cell": {
+   "pvalue": 2.79134431084848e-05,
+   "fdr": 0.00091523885576859,
+   "genes": [
+    "JAK1",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-9020956",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020956"
+  },
+  "Podocyte Cell": {
+   "pvalue": 2.38062954549533e-06,
+   "fdr": 0.00013562899506601,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-9020956",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020956"
+  },
+  "Principal Cell": {
+   "pvalue": 0.000121404885309539,
+   "fdr": 0.0022020779729017,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-9020956",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020956"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 2.02111861447029e-06,
+   "fdr": 0.00012762989769155,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-9020956",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020956"
+  },
+  "T Cell": {
+   "pvalue": 0.00011417885191145,
+   "fdr": 0.0019085778677355,
+   "genes": [
+    "JAK1",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-9020956",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020956"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.000125127330950602,
+   "fdr": 0.0021334209927077,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-9020956",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020956"
+  }
+ },
+ "Interleukin-6 signaling": {
+  "B Cell": {
+   "pvalue": 2e-08,
+   "fdr": 3.1e-06,
+   "genes": [],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  },
+  "Endothelial Cell": {
+   "pvalue": 3.00630561900216e-06,
+   "fdr": 8.68771369559101e-05,
+   "genes": [
+    "IL6",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 1.01709155542195e-07,
+   "fdr": 3.6226958017906e-06,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  },
+  "Mesangial Cell": {
+   "pvalue": 1.23915444016908e-06,
+   "fdr": 7.82503081662331e-05,
+   "genes": [
+    "JAK1",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 7.33466243296732e-08,
+   "fdr": 2.88404695153454e-06,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 6.17534916536044e-08,
+   "fdr": 3.50965677564651e-06,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  },
+  "Parietal Cell": {
+   "pvalue": 3.61470986309786e-06,
+   "fdr": 0.000228262233947476,
+   "genes": [
+    "JAK1",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  },
+  "Pericyte Cell": {
+   "pvalue": 1.23915444016908e-06,
+   "fdr": 7.82503081662331e-05,
+   "genes": [
+    "JAK1",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  },
+  "Plasma Cell": {
+   "pvalue": 3.02432829890619e-07,
+   "fdr": 2.45546654744527e-05,
+   "genes": [
+    "JAK1",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  },
+  "Podocyte Cell": {
+   "pvalue": 3.05108128761943e-08,
+   "fdr": 3.46806239692742e-06,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  },
+  "Principal Cell": {
+   "pvalue": 2.19540759660574e-06,
+   "fdr": 0.000129074825938372,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  },
+  "T Cell": {
+   "pvalue": 2.02111861447029e-06,
+   "fdr": 7.49132008189533e-05,
+   "genes": [
+    "JAK1",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 1.23915444016908e-06,
+   "fdr": 7.82503081662331e-05,
+   "genes": [
+    "JAK1",
+    "SOCS3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 2.28662479617725e-06,
+   "fdr": 9.99665455764669e-05,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-1059683",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1059683"
+  }
+ },
+ "Interleukin-9 signaling": {
+  "B Cell": {
+   "pvalue": 5.19e-05,
+   "fdr": 0.000949912,
+   "genes": [],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Connecting Tubule Cell": {
+   "pvalue": 0.003004711501966,
+   "fdr": 0.0303679190798684,
+   "genes": [
+    "JAK1",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.0028864849054024,
+   "fdr": 0.0289497456688892,
+   "genes": [
+    "JAK1",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Endothelial Cell": {
+   "pvalue": 7.91905143604498e-05,
+   "fdr": 0.0013501982698456,
+   "genes": [
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.0031862937556121,
+   "fdr": 0.025386125482798,
+   "genes": [
+    "JAK1",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 2.40592579769938e-06,
+   "fdr": 5.61931984257184e-05,
+   "genes": [
+    "JAK1",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 6.65461393546396e-05,
+   "fdr": 0.0015440157699831,
+   "genes": [
+    "JAK1",
+    "STAT1",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Mesangial Cell": {
+   "pvalue": 4.09099413855029e-05,
+   "fdr": 0.0011434663944636,
+   "genes": [
+    "JAK1",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 2.03685758259908e-08,
+   "fdr": 1.08526318072857e-06,
+   "genes": [
+    "JAK1",
+    "JAK3",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 1.61683813115764e-06,
+   "fdr": 5.20133776155432e-05,
+   "genes": [
+    "JAK1",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.0027705282664296,
+   "fdr": 0.0342300774946561,
+   "genes": [
+    "JAK1",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Parietal Cell": {
+   "pvalue": 9.0856458118016e-05,
+   "fdr": 0.0016838071857741,
+   "genes": [
+    "JAK1",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Pericyte Cell": {
+   "pvalue": 4.09099413855029e-05,
+   "fdr": 0.0011434663944636,
+   "genes": [
+    "JAK1",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Plasma Cell": {
+   "pvalue": 1.16460898369474e-07,
+   "fdr": 1.16803430423502e-05,
+   "genes": [
+    "JAK1",
+    "JAK3",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Podocyte Cell": {
+   "pvalue": 6.65461393546396e-05,
+   "fdr": 0.0014735216571384,
+   "genes": [
+    "JAK1",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 7.82568820301143e-07,
+   "fdr": 6.3537135172069e-05,
+   "genes": [
+    "JAK1",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "T Cell": {
+   "pvalue": 6.86695167395612e-09,
+   "fdr": 9.00627123391937e-07,
+   "genes": [
+    "JAK1",
+    "JAK3",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 4.09099413855029e-05,
+   "fdr": 0.0011434663944636,
+   "genes": [
+    "JAK1",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-8985947",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8985947"
+  }
+ },
+ "LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production": {
+  "B Cell": {
+   "pvalue": 6.33e-06,
+   "fdr": 0.000192793,
+   "genes": [],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Endothelial Cell": {
+   "pvalue": 0.000979943703379282,
+   "fdr": 0.0104366832164337,
+   "genes": [
+    "CTNNB1",
+    "EP300"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 8.64537339717586e-06,
+   "fdr": 0.000263220743610443,
+   "genes": [
+    "CTNNB1",
+    "EP300",
+    "IRF3"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 6.97640403990451e-06,
+   "fdr": 0.0002703356565463,
+   "genes": [
+    "CTNNB1",
+    "EP300",
+    "IRF3"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 1.672596678981e-05,
+   "fdr": 0.000279586013496335,
+   "genes": [
+    "CTNNB1",
+    "EP300",
+    "IRF3"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.000872644786142906,
+   "fdr": 0.0096614244180107,
+   "genes": [
+    "CTNNB1",
+    "EP300"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.000631161866618157,
+   "fdr": 0.009276991229172,
+   "genes": [
+    "CTNNB1",
+    "EP300"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 1.37537063227277e-05,
+   "fdr": 0.000269541026209779,
+   "genes": [
+    "CTNNB1",
+    "EP300",
+    "IRF3"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 1.24089471361665e-05,
+   "fdr": 0.000265816833821978,
+   "genes": [
+    "CTNNB1",
+    "EP300",
+    "IRF3"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.000787893055359534,
+   "fdr": 0.01343357659388,
+   "genes": [
+    "CTNNB1",
+    "IRF3"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Parietal Cell": {
+   "pvalue": 1.11543630972876e-05,
+   "fdr": 0.000463574780766809,
+   "genes": [
+    "CTNNB1",
+    "EP300",
+    "IRF3"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.000631161866618157,
+   "fdr": 0.009276991229172,
+   "genes": [
+    "CTNNB1",
+    "EP300"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Plasma Cell": {
+   "pvalue": 0.000314420538009341,
+   "fdr": 0.0057030533755949,
+   "genes": [
+    "CTNNB1",
+    "IRF3"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.000872644786142906,
+   "fdr": 0.009919062402491,
+   "genes": [
+    "CTNNB1",
+    "EP300"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Principal Cell": {
+   "pvalue": 0.000838234495769585,
+   "fdr": 0.0091031198425932,
+   "genes": [
+    "CTNNB1",
+    "EP300"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "T Cell": {
+   "pvalue": 7.2004191435937e-06,
+   "fdr": 0.000198011526448826,
+   "genes": [
+    "CTNNB1",
+    "EP300",
+    "IRF3"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.000631161866618157,
+   "fdr": 0.009276991229172,
+   "genes": [
+    "CTNNB1",
+    "EP300"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 7.9009928921625e-06,
+   "fdr": 0.000236336717212931,
+   "genes": [
+    "CTNNB1",
+    "EP300",
+    "IRF3"
+   ],
+   "geneSet": "R-HSA-3134973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3134973"
+  }
+ },
+ "MAPK1 (ERK2) activation": {
+  "B Cell": {
+   "pvalue": 0.002600863,
+   "fdr": 0.021526563,
+   "genes": [],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Connecting Tubule Cell": {
+   "pvalue": 6.45774251267772e-05,
+   "fdr": 0.0022754975469103,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.0028864849054024,
+   "fdr": 0.0289497456688892,
+   "genes": [
+    "JAK1",
+    "JAK2"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.0031862937556121,
+   "fdr": 0.025386125482798,
+   "genes": [
+    "JAK1",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 0.000135617954016398,
+   "fdr": 0.0015415240773197,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.0030646740603866,
+   "fdr": 0.0262576345374839,
+   "genes": [
+    "JAK1",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.0022250162428899,
+   "fdr": 0.0241633929562253,
+   "genes": [
+    "JAK1",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 0.000111773380273572,
+   "fdr": 0.0013863809586911,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 0.000100960107155323,
+   "fdr": 0.0013244429451766,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.0027705282664296,
+   "fdr": 0.0342300774946561,
+   "genes": [
+    "JAK1",
+    "JAK2"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.0037613873044337,
+   "fdr": 0.0296905803428683,
+   "genes": [
+    "JAK1",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.0022250162428899,
+   "fdr": 0.0241633929562253,
+   "genes": [
+    "JAK1",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Podocyte Cell": {
+   "pvalue": 6.65461393546396e-05,
+   "fdr": 0.0014735216571384,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Principal Cell": {
+   "pvalue": 6.26473751649259e-05,
+   "fdr": 0.0012566326430141,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.0028282224460813,
+   "fdr": 0.0263503785276981,
+   "genes": [
+    "JAK1",
+    "JAK2"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.0022250162428899,
+   "fdr": 0.0241633929562253,
+   "genes": [
+    "JAK1",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 6.45774251267772e-05,
+   "fdr": 0.0012953471746018,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-112411",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112411"
+  }
+ },
+ "MET activates PI3K/AKT signaling": {
+  "B Cell": {
+   "pvalue": 0.001102332,
+   "fdr": 0.010801587,
+   "genes": [],
+   "geneSet": "R-HSA-8851907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8851907"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.0013530158439518,
+   "fdr": 0.0140529959897009,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-8851907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8851907"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.0011749087734836,
+   "fdr": 0.0134974356854459,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-8851907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8851907"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 0.002088329632218,
+   "fdr": 0.0154808783605729,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-8851907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8851907"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.000941786505028741,
+   "fdr": 0.0123518922390307,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-8851907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8851907"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 0.0018362683275219,
+   "fdr": 0.0146300817683405,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-8851907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8851907"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.000941786505028741,
+   "fdr": 0.0123518922390307,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-8851907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8851907"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.0013008791078581,
+   "fdr": 0.0138624929931133,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-8851907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8851907"
+  },
+  "Principal Cell": {
+   "pvalue": 0.0012497407895022,
+   "fdr": 0.012388418872682,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-8851907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8851907"
+  },
+  "T Cell": {
+   "pvalue": 0.0011996024559172,
+   "fdr": 0.012222247686099,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-8851907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8851907"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.000941786505028741,
+   "fdr": 0.0123518922390307,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-8851907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8851907"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.0012751850485552,
+   "fdr": 0.0110928087131977,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-8851907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8851907"
+  }
+ },
+ "NF-kB is activated and signals survival": {
+  "B Cell": {
+   "pvalue": 3.64e-06,
+   "fdr": 0.000119421,
+   "genes": [],
+   "geneSet": "R-HSA-209560",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-209560"
+  },
+  "Endothelial Cell": {
+   "pvalue": 0.000261838389088664,
+   "fdr": 0.0036295484015949,
+   "genes": [
+    "IKBKB",
+    "RELA",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-209560",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-209560"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 2.77904166123832e-07,
+   "fdr": 8.8767826364672e-06,
+   "genes": [
+    "IKBKB",
+    "IRAK1",
+    "NFKB1",
+    "RELA",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-209560",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-209560"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.000220406449245924,
+   "fdr": 0.003757929959643,
+   "genes": [
+    "IKBKB",
+    "RELA",
+    "TRAF6"
+   ],
+   "geneSet": "R-HSA-209560",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-209560"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 1.01607144258331e-05,
+   "fdr": 0.000203811977600534,
+   "genes": [
+    "IKBKB",
+    "IRAK1",
+    "NFKB1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-209560",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-209560"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 8.87040369268454e-06,
+   "fdr": 0.000210056087444821,
+   "genes": [
+    "IKBKB",
+    "IRAK1",
+    "NFKB1",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-209560",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-209560"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 4.14120658276395e-06,
+   "fdr": 0.000353037861180627,
+   "genes": [
+    "IKBKB",
+    "IRAK1",
+    "NFKB1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-209560",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-209560"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.000299984102588801,
+   "fdr": 0.0040593086897929,
+   "genes": [
+    "NFKB1",
+    "RELA",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-209560",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-209560"
+  },
+  "Plasma Cell": {
+   "pvalue": 4.79926378946782e-05,
+   "fdr": 0.001341433567384,
+   "genes": [
+    "IRAK1",
+    "RELA",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-209560",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-209560"
+  }
+ },
+ "PI3K/AKT activation": {
+  "B Cell": {
+   "pvalue": 5.19e-05,
+   "fdr": 0.000949912,
+   "genes": [],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Connecting Tubule Cell": {
+   "pvalue": 0.003004711501966,
+   "fdr": 0.0303679190798684,
+   "genes": [
+    "PIK3CA",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.0028864849054024,
+   "fdr": 0.0289497456688892,
+   "genes": [
+    "PIK3R1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Endothelial Cell": {
+   "pvalue": 7.91905143604498e-05,
+   "fdr": 0.0013501982698456,
+   "genes": [
+    "IRS1",
+    "PIK3R1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 7.48148384522862e-05,
+   "fdr": 0.0012983536094508,
+   "genes": [
+    "IRS1",
+    "IRS2",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 7.50247909131474e-07,
+   "fdr": 6.39586342534581e-05,
+   "genes": [
+    "IRS1",
+    "IRS2",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 2.40592579769938e-06,
+   "fdr": 5.61931984257184e-05,
+   "genes": [
+    "IRS2",
+    "PIK3CA",
+    "PIK3R1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Mesangial Cell": {
+   "pvalue": 4.78992517427556e-07,
+   "fdr": 5.83344458724274e-05,
+   "genes": [
+    "IRS2",
+    "PIK3CA",
+    "PIK3R1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 1.85428577237356e-06,
+   "fdr": 4.71874215208496e-05,
+   "genes": [
+    "IRS2",
+    "PIK3CA",
+    "PIK3R1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.0037613873044337,
+   "fdr": 0.0296905803428683,
+   "genes": [
+    "PIK3R1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Pericyte Cell": {
+   "pvalue": 4.78992517427556e-07,
+   "fdr": 5.83344458724274e-05,
+   "genes": [
+    "IRS2",
+    "PIK3CA",
+    "PIK3R1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Plasma Cell": {
+   "pvalue": 0.0011154410285172,
+   "fdr": 0.0154620077530235,
+   "genes": [
+    "PIK3CA",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Podocyte Cell": {
+   "pvalue": 6.65461393546396e-05,
+   "fdr": 0.0014735216571384,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Principal Cell": {
+   "pvalue": 6.26473751649259e-05,
+   "fdr": 0.0012566326430141,
+   "genes": [
+    "IRS2",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 5.89018228029925e-05,
+   "fdr": 0.0012827095012937,
+   "genes": [
+    "IRS2",
+    "PIK3R1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "T Cell": {
+   "pvalue": 5.89018228029925e-05,
+   "fdr": 0.0010780218149171,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 4.78992517427556e-07,
+   "fdr": 5.83344458724274e-05,
+   "genes": [
+    "IRS2",
+    "PIK3CA",
+    "PIK3R1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 6.45774251267772e-05,
+   "fdr": 0.0012953471746018,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-198203",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198203"
+  }
+ },
+ "PTK6 Expression": {
+  "B Cell": {
+   "pvalue": 0.000739083,
+   "fdr": 0.007826933,
+   "genes": [],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  },
+  "Connecting Tubule Cell": {
+   "pvalue": 0.000855354774179417,
+   "fdr": 0.0122552931930748,
+   "genes": [
+    "HIF1A",
+    "NR3C1"
+   ],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.000907733613532357,
+   "fdr": 0.010673695248777,
+   "genes": [
+    "HIF1A",
+    "NR3C1"
+   ],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 0.00094350018382805,
+   "fdr": 0.0096327413977654,
+   "genes": [
+    "HIF1A",
+    "NR3C1"
+   ],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 0.0014032722063873,
+   "fdr": 0.0111802762237871,
+   "genes": [
+    "HIF1A",
+    "NR3C1"
+   ],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.000872644786142906,
+   "fdr": 0.0096614244180107,
+   "genes": [
+    "HIF1A",
+    "NR3C1"
+   ],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.000631161866618157,
+   "fdr": 0.009276991229172,
+   "genes": [
+    "HIF1A",
+    "NR3C1"
+   ],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 0.001152295531683,
+   "fdr": 0.0101271334098949,
+   "genes": [
+    "HIF1A",
+    "NR3C1"
+   ],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.0010740089510531,
+   "fdr": 0.0118140984615845,
+   "genes": [
+    "HIF1A",
+    "NR3C1"
+   ],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.000631161866618157,
+   "fdr": 0.009276991229172,
+   "genes": [
+    "HIF1A",
+    "NR3C1"
+   ],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.000872644786142906,
+   "fdr": 0.009919062402491,
+   "genes": [
+    "HIF1A",
+    "NR3C1"
+   ],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  },
+  "Principal Cell": {
+   "pvalue": 0.000838234495769585,
+   "fdr": 0.0091031198425932,
+   "genes": [
+    "HIF1A",
+    "NR3C1"
+   ],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  },
+  "T Cell": {
+   "pvalue": 0.000804503536981249,
+   "fdr": 0.0087928110932886,
+   "genes": [
+    "HIF1A",
+    "NR3C1"
+   ],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.000631161866618157,
+   "fdr": 0.009276991229172,
+   "genes": [
+    "HIF1A",
+    "NR3C1"
+   ],
+   "geneSet": "R-HSA-8849473",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849473"
+  }
+ },
+ "RHO GTPases Activate NADPH Oxidases": {
+  "B Cell": {
+   "pvalue": 5.5e-08,
+   "fdr": 6.25e-06,
+   "genes": [],
+   "geneSet": "R-HSA-5668599",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5668599"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 1.31513723113929e-05,
+   "fdr": 0.00022423089790925,
+   "genes": [
+    "CYBA",
+    "CYBB",
+    "NCF1",
+    "RAC1"
+   ],
+   "geneSet": "R-HSA-5668599",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5668599"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 1.69053879561786e-07,
+   "fdr": 7.58518064875912e-06,
+   "genes": [
+    "CYBA",
+    "CYBB",
+    "NCF1",
+    "PIK3C3",
+    "RAC1"
+   ],
+   "geneSet": "R-HSA-5668599",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5668599"
+  },
+  "Plasma Cell": {
+   "pvalue": 4.79926378946782e-05,
+   "fdr": 0.001341433567384,
+   "genes": [
+    "CYBA",
+    "NCF1",
+    "RAC1"
+   ],
+   "geneSet": "R-HSA-5668599",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5668599"
+  },
+  "T Cell": {
+   "pvalue": 4.31829613189993e-06,
+   "fdr": 0.000130570393728203,
+   "genes": [
+    "CYBA",
+    "NCF1",
+    "PIK3C3",
+    "RAC1"
+   ],
+   "geneSet": "R-HSA-5668599",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5668599"
+  }
+ },
+ "RSK activation": {
+  "B Cell": {
+   "pvalue": 0.001102332,
+   "fdr": 0.010801587,
+   "genes": [],
+   "geneSet": "R-HSA-444257",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-444257"
+  },
+  "Connecting Tubule Cell": {
+   "pvalue": 0.0012751850485552,
+   "fdr": 0.0164711402105057,
+   "genes": [
+    "MAPK1",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-444257",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-444257"
+  },
+  "Endothelial Cell": {
+   "pvalue": 0.0014602783080175,
+   "fdr": 0.014227282943828,
+   "genes": [
+    "MAPK1",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-444257",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-444257"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.0013530158439518,
+   "fdr": 0.0140529959897009,
+   "genes": [
+    "MAPK1",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-444257",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-444257"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 1.82016872645185e-05,
+   "fdr": 0.000449766330231943,
+   "genes": [
+    "MAPK1",
+    "PDPK1",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-444257",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-444257"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.0011749087734836,
+   "fdr": 0.0134974356854459,
+   "genes": [
+    "MAPK1",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-444257",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-444257"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 0.002088329632218,
+   "fdr": 0.0154808783605729,
+   "genes": [
+    "MAPK1",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-444257",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-444257"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 2.7280791721207e-05,
+   "fdr": 0.000442988094139599,
+   "genes": [
+    "MAPK1",
+    "PDPK1",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-444257",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-444257"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 2.46204738763022e-05,
+   "fdr": 0.000435511988925137,
+   "genes": [
+    "MAPK1",
+    "PDPK1",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-444257",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-444257"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.0015999446281327,
+   "fdr": 0.0154994635850358,
+   "genes": [
+    "MAPK1",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-444257",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-444257"
+  },
+  "Principal Cell": {
+   "pvalue": 0.0012497407895022,
+   "fdr": 0.012388418872682,
+   "genes": [
+    "MAPK1",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-444257",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-444257"
+  },
+  "T Cell": {
+   "pvalue": 0.0011996024559172,
+   "fdr": 0.012222247686099,
+   "genes": [
+    "MAPK1",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-444257",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-444257"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.0012751850485552,
+   "fdr": 0.0110928087131977,
+   "genes": [
+    "MAPK1",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-444257",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-444257"
+  }
+ },
+ "RUNX3 regulates CDKN1A transcription": {
+  "B Cell": {
+   "pvalue": 1.86e-07,
+   "fdr": 1.17e-05,
+   "genes": [],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Connecting Tubule Cell": {
+   "pvalue": 1.35801614398189e-09,
+   "fdr": 3.85902920914856e-07,
+   "genes": [
+    "CDKN1A",
+    "SMAD3",
+    "SMAD4",
+    "TGFB1",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 2.29872036183742e-07,
+   "fdr": 1.93584280743548e-05,
+   "genes": [
+    "CDKN1A",
+    "SMAD4",
+    "TGFB1",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Endothelial Cell": {
+   "pvalue": 1.92202487259152e-09,
+   "fdr": 2.70682543462852e-07,
+   "genes": [
+    "CDKN1A",
+    "SMAD3",
+    "SMAD4",
+    "TGFB1",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 2.81611954755511e-07,
+   "fdr": 1.65568407882119e-05,
+   "genes": [
+    "CDKN1A",
+    "SMAD3",
+    "SMAD4",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 3.04570236142609e-07,
+   "fdr": 1.62278828944734e-05,
+   "genes": [
+    "CDKN1A",
+    "SMAD4",
+    "TGFB1",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 2.11306497077679e-07,
+   "fdr": 2.11927986774966e-05,
+   "genes": [
+    "CDKN1A",
+    "SMAD4",
+    "TGFB1",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 6.80943147646218e-07,
+   "fdr": 1.90329191268328e-05,
+   "genes": [
+    "CDKN1A",
+    "SMAD4",
+    "TGFB1",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 2.8113270860941e-05,
+   "fdr": 0.000887650496627861,
+   "genes": [
+    "CDKN1A",
+    "SMAD3",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.0013116027048574,
+   "fdr": 0.0155297403595965,
+   "genes": [
+    "CDKN1A",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 4.73482556151427e-05,
+   "fdr": 0.000678393074149734,
+   "genes": [
+    "CDKN1A",
+    "TGFB1",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 4.5677205917638e-07,
+   "fdr": 1.76999172930847e-05,
+   "genes": [
+    "CDKN1A",
+    "SMAD4",
+    "TGFB1",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 2.11306497077679e-07,
+   "fdr": 5.48220444209213e-05,
+   "genes": [
+    "CDKN1A",
+    "SMAD4",
+    "TGFB1",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Parietal Cell": {
+   "pvalue": 3.8443747117256e-05,
+   "fdr": 0.000955390406001591,
+   "genes": [
+    "SMAD3",
+    "SMAD4",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.0013116027048574,
+   "fdr": 0.0155297403595965,
+   "genes": [
+    "CDKN1A",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.001809985442657,
+   "fdr": 0.0175342339757405,
+   "genes": [
+    "SMAD4",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Principal Cell": {
+   "pvalue": 1.28963473233767e-09,
+   "fdr": 2.40871073087234e-07,
+   "genes": [
+    "CDKN1A",
+    "SMAD3",
+    "SMAD4",
+    "TGFB1",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 2.48696410016791e-05,
+   "fdr": 0.000695126850948571,
+   "genes": [
+    "CDKN1A",
+    "TGFB1",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "T Cell": {
+   "pvalue": 0.0016694955818834,
+   "fdr": 0.0160818642209677,
+   "genes": [
+    "SMAD3",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.0013116027048574,
+   "fdr": 0.0155297403595965,
+   "genes": [
+    "CDKN1A",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 2.49630143889234e-07,
+   "fdr": 1.85051911013541e-05,
+   "genes": [
+    "CDKN1A",
+    "SMAD3",
+    "SMAD4",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-8941855",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941855"
+  }
+ },
+ "RUNX3 regulates p14-ARF": {
+  "B Cell": {
+   "pvalue": 0.002600863,
+   "fdr": 0.021526563,
+   "genes": [],
+   "geneSet": "R-HSA-8951936",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951936"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.0031862937556121,
+   "fdr": 0.025386125482798,
+   "genes": [
+    "CCND1",
+    "EP300"
+   ],
+   "geneSet": "R-HSA-8951936",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951936"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.0027705282664296,
+   "fdr": 0.0259546741442997,
+   "genes": [
+    "EP300",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-8951936",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951936"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 0.000135617954016398,
+   "fdr": 0.0015415240773197,
+   "genes": [
+    "CCND1",
+    "EP300",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-8951936",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951936"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.0030646740603866,
+   "fdr": 0.0262576345374839,
+   "genes": [
+    "CCND1",
+    "EP300"
+   ],
+   "geneSet": "R-HSA-8951936",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951936"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.0022250162428899,
+   "fdr": 0.0241633929562253,
+   "genes": [
+    "CCND1",
+    "EP300"
+   ],
+   "geneSet": "R-HSA-8951936",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951936"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 0.000111773380273572,
+   "fdr": 0.0013863809586911,
+   "genes": [
+    "CCND1",
+    "EP300",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-8951936",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951936"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.0022250162428899,
+   "fdr": 0.0241633929562253,
+   "genes": [
+    "CCND1",
+    "EP300"
+   ],
+   "geneSet": "R-HSA-8951936",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951936"
+  },
+  "Podocyte Cell": {
+   "pvalue": 6.65461393546396e-05,
+   "fdr": 0.0014735216571384,
+   "genes": [
+    "CCND1",
+    "EP300",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-8951936",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951936"
+  },
+  "Principal Cell": {
+   "pvalue": 6.26473751649259e-05,
+   "fdr": 0.0012566326430141,
+   "genes": [
+    "EP300",
+    "HDAC4",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-8951936",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951936"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.0028282224460813,
+   "fdr": 0.0263503785276981,
+   "genes": [
+    "CCND1",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-8951936",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951936"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.0022250162428899,
+   "fdr": 0.0241633929562253,
+   "genes": [
+    "CCND1",
+    "EP300"
+   ],
+   "geneSet": "R-HSA-8951936",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951936"
+  }
+ },
+ "Regulation of IFNG signaling": {
+  "B Cell": {
+   "pvalue": 1.06e-09,
+   "fdr": 2.57e-07,
+   "genes": [],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Connecting Tubule Cell": {
+   "pvalue": 6.787526540597e-06,
+   "fdr": 0.000503162293552951,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "PTPN6",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 6.25696306855161e-06,
+   "fdr": 0.000288327622483256,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "SOCS1",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 8.25932369319382e-06,
+   "fdr": 0.000272265634228573,
+   "genes": [
+    "JAK2",
+    "PTPN6",
+    "SOCS1",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 7.48805151218334e-09,
+   "fdr": 3.98972744633519e-07,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "PTPN6",
+    "SOCS1",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Mesangial Cell": {
+   "pvalue": 3.69002405331553e-06,
+   "fdr": 0.000190651242754635,
+   "genes": [
+    "JAK1",
+    "SOCS1",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 5.05302444331334e-09,
+   "fdr": 3.28979963147722e-07,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "PTPN6",
+    "SOCS1",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 4.10798839389769e-09,
+   "fdr": 3.89117789533087e-07,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "PTPN6",
+    "SOCS1",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 5.75775525801791e-06,
+   "fdr": 0.000446226032496388,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "PTPN6",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Pericyte Cell": {
+   "pvalue": 3.69002405331553e-06,
+   "fdr": 0.000190651242754635,
+   "genes": [
+    "JAK1",
+    "SOCS1",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Plasma Cell": {
+   "pvalue": 9.05750467294908e-07,
+   "fdr": 6.17721818695127e-05,
+   "genes": [
+    "JAK1",
+    "PTPN6",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Podocyte Cell": {
+   "pvalue": 7.06495424362962e-06,
+   "fdr": 0.000256292489050819,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Principal Cell": {
+   "pvalue": 1.55400692314344e-09,
+   "fdr": 2.40871073087234e-07,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "PTPN6",
+    "SOCS1",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 6.00351657231712e-06,
+   "fdr": 0.000292457021594305,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "PTPN6",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "T Cell": {
+   "pvalue": 1.37041733516696e-09,
+   "fdr": 2.12414686950879e-07,
+   "genes": [
+    "IFNG",
+    "JAK1",
+    "PTPN6",
+    "SOCS1",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 3.69002405331553e-06,
+   "fdr": 0.000190651242754635,
+   "genes": [
+    "JAK1",
+    "SOCS1",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 1.22886463560512e-07,
+   "fdr": 1.13215955628649e-05,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "PTPN6",
+    "SOCS3",
+    "STAT1"
+   ],
+   "geneSet": "R-HSA-877312",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-877312"
+  }
+ },
+ "Regulation of PTEN localization": {
+  "B Cell": {
+   "pvalue": 0.002600863,
+   "fdr": 0.021526563,
+   "genes": [],
+   "geneSet": "R-HSA-8948747",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8948747"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.0028864849054024,
+   "fdr": 0.0289497456688892,
+   "genes": [
+    "PTEN",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8948747",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8948747"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.0031862937556121,
+   "fdr": 0.025386125482798,
+   "genes": [
+    "PTEN",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8948747",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8948747"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.0027705282664296,
+   "fdr": 0.0259546741442997,
+   "genes": [
+    "PTEN",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8948747",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8948747"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.0027705282664296,
+   "fdr": 0.0342300774946561,
+   "genes": [
+    "PTEN",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8948747",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8948747"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.0037613873044337,
+   "fdr": 0.0296905803428683,
+   "genes": [
+    "PTEN",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8948747",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8948747"
+  },
+  "Plasma Cell": {
+   "pvalue": 0.0011154410285172,
+   "fdr": 0.0154620077530235,
+   "genes": [
+    "PTEN",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8948747",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8948747"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.0030646740603866,
+   "fdr": 0.0248822346331395,
+   "genes": [
+    "PTEN",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8948747",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8948747"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.0028282224460813,
+   "fdr": 0.0263503785276981,
+   "genes": [
+    "PTEN",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8948747",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8948747"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.003004711501966,
+   "fdr": 0.0224694434686493,
+   "genes": [
+    "PTEN",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8948747",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8948747"
+  }
+ },
+ "Sema4D mediated inhibition of cell attachment and migration": {
+  "B Cell": {
+   "pvalue": 0.002034418,
+   "fdr": 0.017879806,
+   "genes": [],
+   "geneSet": "R-HSA-416550",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-416550"
+  },
+  "Connecting Tubule Cell": {
+   "pvalue": 0.0023513483737795,
+   "fdr": 0.0258648321115755,
+   "genes": [
+    "RHOA",
+    "RRAS"
+   ],
+   "geneSet": "R-HSA-416550",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-416550"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.0022585450660523,
+   "fdr": 0.0242189895447755,
+   "genes": [
+    "RHOA",
+    "RRAS"
+   ],
+   "geneSet": "R-HSA-416550",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-416550"
+  },
+  "Endothelial Cell": {
+   "pvalue": 0.0026902674474185,
+   "fdr": 0.0227121849768456,
+   "genes": [
+    "RAC1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-416550",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-416550"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 0.0025912003514243,
+   "fdr": 0.0209022460597663,
+   "genes": [
+    "RAC1",
+    "RRAS"
+   ],
+   "geneSet": "R-HSA-416550",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-416550"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.0023984234112683,
+   "fdr": 0.0216365709852518,
+   "genes": [
+    "RHOA",
+    "RRAS"
+   ],
+   "geneSet": "R-HSA-416550",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-416550"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.0029457137830303,
+   "fdr": 0.0252384020103854,
+   "genes": [
+    "RAC1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-416550",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-416550"
+  },
+  "Plasma Cell": {
+   "pvalue": 0.00087074884453131,
+   "fdr": 0.0133750160353683,
+   "genes": [
+    "RAC1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-416550",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-416550"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.0023984234112683,
+   "fdr": 0.0214100100325267,
+   "genes": [
+    "RAC1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-416550",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-416550"
+  },
+  "T Cell": {
+   "pvalue": 0.0022128178631305,
+   "fdr": 0.0199621928922623,
+   "genes": [
+    "RAC1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-416550",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-416550"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.0023513483737795,
+   "fdr": 0.0184748800796968,
+   "genes": [
+    "RAC1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-416550",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-416550"
+  }
+ },
+ "Signaling by Leptin": {
+  "B Cell": {
+   "pvalue": 0.000100583,
+   "fdr": 0.001559043,
+   "genes": [],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.0043573960882568,
+   "fdr": 0.0395178740982864,
+   "genes": [
+    "JAK2",
+    "LEPR"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Endothelial Cell": {
+   "pvalue": 4.09516832666767e-08,
+   "fdr": 2.25234257966722e-06,
+   "genes": [
+    "IRS1",
+    "LEPR",
+    "SOCS3",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 2.78562959099559e-06,
+   "fdr": 0.000107943146651079,
+   "genes": [
+    "IRS1",
+    "IRS2",
+    "JAK2",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.000110673922745885,
+   "fdr": 0.0019656149821014,
+   "genes": [
+    "IRS1",
+    "IRS2",
+    "SOCS3"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 1.01709155542195e-07,
+   "fdr": 3.6226958017906e-06,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "SOCS3",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Mesangial Cell": {
+   "pvalue": 1.23915444016908e-06,
+   "fdr": 7.82503081662331e-05,
+   "genes": [
+    "IRS2",
+    "LEPR",
+    "SOCS3",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 7.33466243296732e-08,
+   "fdr": 2.88404695153454e-06,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "SOCS3",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 6.17534916536044e-08,
+   "fdr": 3.50965677564651e-06,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "SOCS3",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.0041834016130943,
+   "fdr": 0.045431208600802,
+   "genes": [
+    "JAK2",
+    "LEPR"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Pericyte Cell": {
+   "pvalue": 1.23915444016908e-06,
+   "fdr": 7.82503081662331e-05,
+   "genes": [
+    "IRS2",
+    "LEPR",
+    "SOCS3",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Plasma Cell": {
+   "pvalue": 0.0016917148383395,
+   "fdr": 0.0210538233530575,
+   "genes": [
+    "SOCS3",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Podocyte Cell": {
+   "pvalue": 2.38062954549533e-06,
+   "fdr": 0.00013562899506601,
+   "genes": [
+    "JAK2",
+    "LEPR",
+    "SOCS3",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Principal Cell": {
+   "pvalue": 2.19540759660574e-06,
+   "fdr": 0.000129074825938372,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "LEPR",
+    "SOCS3"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 2.48182896456228e-08,
+   "fdr": 4.70168709397632e-06,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "LEPR",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "T Cell": {
+   "pvalue": 0.00011417885191145,
+   "fdr": 0.0019085778677355,
+   "genes": [
+    "SOCS3",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 1.23915444016908e-06,
+   "fdr": 7.82503081662331e-05,
+   "genes": [
+    "IRS2",
+    "LEPR",
+    "SOCS3",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.000125127330950602,
+   "fdr": 0.0021334209927077,
+   "genes": [
+    "JAK2",
+    "LEPR",
+    "SOCS3"
+   ],
+   "geneSet": "R-HSA-2586552",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2586552"
+  }
+ },
+ "Signaling by cytosolic FGFR1 fusion mutants": {
+  "B Cell": {
+   "pvalue": 1.51e-05,
+   "fdr": 0.000395438,
+   "genes": [],
+   "geneSet": "R-HSA-1839117",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1839117"
+  },
+  "Mesangial Cell": {
+   "pvalue": 1.10061368423508e-05,
+   "fdr": 0.0003992651769406,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1839117",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1839117"
+  },
+  "Pericyte Cell": {
+   "pvalue": 1.10061368423508e-05,
+   "fdr": 0.0003992651769406,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1839117",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1839117"
+  },
+  "Plasma Cell": {
+   "pvalue": 0.000134184608475695,
+   "fdr": 0.003010325755935,
+   "genes": [
+    "PIK3CA",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1839117",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1839117"
+  },
+  "Podocyte Cell": {
+   "pvalue": 2.09766881028583e-05,
+   "fdr": 0.00062746058272585,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1839117",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1839117"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 1.78468175699997e-05,
+   "fdr": 0.00060857647913699,
+   "genes": [
+    "PIK3R1",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-1839117",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1839117"
+  },
+  "T Cell": {
+   "pvalue": 4.37622386884051e-07,
+   "fdr": 2.13277200140638e-05,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-1839117",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1839117"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 1.10061368423508e-05,
+   "fdr": 0.0003992651769406,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1",
+    "STAT1",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-1839117",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1839117"
+  }
+ },
+ "TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest": {
+  "B Cell": {
+   "pvalue": 1.51e-05,
+   "fdr": 0.000395438,
+   "genes": [],
+   "geneSet": "R-HSA-6804114",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-6804114"
+  },
+  "Parietal Cell": {
+   "pvalue": 3.1664868980874e-05,
+   "fdr": 0.000915061044277801,
+   "genes": [
+    "BAX",
+    "EP300",
+    "PCNA",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-6804114",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-6804114"
+  }
+ },
+ "The NLRP3 inflammasome": {
+  "B Cell": {
+   "pvalue": 6.86e-06,
+   "fdr": 0.000205225,
+   "genes": [],
+   "geneSet": "R-HSA-844456",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-844456"
+  },
+  "Connecting Tubule Cell": {
+   "pvalue": 9.18918621040099e-06,
+   "fdr": 0.000580280092175321,
+   "genes": [
+    "NFKB2",
+    "PYCARD",
+    "TXN",
+    "TXNIP"
+   ],
+   "geneSet": "R-HSA-844456",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-844456"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 1.11775086250043e-05,
+   "fdr": 0.000312420527961186,
+   "genes": [
+    "NFKB2",
+    "PYCARD",
+    "RELA",
+    "TXN"
+   ],
+   "geneSet": "R-HSA-844456",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-844456"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 6.36024268363399e-07,
+   "fdr": 1.90249364484139e-05,
+   "genes": [
+    "NFKB1",
+    "PYCARD",
+    "RELA",
+    "TXN",
+    "TXNIP"
+   ],
+   "geneSet": "R-HSA-844456",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-844456"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 9.56405067509269e-06,
+   "fdr": 0.000440721794622514,
+   "genes": [
+    "NFKB2",
+    "PYCARD",
+    "RELA",
+    "TXN"
+   ],
+   "geneSet": "R-HSA-844456",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-844456"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 4.59830920895854e-07,
+   "fdr": 1.40002092879898e-05,
+   "genes": [
+    "NFKB1",
+    "NFKB2",
+    "PYCARD",
+    "TXN",
+    "TXNIP"
+   ],
+   "geneSet": "R-HSA-844456",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-844456"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 3.87642704380297e-07,
+   "fdr": 1.65232702742101e-05,
+   "genes": [
+    "NFKB1",
+    "PYCARD",
+    "RELA",
+    "TXN",
+    "TXNIP"
+   ],
+   "geneSet": "R-HSA-844456",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-844456"
+  },
+  "Parietal Cell": {
+   "pvalue": 1.44733906974892e-05,
+   "fdr": 0.00052504534338764,
+   "genes": [
+    "NFKB1",
+    "RELA",
+    "TXN",
+    "TXNIP"
+   ],
+   "geneSet": "R-HSA-844456",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-844456"
+  },
+  "Plasma Cell": {
+   "pvalue": 7.57356768137373e-05,
+   "fdr": 0.0019273034174242,
+   "genes": [
+    "PYCARD",
+    "RELA",
+    "TXN"
+   ],
+   "geneSet": "R-HSA-844456",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-844456"
+  },
+  "T Cell": {
+   "pvalue": 8.12961936935696e-06,
+   "fdr": 0.000216578141011775,
+   "genes": [
+    "NFKB1",
+    "PYCARD",
+    "TXN",
+    "TXNIP"
+   ],
+   "geneSet": "R-HSA-844456",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-844456"
+  }
+ },
+ "p75NTR recruits signalling complexes": {
+  "B Cell": {
+   "pvalue": 0.000172152,
+   "fdr": 0.002466547,
+   "genes": [],
+   "geneSet": "R-HSA-209543",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-209543"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.000189341456980463,
+   "fdr": 0.0049665720638721,
+   "genes": [
+    "IKBKB",
+    "IRAK1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-209543",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-209543"
+  }
+ },
+ "AKT phosphorylates targets in the cytosol": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.000270444727164642,
+   "fdr": 0.0055555212025989,
+   "genes": [
+    "AKT1",
+    "CASP9",
+    "CDKN1A"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 6.25696306855161e-06,
+   "fdr": 0.000288327622483256,
+   "genes": [
+    "AKT1",
+    "AKT1S1",
+    "CDKN1A",
+    "MDM2"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 1.98274507923201e-09,
+   "fdr": 2.81715030007549e-07,
+   "genes": [
+    "AKT1",
+    "AKT1S1",
+    "BAD",
+    "CDKN1A",
+    "MDM2",
+    "TSC2"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 9.98348947955918e-08,
+   "fdr": 1.21584639733202e-05,
+   "genes": [
+    "AKT1",
+    "AKT1S1",
+    "CDKN1A",
+    "MDM2",
+    "TSC2"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.000278590493337338,
+   "fdr": 0.0045672768378861,
+   "genes": [
+    "AKT1",
+    "CASP9",
+    "CDKN1A"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Mesangial Cell": {
+   "pvalue": 3.69002405331553e-06,
+   "fdr": 0.000190651242754635,
+   "genes": [
+    "CASP9",
+    "CDKN1A",
+    "MDM2",
+    "TSC2"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 3.0933542616296e-07,
+   "fdr": 9.95126229448767e-06,
+   "genes": [
+    "AKT1",
+    "AKT1S1",
+    "BAD",
+    "CDKN1A",
+    "MDM2"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 1.23142889755234e-05,
+   "fdr": 0.000265816833821978,
+   "genes": [
+    "AKT1",
+    "BAD",
+    "CDKN1A",
+    "MDM2"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Parietal Cell": {
+   "pvalue": 1.07004181814085e-05,
+   "fdr": 0.000463574780766809,
+   "genes": [
+    "AKT1",
+    "BAD",
+    "MDM2",
+    "TSC2"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Pericyte Cell": {
+   "pvalue": 3.69002405331553e-06,
+   "fdr": 0.000190651242754635,
+   "genes": [
+    "CASP9",
+    "CDKN1A",
+    "MDM2",
+    "TSC2"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Plasma Cell": {
+   "pvalue": 9.05750467294908e-07,
+   "fdr": 6.17721818695127e-05,
+   "genes": [
+    "AKT1",
+    "BAD",
+    "CDKN1A",
+    "MDM2"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Podocyte Cell": {
+   "pvalue": 7.06495424362962e-06,
+   "fdr": 0.000256292489050819,
+   "genes": [
+    "AKT1",
+    "BAD",
+    "MDM2",
+    "TSC2"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Principal Cell": {
+   "pvalue": 1.16763570590094e-07,
+   "fdr": 1.11389608429638e-05,
+   "genes": [
+    "AKT1",
+    "CASP9",
+    "CDKN1A",
+    "MDM2",
+    "TSC2"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.000246938972258581,
+   "fdr": 0.0040483744971238,
+   "genes": [
+    "AKT1",
+    "AKT1S1",
+    "CDKN1A"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 3.69002405331553e-06,
+   "fdr": 0.000190651242754635,
+   "genes": [
+    "CASP9",
+    "CDKN1A",
+    "MDM2",
+    "TSC2"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 6.787526540597e-06,
+   "fdr": 0.000206655941994962,
+   "genes": [
+    "BAD",
+    "CDKN1A",
+    "MDM2",
+    "TSC2"
+   ],
+   "geneSet": "R-HSA-198323",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198323"
+  }
+ },
+ "AKT phosphorylates targets in the nucleus": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.003004711501966,
+   "fdr": 0.0303679190798684,
+   "genes": [
+    "AKT1",
+    "FOXO1"
+   ],
+   "geneSet": "R-HSA-198693",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198693"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.0027705282664296,
+   "fdr": 0.0259546741442997,
+   "genes": [
+    "AKT1",
+    "FOXO1"
+   ],
+   "geneSet": "R-HSA-198693",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198693"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.0030646740603866,
+   "fdr": 0.0262576345374839,
+   "genes": [
+    "AKT1",
+    "FOXO1"
+   ],
+   "geneSet": "R-HSA-198693",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198693"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.0028282224460813,
+   "fdr": 0.0263503785276981,
+   "genes": [
+    "AKT1",
+    "FOXO1"
+   ],
+   "geneSet": "R-HSA-198693",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-198693"
+  }
+ },
+ "Activated NTRK3 signals through PI3K": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.0012751850485552,
+   "fdr": 0.0164711402105057,
+   "genes": [
+    "PIK3CA",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-9603381",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9603381"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.0012245465266206,
+   "fdr": 0.0164006787503442,
+   "genes": [
+    "PIK3R1",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-9603381",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9603381"
+  },
+  "Endothelial Cell": {
+   "pvalue": 0.0014602783080175,
+   "fdr": 0.014227282943828,
+   "genes": [
+    "IRS1",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9603381",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9603381"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 1.82016872645185e-05,
+   "fdr": 0.000449766330231943,
+   "genes": [
+    "IRS1",
+    "PIK3R1",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-9603381",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9603381"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 1.38616191112106e-05,
+   "fdr": 0.000437667788603965,
+   "genes": [
+    "IRS1",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9603381",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9603381"
+  },
+  "Principal Cell": {
+   "pvalue": 1.52219083043858e-05,
+   "fdr": 0.00052966027875465,
+   "genes": [
+    "PIK3CA",
+    "PIK3R1",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-9603381",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9603381"
+  }
+ },
+ "Activation of caspases through apoptosome-mediated cleavage": {
+  "Connecting Tubule Cell": {
+   "pvalue": 7.9009928921625e-06,
+   "fdr": 0.000538847715245482,
+   "genes": [
+    "APAF1",
+    "CASP3",
+    "CASP9"
+   ],
+   "geneSet": "R-HSA-111459",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111459"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 9.1666071717622e-06,
+   "fdr": 0.000284164822324628,
+   "genes": [
+    "APAF1",
+    "CASP3",
+    "CASP9"
+   ],
+   "geneSet": "R-HSA-111459",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111459"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.000872644786142906,
+   "fdr": 0.0096614244180107,
+   "genes": [
+    "CASP3",
+    "CASP9"
+   ],
+   "geneSet": "R-HSA-111459",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111459"
+  },
+  "Principal Cell": {
+   "pvalue": 0.000838234495769585,
+   "fdr": 0.0091031198425932,
+   "genes": [
+    "APAF1",
+    "CASP9"
+   ],
+   "geneSet": "R-HSA-111459",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111459"
+  }
+ },
+ "Activation of the AP-1 family of transcription factors": {
+  "Connecting Tubule Cell": {
+   "pvalue": 9.16253201811434e-05,
+   "fdr": 0.0027896637662294,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Endothelial Cell": {
+   "pvalue": 1.92799509690644e-06,
+   "fdr": 5.76707305302716e-05,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1",
+    "MAPK8"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 0.000106112826487647,
+   "fdr": 0.0016299312537066,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 1.24179305660554e-06,
+   "fdr": 9.20546591961936e-05,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1",
+    "MAPK8"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 3.97253159234445e-06,
+   "fdr": 8.46645795618411e-05,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1",
+    "MAPK8"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 9.44118958285944e-05,
+   "fdr": 0.001939425089009,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Mesangial Cell": {
+   "pvalue": 7.93421368605606e-07,
+   "fdr": 7.82503081662331e-05,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1",
+    "MAPK8"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 0.000158363302130037,
+   "fdr": 0.0018121438263873,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 0.000143083548345801,
+   "fdr": 0.0017807113133546,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.000128801058103644,
+   "fdr": 0.0020914838482544,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Pericyte Cell": {
+   "pvalue": 7.93421368605606e-07,
+   "fdr": 7.82503081662331e-05,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1",
+    "MAPK8"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Podocyte Cell": {
+   "pvalue": 9.44118958285944e-05,
+   "fdr": 0.0018937915575029,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Principal Cell": {
+   "pvalue": 8.88932095696182e-05,
+   "fdr": 0.0016474230686543,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.003514380462803,
+   "fdr": 0.0312084306722875,
+   "genes": [
+    "JUN",
+    "MAPK8"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "T Cell": {
+   "pvalue": 8.35903791940317e-05,
+   "fdr": 0.0014252159652582,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 7.93421368605606e-07,
+   "fdr": 7.82503081662331e-05,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1",
+    "MAPK8"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 9.16253201811434e-05,
+   "fdr": 0.0016797975366542,
+   "genes": [
+    "FOS",
+    "JUN",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-450341",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-450341"
+  }
+ },
+ "Apoptotic cleavage of cell adhesion  proteins": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.000125127330950602,
+   "fdr": 0.0034974114634553,
+   "genes": [
+    "CASP3",
+    "CDH1",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-351906",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-351906"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.000117755615583581,
+   "fdr": 0.0026417542706579,
+   "genes": [
+    "CASP3",
+    "CDH1",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-351906",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-351906"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 0.000144860525323808,
+   "fdr": 0.0021291999627335,
+   "genes": [
+    "CASP3",
+    "CDH1",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-351906",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-351906"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.000128923620684728,
+   "fdr": 0.0025266065892811,
+   "genes": [
+    "CASP3",
+    "CDH1",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-351906",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-351906"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.0041834016130943,
+   "fdr": 0.045431208600802,
+   "genes": [
+    "CDH1",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-351906",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-351906"
+  },
+  "Plasma Cell": {
+   "pvalue": 0.0016917148383395,
+   "fdr": 0.0210538233530575,
+   "genes": [
+    "CASP3",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-351906",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-351906"
+  }
+ },
+ "Caspase-mediated cleavage of cytoskeletal proteins": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.000165701352846658,
+   "fdr": 0.0040360115229079,
+   "genes": [
+    "CASP3",
+    "GSN",
+    "VIM"
+   ],
+   "geneSet": "R-HSA-264870",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-264870"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.000155961444164853,
+   "fdr": 0.0031656459797747,
+   "genes": [
+    "CASP3",
+    "GSN",
+    "VIM"
+   ],
+   "geneSet": "R-HSA-264870",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-264870"
+  },
+  "Plasma Cell": {
+   "pvalue": 0.0020226443361123,
+   "fdr": 0.023459922401847,
+   "genes": [
+    "CASP3",
+    "VIM"
+   ],
+   "geneSet": "R-HSA-264870",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-264870"
+  }
+ },
+ "Constitutive Signaling by EGFRvIII": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.000335758612403092,
+   "fdr": 0.0063512165044631,
+   "genes": [
+    "EGFR",
+    "HSP90AA1",
+    "PIK3CA"
+   ],
+   "geneSet": "R-HSA-5637810",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5637810"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 8.47217844879288e-06,
+   "fdr": 0.000370386262953637,
+   "genes": [
+    "EGF",
+    "EGFR",
+    "HSP90AA1",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-5637810",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5637810"
+  },
+  "Endothelial Cell": {
+   "pvalue": 1.20556479734634e-05,
+   "fdr": 0.000270458944667832,
+   "genes": [
+    "EGF",
+    "EGFR",
+    "HSP90AA1",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-5637810",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5637810"
+  },
+  "Principal Cell": {
+   "pvalue": 8.82529838164281e-06,
+   "fdr": 0.000341980312288658,
+   "genes": [
+    "EGFR",
+    "HSP90AA1",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-5637810",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5637810"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 9.18918621040099e-06,
+   "fdr": 0.000265551906588706,
+   "genes": [
+    "EGFR",
+    "HSP90AA1",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-5637810",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5637810"
+  }
+ },
+ "GAB1 signalosome": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.000125127330950602,
+   "fdr": 0.0034974114634553,
+   "genes": [
+    "EGFR",
+    "PIK3CA",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-180292",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-180292"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 2.10692351698682e-06,
+   "fdr": 0.000128296592730804,
+   "genes": [
+    "EGF",
+    "EGFR",
+    "PIK3R1",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-180292",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-180292"
+  },
+  "Endothelial Cell": {
+   "pvalue": 0.000153289291490166,
+   "fdr": 0.0023545787566732,
+   "genes": [
+    "EGF",
+    "EGFR",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-180292",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-180292"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 2.57722183749642e-06,
+   "fdr": 9.764807184292e-05,
+   "genes": [
+    "EGF",
+    "EGFR",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-180292",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-180292"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 0.000144860525323808,
+   "fdr": 0.0021291999627335,
+   "genes": [
+    "EGFR",
+    "PIK3R1",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-180292",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-180292"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.000110673922745885,
+   "fdr": 0.0019656149821014,
+   "genes": [
+    "EGFR",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-180292",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-180292"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.000128923620684728,
+   "fdr": 0.0025266065892811,
+   "genes": [
+    "EGF",
+    "EGFR",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-180292",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-180292"
+  },
+  "Mesangial Cell": {
+   "pvalue": 7.94265786427939e-05,
+   "fdr": 0.0018808655081383,
+   "genes": [
+    "EGFR",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-180292",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-180292"
+  },
+  "Pericyte Cell": {
+   "pvalue": 7.94265786427939e-05,
+   "fdr": 0.0018808655081383,
+   "genes": [
+    "EGFR",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-180292",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-180292"
+  },
+  "Principal Cell": {
+   "pvalue": 2.19540759660574e-06,
+   "fdr": 0.000129074825938372,
+   "genes": [
+    "EGFR",
+    "PIK3CA",
+    "PIK3R1",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-180292",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-180292"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 7.94265786427939e-05,
+   "fdr": 0.0018808655081383,
+   "genes": [
+    "EGFR",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-180292",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-180292"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.000125127330950602,
+   "fdr": 0.0021334209927077,
+   "genes": [
+    "EGFR",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-180292",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-180292"
+  }
+ },
+ "InlA-mediated entry of Listeria monocytogenes into host cells": {
+  "Connecting Tubule Cell": {
+   "pvalue": 6.45774251267772e-05,
+   "fdr": 0.0022754975469103,
+   "genes": [
+    "CDH1",
+    "CTNNB1",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-8876493",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8876493"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 8.15916388785531e-07,
+   "fdr": 5.35052862645896e-05,
+   "genes": [
+    "CDH1",
+    "CTNNB1",
+    "SRC",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8876493",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8876493"
+  },
+  "Endothelial Cell": {
+   "pvalue": 7.91905143604498e-05,
+   "fdr": 0.0013501982698456,
+   "genes": [
+    "CDH1",
+    "CTNNB1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8876493",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8876493"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 1.07989954878373e-06,
+   "fdr": 4.49080178213724e-05,
+   "genes": [
+    "CDH1",
+    "CTNNB1",
+    "SRC",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8876493",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8876493"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 5.70855961159466e-05,
+   "fdr": 0.0011505638051635,
+   "genes": [
+    "CDH1",
+    "CTNNB1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8876493",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8876493"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 6.65461393546396e-05,
+   "fdr": 0.0015440157699831,
+   "genes": [
+    "CDH1",
+    "CTNNB1",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-8876493",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8876493"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 5.70855961159466e-05,
+   "fdr": 0.0019863457424018,
+   "genes": [
+    "CDH1",
+    "CTNNB1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8876493",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8876493"
+  },
+  "Parietal Cell": {
+   "pvalue": 9.0856458118016e-05,
+   "fdr": 0.0016838071857741,
+   "genes": [
+    "CDH1",
+    "CTNNB1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8876493",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8876493"
+  },
+  "Plasma Cell": {
+   "pvalue": 0.0011154410285172,
+   "fdr": 0.0154620077530235,
+   "genes": [
+    "CTNNB1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8876493",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8876493"
+  },
+  "Principal Cell": {
+   "pvalue": 6.26473751649259e-05,
+   "fdr": 0.0012566326430141,
+   "genes": [
+    "CDH1",
+    "CTNNB1",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-8876493",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8876493"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.0028282224460813,
+   "fdr": 0.0263503785276981,
+   "genes": [
+    "CTNNB1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8876493",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8876493"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.003004711501966,
+   "fdr": 0.0224694434686493,
+   "genes": [
+    "CTNNB1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8876493",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8876493"
+  }
+ },
+ "Loss of Function of SMAD2/3 in Cancer": {
+  "Connecting Tubule Cell": {
+   "pvalue": 2.72776718905909e-05,
+   "fdr": 0.0013288123020987,
+   "genes": [
+    "SMAD3",
+    "SMAD4",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 2.29872036183742e-07,
+   "fdr": 1.93584280743548e-05,
+   "genes": [
+    "SMAD2",
+    "SMAD4",
+    "TGFB1",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Endothelial Cell": {
+   "pvalue": 1.92202487259152e-09,
+   "fdr": 2.70682543462852e-07,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "SMAD4",
+    "TGFB1",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 2.81611954755511e-07,
+   "fdr": 1.65568407882119e-05,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "SMAD4",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 3.16245250359115e-05,
+   "fdr": 0.000657558721783282,
+   "genes": [
+    "SMAD2",
+    "SMAD4",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 2.40993535719491e-05,
+   "fdr": 0.000595498519422801,
+   "genes": [
+    "SMAD2",
+    "SMAD4",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 6.80943147646218e-07,
+   "fdr": 1.90329191268328e-05,
+   "genes": [
+    "SMAD2",
+    "SMAD4",
+    "TGFB1",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 2.8113270860941e-05,
+   "fdr": 0.000887650496627861,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.0013116027048574,
+   "fdr": 0.0155297403595965,
+   "genes": [
+    "SMAD2",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 4.5677205917638e-07,
+   "fdr": 1.76999172930847e-05,
+   "genes": [
+    "SMAD2",
+    "SMAD4",
+    "TGFB1",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 2.40993535719491e-05,
+   "fdr": 0.001141372162227,
+   "genes": [
+    "SMAD2",
+    "SMAD4",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Parietal Cell": {
+   "pvalue": 3.96063262853019e-07,
+   "fdr": 3.55414664823367e-05,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "SMAD4",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.0013116027048574,
+   "fdr": 0.0155297403595965,
+   "genes": [
+    "SMAD2",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Podocyte Cell": {
+   "pvalue": 2.8113270860941e-05,
+   "fdr": 0.000760843282823881,
+   "genes": [
+    "SMAD2",
+    "SMAD4",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Principal Cell": {
+   "pvalue": 2.39598946905061e-07,
+   "fdr": 1.94531525939585e-05,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "SMAD4",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.0013116027048574,
+   "fdr": 0.0155297403595965,
+   "genes": [
+    "SMAD2",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 2.49630143889234e-07,
+   "fdr": 1.85051911013541e-05,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "SMAD4",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304349",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304349"
+  }
+ },
+ "MAPK3 (ERK1) activation": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.0037329830474122,
+   "fdr": 0.0357569443586394,
+   "genes": [
+    "JAK1",
+    "JAK2"
+   ],
+   "geneSet": "R-HSA-110056",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-110056"
+  }
+ },
+ "PTK6 promotes HIF1A stabilization": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.0012751850485552,
+   "fdr": 0.0164711402105057,
+   "genes": [
+    "EGFR",
+    "HIF1A"
+   ],
+   "geneSet": "R-HSA-8857538",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8857538"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.0013530158439518,
+   "fdr": 0.0140529959897009,
+   "genes": [
+    "EGFR",
+    "HIF1A"
+   ],
+   "geneSet": "R-HSA-8857538",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8857538"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 0.0014061494321098,
+   "fdr": 0.0131729933063034,
+   "genes": [
+    "EGFR",
+    "HIF1A"
+   ],
+   "geneSet": "R-HSA-8857538",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8857538"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.0011749087734836,
+   "fdr": 0.0134974356854459,
+   "genes": [
+    "EGFR",
+    "HIF1A"
+   ],
+   "geneSet": "R-HSA-8857538",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8857538"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.0013008791078581,
+   "fdr": 0.0136913511043094,
+   "genes": [
+    "EGFR",
+    "HIF1A"
+   ],
+   "geneSet": "R-HSA-8857538",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8857538"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.000941786505028741,
+   "fdr": 0.0123518922390307,
+   "genes": [
+    "EGFR",
+    "HIF1A"
+   ],
+   "geneSet": "R-HSA-8857538",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8857538"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.0015999446281327,
+   "fdr": 0.0154994635850358,
+   "genes": [
+    "EGFR",
+    "HIF1A"
+   ],
+   "geneSet": "R-HSA-8857538",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8857538"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.000941786505028741,
+   "fdr": 0.0123518922390307,
+   "genes": [
+    "EGFR",
+    "HIF1A"
+   ],
+   "geneSet": "R-HSA-8857538",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8857538"
+  },
+  "Principal Cell": {
+   "pvalue": 0.0012497407895022,
+   "fdr": 0.012388418872682,
+   "genes": [
+    "EGFR",
+    "HIF1A"
+   ],
+   "geneSet": "R-HSA-8857538",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8857538"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.000941786505028741,
+   "fdr": 0.0123518922390307,
+   "genes": [
+    "EGFR",
+    "HIF1A"
+   ],
+   "geneSet": "R-HSA-8857538",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8857538"
+  }
+ },
+ "RUNX2 regulates bone development": {
+  "Connecting Tubule Cell": {
+   "pvalue": 4.35266314990912e-07,
+   "fdr": 4.94752711373003e-05,
+   "genes": [
+    "MAPK1",
+    "RUNX2",
+    "SMAD1",
+    "SMAD4",
+    "SRC",
+    "YAP1"
+   ],
+   "geneSet": "R-HSA-8941326",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941326"
+  }
+ },
+ "RUNX2 regulates genes involved in cell migration": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.0023513483737795,
+   "fdr": 0.0258648321115755,
+   "genes": [
+    "AKT1",
+    "RUNX2"
+   ],
+   "geneSet": "R-HSA-8941332",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941332"
+  },
+  "T Cell": {
+   "pvalue": 0.0022128178631305,
+   "fdr": 0.0199621928922623,
+   "genes": [
+    "AKT1",
+    "RUNX2"
+   ],
+   "geneSet": "R-HSA-8941332",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941332"
+  }
+ },
+ "RUNX3 regulates BCL2L11 (BIM) transcription": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.000855354774179417,
+   "fdr": 0.0122552931930748,
+   "genes": [
+    "SMAD3",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-8952158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8952158"
+  },
+  "Endothelial Cell": {
+   "pvalue": 0.000979943703379282,
+   "fdr": 0.0104366832164337,
+   "genes": [
+    "SMAD3",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-8952158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8952158"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.000907733613532357,
+   "fdr": 0.010673695248777,
+   "genes": [
+    "SMAD3",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-8952158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8952158"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.000872644786142906,
+   "fdr": 0.0096614244180107,
+   "genes": [
+    "SMAD3",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-8952158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8952158"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.0010740089510531,
+   "fdr": 0.0118140984615845,
+   "genes": [
+    "SMAD3",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-8952158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8952158"
+  },
+  "Principal Cell": {
+   "pvalue": 0.000838234495769585,
+   "fdr": 0.0091031198425932,
+   "genes": [
+    "SMAD3",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-8952158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8952158"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.000855354774179417,
+   "fdr": 0.0080130763185489,
+   "genes": [
+    "SMAD3",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-8952158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8952158"
+  }
+ },
+ "SMAC binds to IAPs": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.000855354774179417,
+   "fdr": 0.0122552931930748,
+   "genes": [
+    "CASP3",
+    "CASP9"
+   ],
+   "geneSet": "R-HSA-111463",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111463"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 0.00094350018382805,
+   "fdr": 0.0096327413977654,
+   "genes": [
+    "CASP3",
+    "CASP9"
+   ],
+   "geneSet": "R-HSA-111463",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111463"
+  }
+ },
+ "SMAD2/3 Phosphorylation Motif Mutants in Cancer": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.0012751850485552,
+   "fdr": 0.0164711402105057,
+   "genes": [
+    "SMAD3",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 1.47590975051459e-05,
+   "fdr": 0.000547049157527691,
+   "genes": [
+    "SMAD2",
+    "TGFB1",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Endothelial Cell": {
+   "pvalue": 1.42054852436679e-07,
+   "fdr": 6.54604117309563e-06,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "TGFB1",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 1.71691526931194e-05,
+   "fdr": 0.000472151699060785,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 0.0014061494321098,
+   "fdr": 0.0131729933063034,
+   "genes": [
+    "SMAD2",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.0011749087734836,
+   "fdr": 0.0134974356854459,
+   "genes": [
+    "SMAD2",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 3.31573547258656e-05,
+   "fdr": 0.000479095676335601,
+   "genes": [
+    "SMAD2",
+    "TGFB1",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.0013008791078581,
+   "fdr": 0.0136913511043094,
+   "genes": [
+    "SMAD2",
+    "SMAD3"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 2.7280791721207e-05,
+   "fdr": 0.000442988094139599,
+   "genes": [
+    "SMAD2",
+    "TGFB1",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 2.46204738763022e-05,
+   "fdr": 0.000435511988925137,
+   "genes": [
+    "SMAD2",
+    "TGFB1",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.0011749087734836,
+   "fdr": 0.0187216771849504,
+   "genes": [
+    "SMAD2",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Parietal Cell": {
+   "pvalue": 2.21375968939563e-05,
+   "fdr": 0.000698716560258105,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.0013008791078581,
+   "fdr": 0.0138624929931133,
+   "genes": [
+    "SMAD2",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Principal Cell": {
+   "pvalue": 1.52219083043858e-05,
+   "fdr": 0.00052966027875465,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 1.43056991090961e-05,
+   "fdr": 0.000518962063425723,
+   "genes": [
+    "SMAD2",
+    "TGFB1",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "T Cell": {
+   "pvalue": 9.51391780912302e-08,
+   "fdr": 7.05270863676294e-06,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "TGFB1",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 1.5694225427687e-05,
+   "fdr": 0.000418103974284475,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "TGFBR1"
+   ],
+   "geneSet": "R-HSA-3304356",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3304356"
+  }
+ },
+ "TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.000410434246700397,
+   "fdr": 0.0075246278561739,
+   "genes": [
+    "RHOA",
+    "SMURF1",
+    "TGFB1"
+   ],
+   "geneSet": "R-HSA-2173791",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2173791"
+  },
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 2.384322519422e-07,
+   "fdr": 1.93584280743548e-05,
+   "genes": [
+    "PRKCZ",
+    "RHOA",
+    "TGFB1",
+    "TGFBR1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-2173791",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2173791"
+  },
+  "Endothelial Cell": {
+   "pvalue": 3.71994809400533e-07,
+   "fdr": 1.34947053197427e-05,
+   "genes": [
+    "PRKCZ",
+    "RHOA",
+    "TGFB1",
+    "TGFBR1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-2173791",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2173791"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 1.03249748506506e-05,
+   "fdr": 0.00065200304149479,
+   "genes": [
+    "PRKCZ",
+    "RHOA",
+    "TGFB1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-2173791",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2173791"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 1.07640459467983e-05,
+   "fdr": 0.00042616736866341,
+   "genes": [
+    "RHOA",
+    "TGFB1",
+    "TGFBR1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-2173791",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2173791"
+  }
+ },
+ "VLDLR internalisation and degradation": {
+  "Connecting Tubule Cell": {
+   "pvalue": 0.000165701352846658,
+   "fdr": 0.0040360115229079,
+   "genes": [
+    "CLTC",
+    "MYLIP",
+    "VLDLR"
+   ],
+   "geneSet": "R-HSA-8866427",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8866427"
+  },
+  "Principal Cell": {
+   "pvalue": 0.000160783289586574,
+   "fdr": 0.0025861840447651,
+   "genes": [
+    "CLTC",
+    "MYLIP",
+    "VLDLR"
+   ],
+   "geneSet": "R-HSA-8866427",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8866427"
+  }
+ },
+ "Activation of BAD and translocation to mitochondria": {
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.000316157346609502,
+   "fdr": 0.0052847870193058,
+   "genes": [
+    "AKT1",
+    "YWHAB",
+    "YWHAZ"
+   ],
+   "geneSet": "R-HSA-111447",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111447"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.000213977333589188,
+   "fdr": 0.0041458108382905,
+   "genes": [
+    "BCL2",
+    "YWHAB",
+    "YWHAZ"
+   ],
+   "geneSet": "R-HSA-111447",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111447"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 1.66512512559391e-05,
+   "fdr": 0.000334004510486779,
+   "genes": [
+    "AKT1",
+    "BAD",
+    "YWHAB",
+    "YWHAZ"
+   ],
+   "geneSet": "R-HSA-111447",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111447"
+  },
+  "Parietal Cell": {
+   "pvalue": 1.44733906974892e-05,
+   "fdr": 0.00052504534338764,
+   "genes": [
+    "AKT1",
+    "BAD",
+    "BCL2",
+    "YWHAZ"
+   ],
+   "geneSet": "R-HSA-111447",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111447"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.000213977333589188,
+   "fdr": 0.0041458108382905,
+   "genes": [
+    "BCL2",
+    "YWHAB",
+    "YWHAZ"
+   ],
+   "geneSet": "R-HSA-111447",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111447"
+  },
+  "Plasma Cell": {
+   "pvalue": 1.22987416517617e-06,
+   "fdr": 7.48905518437632e-05,
+   "genes": [
+    "AKT1",
+    "BAD",
+    "BCL2",
+    "YWHAZ"
+   ],
+   "geneSet": "R-HSA-111447",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111447"
+  },
+  "T Cell": {
+   "pvalue": 1.56733880096737e-07,
+   "fdr": 1.06892506225975e-05,
+   "genes": [
+    "AKT1",
+    "BAD",
+    "BCL2",
+    "YWHAB",
+    "YWHAZ"
+   ],
+   "geneSet": "R-HSA-111447",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111447"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.000213977333589188,
+   "fdr": 0.0041458108382905,
+   "genes": [
+    "BCL2",
+    "YWHAB",
+    "YWHAZ"
+   ],
+   "geneSet": "R-HSA-111447",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111447"
+  }
+ },
+ "Constitutive Signaling by Ligand-Responsive EGFR Cancer Variants": {
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 6.21008985790538e-07,
+   "fdr": 4.23528128309147e-05,
+   "genes": [
+    "EGF",
+    "EGFR",
+    "HSP90AA1",
+    "PIK3R1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-1236382",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1236382"
+  },
+  "Endothelial Cell": {
+   "pvalue": 9.66808290314702e-07,
+   "fdr": 3.05260765738253e-05,
+   "genes": [
+    "EGF",
+    "EGFR",
+    "HSP90AA1",
+    "PIK3R1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-1236382",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1236382"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 7.98158405701521e-07,
+   "fdr": 3.67800022086782e-05,
+   "genes": [
+    "EGF",
+    "EGFR",
+    "PIK3CA",
+    "PIK3R1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-1236382",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1236382"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 6.87674197807908e-07,
+   "fdr": 3.25690140906245e-05,
+   "genes": [
+    "EGFR",
+    "HSP90AA1",
+    "PIK3CA",
+    "PIK3R1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-1236382",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1236382"
+  }
+ },
+ "ERBB2 Regulates Cell Motility": {
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.000316157346609502,
+   "fdr": 0.0052847870193058,
+   "genes": [
+    "EGF",
+    "EGFR",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-6785631",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-6785631"
+  }
+ },
+ "Formation of annular gap junctions": {
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.0043573960882568,
+   "fdr": 0.0395178740982864,
+   "genes": [
+    "ACTB",
+    "CLTC"
+   ],
+   "geneSet": "R-HSA-196025",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-196025"
+  }
+ },
+ "GP1b-IX-V activation signalling": {
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 3.13812983976369e-06,
+   "fdr": 0.000167668367272045,
+   "genes": [
+    "COL1A2",
+    "PIK3R1",
+    "SRC",
+    "YWHAZ"
+   ],
+   "geneSet": "R-HSA-430116",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-430116"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.000181041479253352,
+   "fdr": 0.0032492181276522,
+   "genes": [
+    "FLNA",
+    "PIK3R1",
+    "YWHAZ"
+   ],
+   "geneSet": "R-HSA-430116",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-430116"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 0.000191765097079521,
+   "fdr": 0.0026799958239392,
+   "genes": [
+    "COL1A2",
+    "PIK3R1",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-430116",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-430116"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.000105286328758502,
+   "fdr": 0.0023014511606826,
+   "genes": [
+    "FLNA",
+    "PIK3R1",
+    "YWHAZ"
+   ],
+   "geneSet": "R-HSA-430116",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-430116"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.000105286328758502,
+   "fdr": 0.0023014511606826,
+   "genes": [
+    "FLNA",
+    "PIK3R1",
+    "YWHAZ"
+   ],
+   "geneSet": "R-HSA-430116",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-430116"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.000105286328758502,
+   "fdr": 0.0023014511606826,
+   "genes": [
+    "FLNA",
+    "PIK3R1",
+    "YWHAZ"
+   ],
+   "geneSet": "R-HSA-430116",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-430116"
+  }
+ },
+ "GRB2 events in EGFR signaling": {
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.0017041027306261,
+   "fdr": 0.020318147942081,
+   "genes": [
+    "EGF",
+    "EGFR"
+   ],
+   "geneSet": "R-HSA-179812",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-179812"
+  },
+  "Endothelial Cell": {
+   "pvalue": 0.0020309961549394,
+   "fdr": 0.0184194066179344,
+   "genes": [
+    "EGF",
+    "EGFR"
+   ],
+   "geneSet": "R-HSA-179812",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-179812"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.0018822882582338,
+   "fdr": 0.0174418558711346,
+   "genes": [
+    "EGF",
+    "EGFR"
+   ],
+   "geneSet": "R-HSA-179812",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-179812"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.001809985442657,
+   "fdr": 0.017634429598459,
+   "genes": [
+    "EGF",
+    "EGFR"
+   ],
+   "geneSet": "R-HSA-179812",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-179812"
+  }
+ },
+ "PI3K events in ERBB2 signaling": {
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.000386528251093087,
+   "fdr": 0.0063877605974641,
+   "genes": [
+    "EGF",
+    "EGFR",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-1963642",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1963642"
+  }
+ },
+ "PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1": {
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.0028864849054024,
+   "fdr": 0.0289497456688892,
+   "genes": [
+    "AKT1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8849469",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849469"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.0031862937556121,
+   "fdr": 0.025386125482798,
+   "genes": [
+    "AKT1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8849469",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849469"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.0027705282664296,
+   "fdr": 0.0259546741442997,
+   "genes": [
+    "AKT1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8849469",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849469"
+  },
+  "Plasma Cell": {
+   "pvalue": 0.0011154410285172,
+   "fdr": 0.0154620077530235,
+   "genes": [
+    "AKT1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8849469",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849469"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.0030646740603866,
+   "fdr": 0.0248822346331395,
+   "genes": [
+    "AKT1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8849469",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849469"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.0028282224460813,
+   "fdr": 0.0263503785276981,
+   "genes": [
+    "AKT1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-8849469",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8849469"
+  }
+ },
+ "Pink/Parkin Mediated Mitophagy": {
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 4.32142132422708e-05,
+   "fdr": 0.0012488175182724,
+   "genes": [
+    "MFN1",
+    "MFN2",
+    "PINK1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-5205685",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5205685"
+  }
+ },
+ "Signaling by NTRK3 (TRKC)": {
+  "Distal Convoluted Tubule Cell": {
+   "pvalue": 0.000466234684805111,
+   "fdr": 0.0074993409206859,
+   "genes": [
+    "BAX",
+    "PIK3R1",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-9034015",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9034015"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 1.34089507907164e-05,
+   "fdr": 0.000431363416946633,
+   "genes": [
+    "BAX",
+    "IRS1",
+    "PIK3CA",
+    "PIK3R1"
+   ],
+   "geneSet": "R-HSA-9034015",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9034015"
+  }
+ },
+ "DSCAM interactions": {
+  "Endothelial Cell": {
+   "pvalue": 0.000153289291490166,
+   "fdr": 0.0023545787566732,
+   "genes": [
+    "MAPK12",
+    "MAPK8",
+    "RAC1"
+   ],
+   "geneSet": "R-HSA-376172",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-376172"
+  }
+ },
+ "Downregulation of TGF-beta receptor signaling": {
+  "Endothelial Cell": {
+   "pvalue": 1.74178288903092e-07,
+   "fdr": 7.24326786779935e-06,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "SMAD7",
+    "TGFB1",
+    "TGFBR1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-2173788",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2173788"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 1.38388667414446e-07,
+   "fdr": 9.83136158090129e-06,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "SMAD7",
+    "SMURF1",
+    "TGFBR1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-2173788",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2173788"
+  }
+ },
+ "IRS activation": {
+  "Endothelial Cell": {
+   "pvalue": 0.000979943703379282,
+   "fdr": 0.0104366832164337,
+   "genes": [
+    "INSR",
+    "IRS1"
+   ],
+   "geneSet": "R-HSA-74713",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74713"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 9.1666071717622e-06,
+   "fdr": 0.000284164822324628,
+   "genes": [
+    "INSR",
+    "IRS1",
+    "IRS2"
+   ],
+   "geneSet": "R-HSA-74713",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74713"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 6.97640403990451e-06,
+   "fdr": 0.0002703356565463,
+   "genes": [
+    "INSR",
+    "IRS1",
+    "IRS2"
+   ],
+   "geneSet": "R-HSA-74713",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74713"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 0.0014032722063873,
+   "fdr": 0.0111802762237871,
+   "genes": [
+    "INSR",
+    "IRS2"
+   ],
+   "geneSet": "R-HSA-74713",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74713"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 0.001233272482255,
+   "fdr": 0.0104841136280434,
+   "genes": [
+    "INSR",
+    "IRS2"
+   ],
+   "geneSet": "R-HSA-74713",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74713"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 0.001152295531683,
+   "fdr": 0.0101271334098949,
+   "genes": [
+    "INSR",
+    "IRS2"
+   ],
+   "geneSet": "R-HSA-74713",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74713"
+  },
+  "Principal Cell": {
+   "pvalue": 0.000838234495769585,
+   "fdr": 0.0091031198425932,
+   "genes": [
+    "INSR",
+    "IRS2"
+   ],
+   "geneSet": "R-HSA-74713",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74713"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.000804503536981249,
+   "fdr": 0.0103133724101731,
+   "genes": [
+    "INSR",
+    "IRS2"
+   ],
+   "geneSet": "R-HSA-74713",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74713"
+  }
+ },
+ "RHO GTPases activate KTN1": {
+  "Endothelial Cell": {
+   "pvalue": 0.000153289291490166,
+   "fdr": 0.0023545787566732,
+   "genes": [
+    "KTN1",
+    "RAC1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-5625970",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5625970"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.000175745938693849,
+   "fdr": 0.0026517418183452,
+   "genes": [
+    "KTN1",
+    "RAC1",
+    "RHOA"
+   ],
+   "geneSet": "R-HSA-5625970",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5625970"
+  }
+ },
+ "RORA activates gene expression": {
+  "Endothelial Cell": {
+   "pvalue": 7.18103811303549e-07,
+   "fdr": 2.4487339965451e-05,
+   "genes": [
+    "CPT1A",
+    "EP300",
+    "PPARA",
+    "RORA",
+    "SREBF1"
+   ],
+   "geneSet": "R-HSA-1368082",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1368082"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 2.09766881028583e-05,
+   "fdr": 0.000729903126844356,
+   "genes": [
+    "CPT1A",
+    "EP300",
+    "PPARA",
+    "RORA"
+   ],
+   "geneSet": "R-HSA-1368082",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1368082"
+  }
+ },
+ "Signal attenuation": {
+  "Endothelial Cell": {
+   "pvalue": 0.000112303022616222,
+   "fdr": 0.0018063835241571,
+   "genes": [
+    "INSR",
+    "IRS1",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-74749",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74749"
+  },
+  "Intercalated Cell A": {
+   "pvalue": 1.78619970325755e-06,
+   "fdr": 7.0824895210561e-05,
+   "genes": [
+    "INSR",
+    "IRS1",
+    "IRS2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-74749",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74749"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 1.24179305660554e-06,
+   "fdr": 9.20546591961936e-05,
+   "genes": [
+    "INSR",
+    "IRS1",
+    "IRS2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-74749",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74749"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 0.000192037420769453,
+   "fdr": 0.0020592691975592,
+   "genes": [
+    "INSR",
+    "IRS2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-74749",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74749"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.0027667446196928,
+   "fdr": 0.028764021808392,
+   "genes": [
+    "IRS2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-74749",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74749"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 0.000158363302130037,
+   "fdr": 0.0018121438263873,
+   "genes": [
+    "INSR",
+    "IRS2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-74749",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74749"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 0.000143083548345801,
+   "fdr": 0.0017807113133546,
+   "genes": [
+    "INSR",
+    "IRS2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-74749",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74749"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.0027667446196928,
+   "fdr": 0.028764021808392,
+   "genes": [
+    "IRS2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-74749",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74749"
+  },
+  "Principal Cell": {
+   "pvalue": 8.88932095696182e-05,
+   "fdr": 0.0016474230686543,
+   "genes": [
+    "INSR",
+    "IRS2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-74749",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74749"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.0027667446196928,
+   "fdr": 0.028764021808392,
+   "genes": [
+    "IRS2",
+    "MAPK1"
+   ],
+   "geneSet": "R-HSA-74749",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-74749"
+  }
+ },
+ "Signaling by Activin": {
+  "Endothelial Cell": {
+   "pvalue": 0.000261838389088664,
+   "fdr": 0.0036295484015949,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-1502540",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1502540"
+  },
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.000233703492753756,
+   "fdr": 0.0037590986334448,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-1502540",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1502540"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.000299984102588801,
+   "fdr": 0.0040593086897929,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-1502540",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1502540"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.000213946755602267,
+   "fdr": 0.0028756417660642,
+   "genes": [
+    "SMAD2",
+    "SMAD3",
+    "SMAD4"
+   ],
+   "geneSet": "R-HSA-1502540",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1502540"
+  }
+ },
+ "Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation": {
+  "Endothelial Cell": {
+   "pvalue": 0.00020289417637942,
+   "fdr": 0.0030081267019731,
+   "genes": [
+    "CALM1",
+    "HSP90AA1",
+    "NOS3"
+   ],
+   "geneSet": "R-HSA-1474151",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1474151"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.000170716498141487,
+   "fdr": 0.0031563093950481,
+   "genes": [
+    "AKT1",
+    "CALM1",
+    "HSP90AA1"
+   ],
+   "geneSet": "R-HSA-1474151",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1474151"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.000232535202009498,
+   "fdr": 0.003276632391952,
+   "genes": [
+    "AKT1",
+    "CALM1",
+    "HSP90AA1"
+   ],
+   "geneSet": "R-HSA-1474151",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1474151"
+  },
+  "Plasma Cell": {
+   "pvalue": 3.70673494757278e-05,
+   "fdr": 0.0011285684081449,
+   "genes": [
+    "AKT1",
+    "CALM1",
+    "HSP90AA1"
+   ],
+   "geneSet": "R-HSA-1474151",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1474151"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.000170716498141487,
+   "fdr": 0.0029952732014232,
+   "genes": [
+    "AKT1",
+    "CALM1",
+    "HSP90AA1"
+   ],
+   "geneSet": "R-HSA-1474151",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1474151"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.000151234949907319,
+   "fdr": 0.0028027781477389,
+   "genes": [
+    "AKT1",
+    "CALM1",
+    "HSP90AA1"
+   ],
+   "geneSet": "R-HSA-1474151",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1474151"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.000165701352846658,
+   "fdr": 0.0025187358680362,
+   "genes": [
+    "CALM1",
+    "HSP90AA1",
+    "NOS3"
+   ],
+   "geneSet": "R-HSA-1474151",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1474151"
+  }
+ },
+ "Defective LFNG causes SCDO3": {
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.000907733613532357,
+   "fdr": 0.010673695248777,
+   "genes": [
+    "NOTCH1",
+    "NOTCH4"
+   ],
+   "geneSet": "R-HSA-5083630",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5083630"
+  }
+ },
+ "EGFR Transactivation by Gastrin": {
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.0031862937556121,
+   "fdr": 0.025386125482798,
+   "genes": [
+    "EGFR",
+    "PRKCA"
+   ],
+   "geneSet": "R-HSA-2179392",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2179392"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.0027705282664296,
+   "fdr": 0.0259546741442997,
+   "genes": [
+    "EGFR",
+    "PRKCA"
+   ],
+   "geneSet": "R-HSA-2179392",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2179392"
+  }
+ },
+ "Gastrin-CREB signalling pathway via PKC and MAPK": {
+  "Glomerular Capillary Cell": {
+   "pvalue": 2.26847997921719e-05,
+   "fdr": 0.000604337244463331,
+   "genes": [
+    "EGFR",
+    "MAPK1",
+    "PRKCA",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-881907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-881907"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 1.71214344373282e-05,
+   "fdr": 0.000512141152906047,
+   "genes": [
+    "EGFR",
+    "MAPK1",
+    "PRKCA",
+    "RPS6KA3"
+   ],
+   "geneSet": "R-HSA-881907",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-881907"
+  }
+ },
+ "NOTCH4 Intracellular Domain Regulates Transcription": {
+  "Glomerular Capillary Cell": {
+   "pvalue": 1.05607199518686e-06,
+   "fdr": 4.73842829419371e-05,
+   "genes": [
+    "EP300",
+    "HES1",
+    "NOTCH1",
+    "NOTCH4",
+    "SMAD3"
+   ],
+   "geneSet": "R-HSA-9013695",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9013695"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 3.27328528111348e-05,
+   "fdr": 0.00093015856738308,
+   "genes": [
+    "EP300",
+    "HES1",
+    "NOTCH1",
+    "SMAD3"
+   ],
+   "geneSet": "R-HSA-9013695",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9013695"
+  }
+ },
+ "PI5P Regulates TP53 Acetylation": {
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.0031862937556121,
+   "fdr": 0.025386125482798,
+   "genes": [
+    "EP300",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-6811555",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-6811555"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.0027705282664296,
+   "fdr": 0.0259546741442997,
+   "genes": [
+    "EP300",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-6811555",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-6811555"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.003004711501966,
+   "fdr": 0.0224694434686493,
+   "genes": [
+    "EP300",
+    "TP53"
+   ],
+   "geneSet": "R-HSA-6811555",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-6811555"
+  }
+ },
+ "RUNX3 regulates WNT signaling": {
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.0024939175881082,
+   "fdr": 0.0215844136432718,
+   "genes": [
+    "CCND1",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-8951430",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951430"
+  },
+  "Macula Densa Cell": {
+   "pvalue": 0.0023984234112683,
+   "fdr": 0.0216365709852518,
+   "genes": [
+    "CCND1",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-8951430",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951430"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.001739659287,
+   "fdr": 0.0195139413443096,
+   "genes": [
+    "CCND1",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-8951430",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951430"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.0029457137830303,
+   "fdr": 0.0252384020103854,
+   "genes": [
+    "CCND1",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-8951430",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951430"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.001739659287,
+   "fdr": 0.0195139413443096,
+   "genes": [
+    "CCND1",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-8951430",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951430"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.0023984234112683,
+   "fdr": 0.0214100100325267,
+   "genes": [
+    "CCND1",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-8951430",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951430"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.0022128178631305,
+   "fdr": 0.0227280388954071,
+   "genes": [
+    "CCND1",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-8951430",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951430"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.001739659287,
+   "fdr": 0.0195139413443096,
+   "genes": [
+    "CCND1",
+    "CTNNB1"
+   ],
+   "geneSet": "R-HSA-8951430",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8951430"
+  }
+ },
+ "Regulation of gene expression by Hypoxia-inducible Factor": {
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.000136740396741386,
+   "fdr": 0.0026797974303915,
+   "genes": [
+    "EP300",
+    "HIF1A",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-1234158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1234158"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.000110673922745885,
+   "fdr": 0.0019656149821014,
+   "genes": [
+    "EP300",
+    "HIF1A",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-1234158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1234158"
+  },
+  "Mesangial Cell": {
+   "pvalue": 7.94265786427939e-05,
+   "fdr": 0.0018808655081383,
+   "genes": [
+    "EP300",
+    "HIF1A",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-1234158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1234158"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.0041834016130943,
+   "fdr": 0.045431208600802,
+   "genes": [
+    "HIF1A",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-1234158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1234158"
+  },
+  "Parietal Cell": {
+   "pvalue": 0.000175745938693849,
+   "fdr": 0.0026517418183452,
+   "genes": [
+    "EP300",
+    "HIF1A",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-1234158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1234158"
+  },
+  "Pericyte Cell": {
+   "pvalue": 7.94265786427939e-05,
+   "fdr": 0.0018808655081383,
+   "genes": [
+    "EP300",
+    "HIF1A",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-1234158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1234158"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.000128923620684728,
+   "fdr": 0.0024423863696384,
+   "genes": [
+    "EP300",
+    "HIF1A",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-1234158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1234158"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 7.94265786427939e-05,
+   "fdr": 0.0018808655081383,
+   "genes": [
+    "EP300",
+    "HIF1A",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-1234158",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1234158"
+  }
+ },
+ "TICAM1-dependent activation of IRF3/IRF7": {
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.000181041479253352,
+   "fdr": 0.0032492181276522,
+   "genes": [
+    "IRF3",
+    "TLR3",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-9013973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9013973"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.000146602937657891,
+   "fdr": 0.0042365764187577,
+   "genes": [
+    "IRF3",
+    "TLR3",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-9013973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9013973"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.000165701352846658,
+   "fdr": 0.0025187358680362,
+   "genes": [
+    "IRF3",
+    "TLR3",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-9013973",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9013973"
+  }
+ },
+ "VEGF ligand-receptor interactions": {
+  "Glomerular Capillary Cell": {
+   "pvalue": 0.0024939175881082,
+   "fdr": 0.0215844136432718,
+   "genes": [
+    "KDR",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-194313",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-194313"
+  },
+  "Mesangial Cell": {
+   "pvalue": 0.001739659287,
+   "fdr": 0.0195139413443096,
+   "genes": [
+    "KDR",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-194313",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-194313"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.001739659287,
+   "fdr": 0.0195139413443096,
+   "genes": [
+    "KDR",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-194313",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-194313"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.0023984234112683,
+   "fdr": 0.0214100100325267,
+   "genes": [
+    "KDR",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-194313",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-194313"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.001739659287,
+   "fdr": 0.0195139413443096,
+   "genes": [
+    "KDR",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-194313",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-194313"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.0023513483737795,
+   "fdr": 0.0184748800796968,
+   "genes": [
+    "KDR",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-194313",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-194313"
+  }
+ },
+ "Activated NTRK2 signals through FYN": {
+  "Intercalated Cell A": {
+   "pvalue": 0.0019559593949394,
+   "fdr": 0.0165915958625458,
+   "genes": [
+    "RAC1",
+    "SRC"
+   ],
+   "geneSet": "R-HSA-9032500",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9032500"
+  }
+ },
+ "Erythropoietin activates Phospholipase C gamma (PLCG)": {
+  "Intercalated Cell A": {
+   "pvalue": 0.0014061494321098,
+   "fdr": 0.0131729933063034,
+   "genes": [
+    "IRS2",
+    "JAK2"
+   ],
+   "geneSet": "R-HSA-9027277",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027277"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 0.002088329632218,
+   "fdr": 0.0154808783605729,
+   "genes": [
+    "IRS2",
+    "JAK2"
+   ],
+   "geneSet": "R-HSA-9027277",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027277"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 0.0018362683275219,
+   "fdr": 0.0146300817683405,
+   "genes": [
+    "IRS2",
+    "JAK2"
+   ],
+   "geneSet": "R-HSA-9027277",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027277"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 0.0017161330605863,
+   "fdr": 0.0142732042356086,
+   "genes": [
+    "IRS2",
+    "JAK2"
+   ],
+   "geneSet": "R-HSA-9027277",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027277"
+  },
+  "Principal Cell": {
+   "pvalue": 0.0012497407895022,
+   "fdr": 0.012388418872682,
+   "genes": [
+    "IRS2",
+    "JAK2"
+   ],
+   "geneSet": "R-HSA-9027277",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027277"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.0011996024559172,
+   "fdr": 0.0142036263009642,
+   "genes": [
+    "IRS2",
+    "JAK2"
+   ],
+   "geneSet": "R-HSA-9027277",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027277"
+  }
+ },
+ "Erythropoietin activates STAT5": {
+  "Intercalated Cell A": {
+   "pvalue": 1.82016872645185e-05,
+   "fdr": 0.000449766330231943,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-9027283",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027283"
+  },
+  "M2 Macrophage Cell": {
+   "pvalue": 3.31573547258656e-05,
+   "fdr": 0.000479095676335601,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-9027283",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027283"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 2.7280791721207e-05,
+   "fdr": 0.000442988094139599,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-9027283",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027283"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 2.46204738763022e-05,
+   "fdr": 0.000435511988925137,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-9027283",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027283"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 1.43056991090961e-05,
+   "fdr": 0.000518962063425723,
+   "genes": [
+    "IRS2",
+    "JAK2",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-9027283",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9027283"
+  }
+ },
+ "SOS-mediated signalling": {
+  "Intercalated Cell A": {
+   "pvalue": 0.0019559593949394,
+   "fdr": 0.0165915958625458,
+   "genes": [
+    "IRS1",
+    "IRS2"
+   ],
+   "geneSet": "R-HSA-112412",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112412"
+  },
+  "Intercalated Cell B": {
+   "pvalue": 0.0016352325414483,
+   "fdr": 0.0171047330255796,
+   "genes": [
+    "IRS1",
+    "IRS2"
+   ],
+   "geneSet": "R-HSA-112412",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-112412"
+  }
+ },
+ "Constitutive Signaling by AKT1 E17K in Cancer": {
+  "Intercalated Cell B": {
+   "pvalue": 7.00042592782779e-08,
+   "fdr": 9.18132785149722e-06,
+   "genes": [
+    "AKT1",
+    "AKT1S1",
+    "CDKN1A",
+    "FOXO1",
+    "MDM2",
+    "TSC2"
+   ],
+   "geneSet": "R-HSA-5674400",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5674400"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 2.58029976973883e-06,
+   "fdr": 0.000151703831289817,
+   "genes": [
+    "AKT1",
+    "AKT1S1",
+    "CDKN1A",
+    "FOXO1",
+    "PDPK1"
+   ],
+   "geneSet": "R-HSA-5674400",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5674400"
+  }
+ },
+ "Interleukin-1 processing": {
+  "M2 Macrophage Cell": {
+   "pvalue": 5.75146634095302e-05,
+   "fdr": 0.000766113289947258,
+   "genes": [
+    "IL1B",
+    "NFKB1",
+    "RELA"
+   ],
+   "geneSet": "R-HSA-448706",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-448706"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 4.73482556151427e-05,
+   "fdr": 0.000678393074149734,
+   "genes": [
+    "IL1B",
+    "NFKB1",
+    "NFKB2"
+   ],
+   "geneSet": "R-HSA-448706",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-448706"
+  }
+ },
+ "RIP-mediated NFkB activation via ZBP1": {
+  "Macula Densa Cell": {
+   "pvalue": 1.6434491893702e-05,
+   "fdr": 0.000609148014755695,
+   "genes": [
+    "IKBKB",
+    "NFKB2",
+    "RELA",
+    "TLR3"
+   ],
+   "geneSet": "R-HSA-1810476",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1810476"
+  },
+  "Proximal Tubule Cell": {
+   "pvalue": 0.000438569034495239,
+   "fdr": 0.0084972750433452,
+   "genes": [
+    "IKBKB",
+    "NFKB1",
+    "TLR3"
+   ],
+   "geneSet": "R-HSA-1810476",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1810476"
+  }
+ },
+ "RUNX3 regulates NOTCH signaling": {
+  "Macula Densa Cell": {
+   "pvalue": 0.000278590493337338,
+   "fdr": 0.0045672768378861,
+   "genes": [
+    "EP300",
+    "HES1",
+    "NOTCH1"
+   ],
+   "geneSet": "R-HSA-8941856",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8941856"
+  }
+ },
+ "BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members": {
+  "Mesangial Cell": {
+   "pvalue": 0.0022250162428899,
+   "fdr": 0.0241633929562253,
+   "genes": [
+    "BCL2",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-111453",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111453"
+  },
+  "Monocyte Derived Cell": {
+   "pvalue": 0.000111773380273572,
+   "fdr": 0.0013863809586911,
+   "genes": [
+    "BAD",
+    "BCL2",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-111453",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111453"
+  },
+  "Parietal Cell": {
+   "pvalue": 9.0856458118016e-05,
+   "fdr": 0.0016838071857741,
+   "genes": [
+    "BAD",
+    "BCL2",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-111453",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111453"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.0022250162428899,
+   "fdr": 0.0241633929562253,
+   "genes": [
+    "BCL2",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-111453",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111453"
+  },
+  "Plasma Cell": {
+   "pvalue": 1.43262005806166e-05,
+   "fdr": 0.000531003738911985,
+   "genes": [
+    "BAD",
+    "BCL2",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-111453",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111453"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.0030646740603866,
+   "fdr": 0.0248822346331395,
+   "genes": [
+    "BAD",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-111453",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111453"
+  },
+  "T Cell": {
+   "pvalue": 5.89018228029925e-05,
+   "fdr": 0.0010780218149171,
+   "genes": [
+    "BAD",
+    "BCL2",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-111453",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111453"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.0022250162428899,
+   "fdr": 0.0241633929562253,
+   "genes": [
+    "BCL2",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-111453",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-111453"
+  }
+ },
+ "Tie2 Signaling": {
+  "Mesangial Cell": {
+   "pvalue": 1.10061368423508e-05,
+   "fdr": 0.0003992651769406,
+   "genes": [
+    "ANGPT1",
+    "PIK3CA",
+    "PIK3R1",
+    "TEK"
+   ],
+   "geneSet": "R-HSA-210993",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-210993"
+  },
+  "Pericyte Cell": {
+   "pvalue": 1.10061368423508e-05,
+   "fdr": 0.0003992651769406,
+   "genes": [
+    "ANGPT1",
+    "PIK3CA",
+    "PIK3R1",
+    "TEK"
+   ],
+   "geneSet": "R-HSA-210993",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-210993"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 1.10061368423508e-05,
+   "fdr": 0.0003992651769406,
+   "genes": [
+    "ANGPT1",
+    "PIK3CA",
+    "PIK3R1",
+    "TEK"
+   ],
+   "geneSet": "R-HSA-210993",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-210993"
+  }
+ },
+ "p75NTR signals via NF-kB": {
+  "Mesangial Cell": {
+   "pvalue": 0.000261827383339241,
+   "fdr": 0.0046501634228479,
+   "genes": [
+    "MYD88",
+    "NFKB1",
+    "TRAF6"
+   ],
+   "geneSet": "R-HSA-193639",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-193639"
+  },
+  "Pericyte Cell": {
+   "pvalue": 0.000261827383339241,
+   "fdr": 0.0046501634228479,
+   "genes": [
+    "MYD88",
+    "NFKB1",
+    "TRAF6"
+   ],
+   "geneSet": "R-HSA-193639",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-193639"
+  },
+  "Vascular Smooth Muscle Cell": {
+   "pvalue": 0.000261827383339241,
+   "fdr": 0.0046501634228479,
+   "genes": [
+    "MYD88",
+    "NFKB1",
+    "TRAF6"
+   ],
+   "geneSet": "R-HSA-193639",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-193639"
+  }
+ },
+ "NTRK2 activates RAC1": {
+  "Monocyte Derived Cell": {
+   "pvalue": 0.001233272482255,
+   "fdr": 0.0104841136280434,
+   "genes": [
+    "FYN",
+    "RAC1"
+   ],
+   "geneSet": "R-HSA-9032759",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9032759"
+  },
+  "Non-Classical Monocyte": {
+   "pvalue": 0.001152295531683,
+   "fdr": 0.0101271334098949,
+   "genes": [
+    "FYN",
+    "RAC1"
+   ],
+   "geneSet": "R-HSA-9032759",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9032759"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.000872644786142906,
+   "fdr": 0.009919062402491,
+   "genes": [
+    "FYN",
+    "RAC1"
+   ],
+   "geneSet": "R-HSA-9032759",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9032759"
+  },
+  "T Cell": {
+   "pvalue": 0.000804503536981249,
+   "fdr": 0.0087928110932886,
+   "genes": [
+    "FYN",
+    "RAC1"
+   ],
+   "geneSet": "R-HSA-9032759",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9032759"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 0.000855354774179417,
+   "fdr": 0.0080130763185489,
+   "genes": [
+    "FYN",
+    "RAC1"
+   ],
+   "geneSet": "R-HSA-9032759",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9032759"
+  }
+ },
+ "Regulation of KIT signaling": {
+  "Non-Classical Monocyte": {
+   "pvalue": 2.20153509069565e-05,
+   "fdr": 0.000421567650569023,
+   "genes": [
+    "FYN",
+    "PRKCA",
+    "PTPN6",
+    "SOCS1"
+   ],
+   "geneSet": "R-HSA-1433559",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1433559"
+  },
+  "T Cell": {
+   "pvalue": 1.07640459467983e-05,
+   "fdr": 0.000279871107778956,
+   "genes": [
+    "FYN",
+    "PRKCA",
+    "PTPN6",
+    "SOCS1"
+   ],
+   "geneSet": "R-HSA-1433559",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1433559"
+  }
+ },
+ "Alternative complement activation": {
+  "Proximal Tubule Cell": {
+   "pvalue": 0.000787893055359534,
+   "fdr": 0.01343357659388,
+   "genes": [
+    "C3",
+    "CFB"
+   ],
+   "geneSet": "R-HSA-173736",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-173736"
+  }
+ },
+ "Chylomicron clearance": {
+  "Proximal Tubule Cell": {
+   "pvalue": 0.000787893055359534,
+   "fdr": 0.01343357659388,
+   "genes": [
+    "APOE",
+    "LDLR"
+   ],
+   "geneSet": "R-HSA-8964026",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8964026"
+  }
+ },
+ "Diseases of Immune System": {
+  "Proximal Tubule Cell": {
+   "pvalue": 5.70436978525323e-05,
+   "fdr": 0.0019863457424018,
+   "genes": [
+    "IKBKB",
+    "NFKB1",
+    "TLR3",
+    "TLR4"
+   ],
+   "geneSet": "R-HSA-5260271",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5260271"
+  }
+ },
+ "Downregulation of SMAD2/3:SMAD4 transcriptional activity": {
+  "Proximal Tubule Cell": {
+   "pvalue": 4.78653873190459e-05,
+   "fdr": 0.0018135663417549,
+   "genes": [
+    "HDAC1",
+    "SMAD2",
+    "SMAD4",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-2173795",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2173795"
+  },
+  "Vasa Recta Cell": {
+   "pvalue": 5.1907830700415e-08,
+   "fdr": 5.20605007907103e-06,
+   "genes": [
+    "HDAC1",
+    "PARP1",
+    "SMAD2",
+    "SMAD3",
+    "SMAD4",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-2173795",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2173795"
+  }
+ },
+ "MAP3K8 (TPL2)-dependent MAPK1/3 activation": {
+  "Proximal Tubule Cell": {
+   "pvalue": 0.000363540784429683,
+   "fdr": 0.0075589882616171,
+   "genes": [
+    "IKBKB",
+    "NFKB1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-5684264",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5684264"
+  }
+ },
+ "SUMOylation of intracellular receptors": {
+  "Proximal Tubule Cell": {
+   "pvalue": 2.2635411478511e-07,
+   "fdr": 5.48220444209213e-05,
+   "genes": [
+    "AR",
+    "ESR1",
+    "NR1H4",
+    "PPARA",
+    "RORA",
+    "VDR"
+   ],
+   "geneSet": "R-HSA-4090294",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-4090294"
+  }
+ },
+ "Syndecan interactions": {
+  "Proximal Tubule Cell": {
+   "pvalue": 3.66980138966077e-06,
+   "fdr": 0.000329316387861664,
+   "genes": [
+    "COL1A2",
+    "PRKCA",
+    "TGFB1",
+    "THBS1",
+    "TNC"
+   ],
+   "geneSet": "R-HSA-3000170",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3000170"
+  }
+ },
+ "TICAM1,TRAF6-dependent induction of TAK1 complex": {
+  "Proximal Tubule Cell": {
+   "pvalue": 0.000438569034495239,
+   "fdr": 0.0084972750433452,
+   "genes": [
+    "TLR3",
+    "TLR4",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-9014325",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9014325"
+  }
+ },
+ "VEGFR2 mediated cell proliferation": {
+  "Proximal Tubule Cell": {
+   "pvalue": 9.65386093954023e-07,
+   "fdr": 0.000126614099245508,
+   "genes": [
+    "CALM1",
+    "PDPK1",
+    "PRKCA",
+    "PRKCZ",
+    "VEGFA"
+   ],
+   "geneSet": "R-HSA-5218921",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5218921"
+  }
+ },
+ "ZBP1(DAI) mediated induction of type I IFNs": {
+  "Proximal Tubule Cell": {
+   "pvalue": 3.28011798991223e-05,
+   "fdr": 0.0013981502932,
+   "genes": [
+    "IKBKB",
+    "IRF3",
+    "NFKB1",
+    "TLR3"
+   ],
+   "geneSet": "R-HSA-1606322",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1606322"
+  }
+ },
+ "SHC-related events triggered by IGF1R": {
+  "Parietal Cell": {
+   "pvalue": 0.0037613873044337,
+   "fdr": 0.0296905803428683,
+   "genes": [
+    "IGF1",
+    "IGF1R"
+   ],
+   "geneSet": "R-HSA-2428933",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2428933"
+  },
+  "Podocyte Cell": {
+   "pvalue": 0.0030646740603866,
+   "fdr": 0.0248822346331395,
+   "genes": [
+    "IGF1",
+    "IGF1R"
+   ],
+   "geneSet": "R-HSA-2428933",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2428933"
+  }
+ },
+ "HSF1 activation": {
+  "Plasma Cell": {
+   "pvalue": 0.0020226443361123,
+   "fdr": 0.023459922401847,
+   "genes": [
+    "HSP90AA1",
+    "VCP"
+   ],
+   "geneSet": "R-HSA-3371511",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-3371511"
+  }
+ },
+ "Interleukin-15 signaling": {
+  "Plasma Cell": {
+   "pvalue": 6.08345162840251e-05,
+   "fdr": 0.0016206695353791,
+   "genes": [
+    "JAK1",
+    "JAK3",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-8983432",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8983432"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.000246938972258581,
+   "fdr": 0.0040483744971238,
+   "genes": [
+    "JAK1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-8983432",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8983432"
+  },
+  "T Cell": {
+   "pvalue": 6.00351657231712e-06,
+   "fdr": 0.000173491453488147,
+   "genes": [
+    "JAK1",
+    "JAK3",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-8983432",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8983432"
+  }
+ },
+ "Interleukin-2 signaling": {
+  "Plasma Cell": {
+   "pvalue": 0.0020226443361123,
+   "fdr": 0.023459922401847,
+   "genes": [
+    "JAK1",
+    "JAK3"
+   ],
+   "geneSet": "R-HSA-9020558",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020558"
+  },
+  "T Cell": {
+   "pvalue": 0.000151234949907319,
+   "fdr": 0.0023230233296574,
+   "genes": [
+    "JAK1",
+    "JAK3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-9020558",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020558"
+  }
+ },
+ "Josephin domain DUBs": {
+  "Plasma Cell": {
+   "pvalue": 0.0020226443361123,
+   "fdr": 0.023459922401847,
+   "genes": [
+    "UBC",
+    "VCP"
+   ],
+   "geneSet": "R-HSA-5689877",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5689877"
+  }
+ },
+ "VEGFR2 mediated vascular permeability": {
+  "Plasma Cell": {
+   "pvalue": 5.36181854471351e-07,
+   "fdr": 4.15540937215297e-05,
+   "genes": [
+    "AKT1",
+    "CALM1",
+    "CTNNB1",
+    "HSP90AA1",
+    "RAC1"
+   ],
+   "geneSet": "R-HSA-5218920",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5218920"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 1.9419536345655e-07,
+   "fdr": 2.24051816582286e-05,
+   "genes": [
+    "AKT1",
+    "CALM1",
+    "CTNNB1",
+    "HSP90AA1",
+    "PDPK1",
+    "TRIB3"
+   ],
+   "geneSet": "R-HSA-5218920",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-5218920"
+  }
+ },
+ "Interleukin-23 signaling": {
+  "Podocyte Cell": {
+   "pvalue": 0.0030646740603866,
+   "fdr": 0.0248822346331395,
+   "genes": [
+    "JAK2",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-9020933",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020933"
+  },
+  "Thick Ascending Limb Cell": {
+   "pvalue": 0.0028282224460813,
+   "fdr": 0.0263503785276981,
+   "genes": [
+    "JAK2",
+    "STAT3"
+   ],
+   "geneSet": "R-HSA-9020933",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-9020933"
+  }
+ },
+ "Reelin signalling pathway": {
+  "Podocyte Cell": {
+   "pvalue": 0.000872644786142906,
+   "fdr": 0.009919062402491,
+   "genes": [
+    "FYN",
+    "VLDLR"
+   ],
+   "geneSet": "R-HSA-8866376",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8866376"
+  }
+ },
+ "CD28 dependent PI3K/Akt signaling": {
+  "Thick Ascending Limb Cell": {
+   "pvalue": 1.30685079058334e-06,
+   "fdr": 8.91272239177842e-05,
+   "genes": [
+    "AKT1",
+    "FYN",
+    "PDPK1",
+    "PIK3R1",
+    "TRIB3"
+   ],
+   "geneSet": "R-HSA-389357",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-389357"
+  }
+ },
+ "Interleukin-20 family signaling": {
+  "Thick Ascending Limb Cell": {
+   "pvalue": 2.58029976973883e-06,
+   "fdr": 0.000151703831289817,
+   "genes": [
+    "JAK1",
+    "JAK2",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-8854691",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-8854691"
+  }
+ },
+ "Signaling by SCF-KIT": {
+  "T Cell": {
+   "pvalue": 3.59867691201998e-12,
+   "fdr": 8.76534876427724e-10,
+   "genes": [
+    "FYN",
+    "PIK3CA",
+    "PIK3R1",
+    "PRKCA",
+    "PTPN6",
+    "RAC1",
+    "SOCS1",
+    "STAT1",
+    "STAT3",
+    "STAT5A"
+   ],
+   "geneSet": "R-HSA-1433557",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-1433557"
+  }
+ },
+ "SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription": {
+  "Vasa Recta Cell": {
+   "pvalue": 3.93429400169509e-10,
+   "fdr": 5.58997606074177e-08,
+   "genes": [
+    "HDAC1",
+    "JUNB",
+    "SMAD2",
+    "SMAD3",
+    "SMAD4",
+    "SMAD7",
+    "SP1",
+    "UBC"
+   ],
+   "geneSet": "R-HSA-2173796",
+   "link": "http://reactome.org/PathwayBrowser/#/R-HSA-2173796"
+  }
+ }
+}

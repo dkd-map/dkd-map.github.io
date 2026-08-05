@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cell-Cell Interaction Map — DKDM</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main>
+
+<section class="page-head container"><p class="eyebrow">About</p><h1>Cell&ndash;Cell Interaction Map</h1></section>
+<section class="container section" style="padding-top:8px"><div class="prose">
+<p>The kidney is not a collection of isolated cell types &mdash; it is a tightly coordinated multicellular system in which disease emerges from the breakdown of communication between cells as much as from dysfunction within them. In DKD, inflammatory signals propagate from immune cells to resident kidney populations, fibrotic programs are amplified through stromal&ndash;epithelial crosstalk, and injury responses in one compartment trigger maladaptive reactions in others. Understanding this intercellular architecture is essential for grasping how localized molecular perturbations scale into organ-level dysfunction.</p>
+<p>The DKDM Cell&ndash;Cell Interaction Map captures this tissue-level signaling landscape in a structured form. It was constructed by integrating high-confidence secreted ligands from the SEPDB database with experimentally validated ligand&ndash;receptor interaction pairs from CellChatDB, filtered by cell-type-specific expression profiles derived from single-cell RNA sequencing of over 100,000 human kidney cells from the Kidney Precision Medicine Project. This approach ensures that only interactions supported by both a curated molecular database and actual expression evidence in human kidney tissue are represented.</p>
+<p>The resulting map comprises 498 directed intercellular interactions spanning all 24 renal cell populations in DKDM, organized as a sender&ndash;receiver communication network. Network topology analysis reveals that immune cells, particularly M2 macrophages, act as major communication hubs based on betweenness centrality, while glomerular populations including podocytes emerge as prominent signal recipients. This asymmetry provides a systems-level explanation for how immune activation in DKD may propagate injury signals into the glomerular compartment.</p>
+<h3>What you can explore here</h3>
+<ul>
+<li>Which cell types send and receive signals to or from a population of interest</li>
+<li>Which specific ligand&ndash;receptor pairs mediate each intercellular interaction</li>
+<li>Which cell types occupy hub versus recipient roles in the tissue communication network</li>
+<li>How the intercellular communication architecture changes in the context of DKD-associated expression patterns</li>
+</ul>
+<div class="callout"><strong>Network data.</strong> The full cell&ndash;cell interaction network is available as a downloadable CSV.</div>
+<div class="tag-row">
+  <a class="btn btn-primary btn-sm" id="cciOpen" href="#" target="_blank" rel="noopener">Open interactive map &uarr;</a>
+  <a class="btn btn-ghost btn-sm" id="cciCsv" href="#" download>&#8595; Download network CSV</a>
+</div>
+</div></section>
+
+</main>
+<script src="js/data.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/main.js"></script>
+<script>window.PAGE="about"; DKDMLayout.mount();document.getElementById("cciOpen").href=DKDM.cciMapUrl;document.getElementById("cciCsv").href=DKDM.cciCsv;</script>
+</body>
+</html>

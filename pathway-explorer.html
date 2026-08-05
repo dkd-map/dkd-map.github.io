@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pathway Explorer — DKDM</title>
+  <meta name="description" content="Explore pathway enrichment results across 24 kidney cell types in the Diabetic Kidney Disease Map.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main>
+
+<section class="page-head container">
+  <p class="eyebrow">Explore</p>
+  <h1>Pathway Explorer</h1>
+  <p class="muted" style="max-width:760px;margin-top:4px">Search pathway enrichment results across kidney cell types. Browse by cell type to see which pathways are enriched, or search a pathway name to discover which cell types share it. Filter by significance, explore the genes involved, and link to the original pathway database.</p>
+</section>
+
+<section class="container section" style="padding-top:8px">
+  <!-- Mode toggle -->
+  <div class="pe-mode-toggle">
+    <button class="pe-mode-btn active" id="modeByCell" onclick="DKDMPathway.setMode('cell')">Browse by Cell Type</button>
+    <button class="pe-mode-btn" id="modeByPathway" onclick="DKDMPathway.setMode('pathway')">Search by Pathway Name</button>
+  </div>
+
+  <!-- Controls -->
+  <div class="pe-controls">
+    <div class="pe-control-group" id="cellSelectGroup">
+      <label for="cellSelect">Cell type</label>
+      <select id="cellSelect" onchange="DKDMPathway.onCellChange()">
+        <option value="">— Select a cell type —</option>
+      </select>
+    </div>
+    <div class="pe-control-group" id="pathwaySearchGroup" style="display:none">
+      <label for="pathwayInput">Pathway name</label>
+      <input type="text" id="pathwayInput" placeholder="e.g. inflammasome, insulin signaling, apoptosis…" autocomplete="off" oninput="DKDMPathway.onPathwaySearch(this.value)">
+      <div id="pathwayAutocomplete" class="gene-autocomplete"></div>
+    </div>
+    <div class="pe-control-group">
+      <label for="fdrFilter">Max FDR</label>
+      <select id="fdrFilter" onchange="DKDMPathway.render()">
+        <option value="1.0">All (no filter)</option>
+        <option value="0.05" selected>FDR &le; 0.05</option>
+        <option value="0.01">FDR &le; 0.01</option>
+        <option value="0.001">FDR &le; 0.001</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- Results -->
+  <div id="peResults" class="pe-results"></div>
+  <div id="pePlaceholder" class="gene-placeholder">
+    <p class="muted" style="text-align:center;padding:40px 0">Select a cell type above to see its enriched pathways, or switch to pathway search mode.</p>
+  </div>
+</section>
+
+</main>
+
+<script src="js/data.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/main.js"></script>
+<script src="js/pathway-explorer.js"></script>
+<script>window.PAGE="explore"; DKDMLayout.mount();</script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Overview — DKDM</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main>
+
+<section class="page-head container"><p class="eyebrow">About</p><h1>Project Overview</h1></section>
+<section class="container section" style="padding-top:8px"><div class="prose">
+<p>Diabetic kidney disease (DKD) is the leading cause of end-stage renal disease (ESRD) worldwide, affecting 20&ndash;40% of individuals with diabetes mellitus and accounting for approximately half of all ESRD cases. As part of the broader chronic kidney disease (CKD) burden, which affects around 9% of the global population and ranks among the top fifteen causes of mortality, DKD imposes an enormous and growing toll on patients and healthcare systems alike. Despite decades of research, current therapies slow but do not halt disease progression, reflecting a persistent and critical gap in our mechanistic understanding of the disease.</p>
+<p>Classical reductionist approaches to drug target identification have proven insufficient for a disease as molecularly complex as DKD. Its pathogenesis involves the interplay of metabolic dysregulation, inflammatory signaling, extracellular matrix remodeling, and cell-type-specific responses distributed across a heterogeneous tissue &mdash; complexity that demands a holistic, systems-level framework rather than isolated molecular studies.</p>
+<p>The Diabetic Kidney Disease Map (DKDM) was developed to address this need. It is a freely accessible, cell-resolved, and FAIR-compliant systems biology resource that consolidates heterogeneous biological knowledge about DKD into a unified, computable, and interactively explorable platform. DKDM integrates five complementary evidence layers &mdash; literature mining, transcriptomics, proteomics, genome-wide association data, and non-coding RNA &mdash; yielding a curated inventory of 831 high-confidence DKD-associated biomolecules. All molecular components are mapped onto 24 renal cell types identified from a single-cell RNA sequencing atlas of over 100,000 human kidney cells, providing a cellular resolution unavailable in any comparable resource. The platform further provides cell-type-specific intracellular signaling networks, intercellular ligand&ndash;receptor communication maps, parametric dynamic models for each cell type in simulation-ready format, pathway and Gene Ontology annotations, and computational druggability scores with drug&ndash;target interaction predictions for over 1,200 compound&ndash;target pairs.</p>
+<p>DKDM is an international collaboration between the <a href="https://rmrc.mui.ac.ir/" target="_blank" rel="noopener">Regenerative Medicine Research Centre</a> at Isfahan University of Medical Sciences and the <a href="https://www.uni.lu/lcsb-en/" target="_blank" rel="noopener">Luxembourg Centre for Systems Biomedicine</a> at the University of Luxembourg, conducted under the framework of the <a href="https://disease-maps.io/" target="_blank" rel="noopener">Disease Maps Consortium</a>. It is deployed on the MINERVA platform, with all underlying data publicly deposited in FAIRDOMHub in compliance with FAIR data principles.</p>
+<p>This resource is designed to serve nephrologists, systems biologists, and drug discovery researchers as a practical and extensible starting point for mechanistic inquiry, target identification, and therapeutic hypothesis generation in diabetic kidney disease.</p>
+<div class="tag-row" style="margin-top:8px">
+  <a class="btn btn-primary btn-sm" href="cell-types.html">Explore cell types →</a>
+  <a class="btn btn-ghost btn-sm" href="data-resources.html">Data &amp; Resources</a>
+</div>
+</div></section>
+
+</main>
+<script src="js/data.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/main.js"></script>
+<script>window.PAGE="about"; DKDMLayout.mount();</script>
+</body>
+</html>

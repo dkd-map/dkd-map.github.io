@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dynamic DKDM Framework — DKDM</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main>
+
+<section class="page-head container"><p class="eyebrow">About</p><h1>Dynamic DKDM Framework</h1></section>
+<section class="container section" style="padding-top:8px"><div class="prose">
+<p>Static interaction maps are essential for representing <em>what</em> molecules interact, but they cannot capture <em>how</em> a biological system behaves over time. Understanding disease dynamics requires knowing how signaling networks evolve, which regulatory interactions are rate-limiting, and how the system responds to perturbations such as gene knockdown or pharmacological inhibition. This is the domain of dynamic computational modeling.</p>
+<p>The Dynamic DKDM Framework extends the static molecular map into the dimension of time by providing parametric ordinary differential equation (ODE) models for each of the 24 renal cell types in DKDM. These models were generated using the SPADAN framework, in which each node in the cell-type-specific intracellular signaling network is represented as a molecular species governed by a differential equation, and each directed regulatory interaction is encoded as a rate term. Because large-scale quantitative time-series data from human DKD kidney tissue are not currently available, model parameters are defined within biologically plausible ranges rather than fixed numerically. This parametric approach encodes the structural logic of each cell type&rsquo;s signaling network while remaining flexible for future data-driven refinement.</p>
+<h3>What you can do with the Dynamic DKDM models</h3>
+<ul>
+<li><strong>Download</strong> any cell-type-specific ODE model in SBML format for direct import into simulation environments including COPASI, tellurium, and libSBML-based tools</li>
+<li><strong>Perform sensitivity analysis</strong> to identify which regulatory interactions most strongly influence system dynamics in a cell type of interest</li>
+<li><strong>Simulate perturbations</strong> such as gene knockout, overexpression, or pharmacological inhibition in silico</li>
+<li><strong>Parameterize</strong> the scaffold model using your own experimental time-series data</li>
+<li><strong>Compare</strong> regulatory architectures across cell types to identify shared versus cell-type-specific dynamic features</li>
+</ul>
+<div class="tag-row">
+  <a class="btn btn-primary btn-sm" id="dynOpen" href="#" target="_blank" rel="noopener">Open Dynamic DKDM atlas &uarr;</a>
+</div>
+</div></section>
+
+</main>
+<script src="js/data.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/main.js"></script>
+<script>window.PAGE="about"; DKDMLayout.mount();document.getElementById("dynOpen").href=DKDM.dynamicDkdmUrl;</script>
+</body>
+</html>

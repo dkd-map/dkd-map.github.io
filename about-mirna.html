@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>miRNA-Target Regulatory Network — DKDM</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main>
+
+<section class="page-head container"><p class="eyebrow">About</p><h1>miRNA&ndash;Target Regulatory Network</h1></section>
+<section class="container section" style="padding-top:8px"><div class="prose">
+<p>Protein-coding genes do not act alone. A substantial layer of post-transcriptional regulation is mediated by microRNAs, small non-coding RNA molecules that bind to messenger RNA transcripts and regulate their expression. In DKD, miRNA dysregulation has been documented across multiple tissue compartments and disease stages, making it a biologically significant but often underrepresented layer in disease models.</p>
+<p>The DKDM miRNA&ndash;Target Regulatory Network integrates this regulatory dimension into the broader molecular framework of the platform. miRNA genes were identified through differential expression analysis of the human kidney microarray dataset GSE51674 using limma with Benjamini&ndash;Hochberg correction at FDR &le; 0.05, yielding 128 reproducibly dysregulated miRNA genes in DKD compared to non-diabetic controls. To ensure biological relevance, only experimentally validated miRNA&ndash;target relationships were retained, drawn from miRTarBase, the most comprehensive repository of experimentally supported miRNA&ndash;target interactions.</p>
+<p>The resulting network connects dysregulated miRNAs to their validated protein-coding gene targets within the DKDM molecular inventory, creating a regulatory overlay on top of the core signaling and interaction architecture. This allows users to identify which DKDM genes are under miRNA-mediated regulatory control, which miRNAs have the broadest regulatory reach across the DKD molecular system, and where post-transcriptional regulation may amplify or dampen the signaling programs captured in the intracellular network layer.</p>
+<h3>What you can explore here</h3>
+<ul>
+<li>The full list of 128 DKD-dysregulated miRNA genes with expression statistics</li>
+<li>Validated target relationships linking each miRNA to protein-coding DKDM genes</li>
+</ul>
+<p>All miRNA&ndash;target interaction data are downloadable and cross-referenced with the DKDM molecular inventory identifiers for integration with other platform layers.</p>
+<div class="tag-row">
+  <a class="btn btn-primary btn-sm" id="mOpen" href="#" target="_blank" rel="noopener">Open interactive map &uarr;</a>
+  <a class="btn btn-ghost btn-sm" id="mCsv" href="#" download>&#8595; Download network CSV</a>
+</div>
+</div></section>
+
+</main>
+<script src="js/data.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/main.js"></script>
+<script>window.PAGE="about"; DKDMLayout.mount();document.getElementById("mOpen").href=DKDM.mirnaMapUrl;document.getElementById("mCsv").href=DKDM.mirnaCsv;</script>
+</body>
+</html>

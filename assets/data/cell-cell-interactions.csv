@@ -1,0 +1,817 @@
+Ligand,Ligand UniprotID,Ligand CellType,Receptor,Receptor UniprotID,Receptor CellType,evidence,annotation,interaction_name
+PLG,P00747,PT,F2RL1,P55085,DCT,KEGG: hsa04080,Secreted Signaling,PLG_F2RL1
+PLG,P00747,PT,F2RL1,P55085,Connecting Tubule,KEGG: hsa04080,Secreted Signaling,PLG_F2RL1
+PLG,P00747,PT,F2RL1,P55085,Interstitial Cell_A (in cortex),KEGG: hsa04080,Secreted Signaling,PLG_F2RL1
+PLG,P00747,PT,F2RL1,P55085,Interstitial Cell_B (in medulla),KEGG: hsa04080,Secreted Signaling,PLG_F2RL1
+PLG,P00747,PT,F2RL1,P55085,Principal Cell,KEGG: hsa04080,Secreted Signaling,PLG_F2RL1
+PLG,P00747,PT,F2RL1,P55085,TAL,KEGG: hsa04080,Secreted Signaling,PLG_F2RL1
+C3,P01024,Fibroblast Cell,C3AR1,Q16581,M2 Mac,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,Fibroblast Cell,C3AR1,Q16581,Monocyte Derived Cell,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,Fibroblast Cell,C3AR1,Q16581,Non-Classical Monocyte,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,M2 Mac,C3AR1,Q16581,M2 Mac,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,M2 Mac,C3AR1,Q16581,Monocyte Derived Cell,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,M2 Mac,C3AR1,Q16581,Non-Classical Monocyte,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,Monocyte Derived Cell,C3AR1,Q16581,M2 Mac,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,Monocyte Derived Cell,C3AR1,Q16581,Monocyte Derived Cell,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,Monocyte Derived Cell,C3AR1,Q16581,Non-Classical Monocyte,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,Parietal Cell,C3AR1,Q16581,M2 Mac,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,Parietal Cell,C3AR1,Q16581,Monocyte Derived Cell,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,Parietal Cell,C3AR1,Q16581,Non-Classical Monocyte,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,TAL,C3AR1,Q16581,M2 Mac,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,TAL,C3AR1,Q16581,Monocyte Derived Cell,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,TAL,C3AR1,Q16581,Non-Classical Monocyte,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,PT,C3AR1,Q16581,M2 Mac,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,PT,C3AR1,Q16581,Monocyte Derived Cell,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+C3,P01024,PT,C3AR1,Q16581,Non-Classical Monocyte,KEGG: hsa04080,Secreted Signaling,C3_C3AR1
+AGT,P01019,Fibroblast Cell,AGTR1,P30556,Fibroblast Cell,KEGG: hsa04080,Secreted Signaling,AGT_AGTR1B
+AGT,P01019,Fibroblast Cell,AGTR1,P30556,Glomerular Capillary,KEGG: hsa04080,Secreted Signaling,AGT_AGTR1B
+AGT,P01019,Fibroblast Cell,AGTR1,P30556,VSM/Pericyte/ MesengialCell,KEGG: hsa04080,Secreted Signaling,AGT_AGTR1B
+ANXA1,P04083,DCT,FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+ANXA1,P04083,EC_AEA_ Descending Vasa Recta,FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+ANXA1,P04083,Endothelial Cell,FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+ANXA1,P04083,Fibroblast Cell,FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+ANXA1,P04083,Glomerular Capillary,FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+ANXA1,P04083,Interstitial Cell_A (in cortex),FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+ANXA1,P04083,M2 Mac,FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+ANXA1,P04083,Monocyte Derived Cell,FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+ANXA1,P04083,NKT,FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+ANXA1,P04083,Parietal Cell,FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+ANXA1,P04083,Podocyte Cell,FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+ANXA1,P04083,T_Cell,FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+ANXA1,P04083,VSM/Pericyte/ MesengialCell,FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+ANXA1,P04083,PT,FPR2,P25090,Non-Classical Monocyte,PMID: 23230437,Secreted Signaling,ANXA1_FPR2
+VEGFA,P15692,DCT,KDR,P35968,EC_AEA_ Descending Vasa Recta,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,DCT,KDR,P35968,Endothelial Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,DCT,KDR,P35968,Glomerular Capillary,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,DCT,KDR,P35968,Podocyte Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,DCT,KDR,P35968,VSM/Pericyte/ MesengialCell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,EC_AEA_ Descending Vasa Recta,KDR,P35968,EC_AEA_ Descending Vasa Recta,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,EC_AEA_ Descending Vasa Recta,KDR,P35968,Endothelial Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,EC_AEA_ Descending Vasa Recta,KDR,P35968,Glomerular Capillary,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,EC_AEA_ Descending Vasa Recta,KDR,P35968,Podocyte Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,EC_AEA_ Descending Vasa Recta,KDR,P35968,VSM/Pericyte/ MesengialCell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Fibroblast Cell,KDR,P35968,EC_AEA_ Descending Vasa Recta,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Fibroblast Cell,KDR,P35968,Endothelial Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Fibroblast Cell,KDR,P35968,Glomerular Capillary,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Fibroblast Cell,KDR,P35968,Podocyte Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Fibroblast Cell,KDR,P35968,VSM/Pericyte/ MesengialCell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Glomerular Capillary,KDR,P35968,EC_AEA_ Descending Vasa Recta,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Glomerular Capillary,KDR,P35968,Endothelial Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Glomerular Capillary,KDR,P35968,Glomerular Capillary,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Glomerular Capillary,KDR,P35968,Podocyte Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Glomerular Capillary,KDR,P35968,VSM/Pericyte/ MesengialCell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Interstitial Cell_B (in medulla),KDR,P35968,EC_AEA_ Descending Vasa Recta,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Interstitial Cell_B (in medulla),KDR,P35968,Endothelial Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Interstitial Cell_B (in medulla),KDR,P35968,Glomerular Capillary,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Interstitial Cell_B (in medulla),KDR,P35968,Podocyte Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Interstitial Cell_B (in medulla),KDR,P35968,VSM/Pericyte/ MesengialCell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,M2 Mac,KDR,P35968,EC_AEA_ Descending Vasa Recta,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,M2 Mac,KDR,P35968,Endothelial Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,M2 Mac,KDR,P35968,Glomerular Capillary,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,M2 Mac,KDR,P35968,Podocyte Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,M2 Mac,KDR,P35968,VSM/Pericyte/ MesengialCell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Monocyte Derived Cell,KDR,P35968,EC_AEA_ Descending Vasa Recta,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Monocyte Derived Cell,KDR,P35968,Endothelial Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Monocyte Derived Cell,KDR,P35968,Glomerular Capillary,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Monocyte Derived Cell,KDR,P35968,Podocyte Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Monocyte Derived Cell,KDR,P35968,VSM/Pericyte/ MesengialCell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Parietal Cell,KDR,P35968,EC_AEA_ Descending Vasa Recta,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Parietal Cell,KDR,P35968,Endothelial Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Parietal Cell,KDR,P35968,Glomerular Capillary,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Parietal Cell,KDR,P35968,Podocyte Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Parietal Cell,KDR,P35968,VSM/Pericyte/ MesengialCell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Plasma Cell,KDR,P35968,EC_AEA_ Descending Vasa Recta,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Plasma Cell,KDR,P35968,Endothelial Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Plasma Cell,KDR,P35968,Glomerular Capillary,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Plasma Cell,KDR,P35968,Podocyte Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Plasma Cell,KDR,P35968,VSM/Pericyte/ MesengialCell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Podocyte Cell,KDR,P35968,EC_AEA_ Descending Vasa Recta,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Podocyte Cell,KDR,P35968,Endothelial Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Podocyte Cell,KDR,P35968,Glomerular Capillary,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Podocyte Cell,KDR,P35968,Podocyte Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,Podocyte Cell,KDR,P35968,VSM/Pericyte/ MesengialCell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,VSM/Pericyte/ MesengialCell,KDR,P35968,EC_AEA_ Descending Vasa Recta,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,VSM/Pericyte/ MesengialCell,KDR,P35968,Endothelial Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,VSM/Pericyte/ MesengialCell,KDR,P35968,Glomerular Capillary,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,VSM/Pericyte/ MesengialCell,KDR,P35968,Podocyte Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,VSM/Pericyte/ MesengialCell,KDR,P35968,VSM/Pericyte/ MesengialCell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,PT,KDR,P35968,EC_AEA_ Descending Vasa Recta,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,PT,KDR,P35968,Endothelial Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,PT,KDR,P35968,Glomerular Capillary,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,PT,KDR,P35968,Podocyte Cell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+VEGFA,P15692,PT,KDR,P35968,VSM/Pericyte/ MesengialCell,KEGG: hsa04370; PMID: 16633338,Secreted Signaling,VEGFA_VEGFR2
+HLA-B,P01889,B-cell,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,B-cell,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,DCT,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,DCT,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Connecting Tubule,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Connecting Tubule,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,EC_AEA_ Descending Vasa Recta,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,EC_AEA_ Descending Vasa Recta,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Endothelial Cell,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Endothelial Cell,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Fibroblast Cell,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Fibroblast Cell,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Glomerular Capillary,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Glomerular Capillary,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Interstitial Cell_B (in medulla),CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Interstitial Cell_B (in medulla),CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,M2 Mac,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,M2 Mac,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Macula Densa,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Macula Densa,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Monocyte Derived Cell,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Monocyte Derived Cell,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,NKT,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,NKT,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Non-Classical Monocyte,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Non-Classical Monocyte,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Parietal Cell,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Parietal Cell,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Plasma Cell,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Plasma Cell,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Podocyte Cell,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Podocyte Cell,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Principal Cell,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,Principal Cell,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,TAL,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,TAL,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,T_Cell,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,T_Cell,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,VSM/Pericyte/ MesengialCell,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,VSM/Pericyte/ MesengialCell,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,PT,CD8A,P01732,NKT,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+HLA-B,P01889,PT,CD8A,P01732,T_Cell,KEGG: hsa04514,Cell-Cell Contact,HLA-B_CD8A
+PROS1,P07225,EC_AEA_ Descending Vasa Recta,AXL,P30530,Fibroblast Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,EC_AEA_ Descending Vasa Recta,AXL,P30530,M2 Mac,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,EC_AEA_ Descending Vasa Recta,AXL,P30530,Parietal Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,EC_AEA_ Descending Vasa Recta,AXL,P30530,Podocyte Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,EC_AEA_ Descending Vasa Recta,AXL,P30530,TAL,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,EC_AEA_ Descending Vasa Recta,AXL,P30530,PT,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Endothelial Cell,AXL,P30530,Fibroblast Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Endothelial Cell,AXL,P30530,M2 Mac,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Endothelial Cell,AXL,P30530,Parietal Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Endothelial Cell,AXL,P30530,Podocyte Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Endothelial Cell,AXL,P30530,TAL,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Endothelial Cell,AXL,P30530,PT,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Fibroblast Cell,AXL,P30530,Fibroblast Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Fibroblast Cell,AXL,P30530,M2 Mac,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Fibroblast Cell,AXL,P30530,Parietal Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Fibroblast Cell,AXL,P30530,Podocyte Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Fibroblast Cell,AXL,P30530,TAL,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Fibroblast Cell,AXL,P30530,PT,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Glomerular Capillary,AXL,P30530,Fibroblast Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Glomerular Capillary,AXL,P30530,M2 Mac,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Glomerular Capillary,AXL,P30530,Parietal Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Glomerular Capillary,AXL,P30530,Podocyte Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Glomerular Capillary,AXL,P30530,TAL,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Glomerular Capillary,AXL,P30530,PT,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Interstitial Cell_A (in cortex),AXL,P30530,Fibroblast Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Interstitial Cell_A (in cortex),AXL,P30530,M2 Mac,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Interstitial Cell_A (in cortex),AXL,P30530,Parietal Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Interstitial Cell_A (in cortex),AXL,P30530,Podocyte Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Interstitial Cell_A (in cortex),AXL,P30530,TAL,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Interstitial Cell_A (in cortex),AXL,P30530,PT,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Parietal Cell,AXL,P30530,Fibroblast Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Parietal Cell,AXL,P30530,M2 Mac,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Parietal Cell,AXL,P30530,Parietal Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Parietal Cell,AXL,P30530,Podocyte Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Parietal Cell,AXL,P30530,TAL,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Parietal Cell,AXL,P30530,PT,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Podocyte Cell,AXL,P30530,Fibroblast Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Podocyte Cell,AXL,P30530,M2 Mac,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Podocyte Cell,AXL,P30530,Parietal Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Podocyte Cell,AXL,P30530,Podocyte Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Podocyte Cell,AXL,P30530,TAL,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Podocyte Cell,AXL,P30530,PT,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Principal Cell,AXL,P30530,Fibroblast Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Principal Cell,AXL,P30530,M2 Mac,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Principal Cell,AXL,P30530,Parietal Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Principal Cell,AXL,P30530,Podocyte Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Principal Cell,AXL,P30530,TAL,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,Principal Cell,AXL,P30530,PT,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,TAL,AXL,P30530,Fibroblast Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,TAL,AXL,P30530,M2 Mac,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,TAL,AXL,P30530,Parietal Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,TAL,AXL,P30530,Podocyte Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,TAL,AXL,P30530,TAL,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,TAL,AXL,P30530,PT,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,VSM/Pericyte/ MesengialCell,AXL,P30530,Fibroblast Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,VSM/Pericyte/ MesengialCell,AXL,P30530,M2 Mac,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,VSM/Pericyte/ MesengialCell,AXL,P30530,Parietal Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,VSM/Pericyte/ MesengialCell,AXL,P30530,Podocyte Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,VSM/Pericyte/ MesengialCell,AXL,P30530,TAL,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,VSM/Pericyte/ MesengialCell,AXL,P30530,PT,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,PT,AXL,P30530,Fibroblast Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,PT,AXL,P30530,M2 Mac,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,PT,AXL,P30530,Parietal Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,PT,AXL,P30530,Podocyte Cell,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,PT,AXL,P30530,TAL,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,PT,AXL,P30530,PT,PMID: 29531161,Secreted Signaling,PROS1_AXL
+PROS1,P07225,EC_AEA_ Descending Vasa Recta,TYRO3,Q06418,Endothelial Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,EC_AEA_ Descending Vasa Recta,TYRO3,Q06418,Podocyte Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Endothelial Cell,TYRO3,Q06418,Endothelial Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Endothelial Cell,TYRO3,Q06418,Podocyte Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Fibroblast Cell,TYRO3,Q06418,Endothelial Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Fibroblast Cell,TYRO3,Q06418,Podocyte Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Glomerular Capillary,TYRO3,Q06418,Endothelial Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Glomerular Capillary,TYRO3,Q06418,Podocyte Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Interstitial Cell_A (in cortex),TYRO3,Q06418,Endothelial Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Interstitial Cell_A (in cortex),TYRO3,Q06418,Podocyte Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Parietal Cell,TYRO3,Q06418,Endothelial Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Parietal Cell,TYRO3,Q06418,Podocyte Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Podocyte Cell,TYRO3,Q06418,Endothelial Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Podocyte Cell,TYRO3,Q06418,Podocyte Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Principal Cell,TYRO3,Q06418,Endothelial Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,Principal Cell,TYRO3,Q06418,Podocyte Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,TAL,TYRO3,Q06418,Endothelial Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,TAL,TYRO3,Q06418,Podocyte Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,VSM/Pericyte/ MesengialCell,TYRO3,Q06418,Endothelial Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,VSM/Pericyte/ MesengialCell,TYRO3,Q06418,Podocyte Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,PT,TYRO3,Q06418,Endothelial Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+PROS1,P07225,PT,TYRO3,Q06418,Podocyte Cell,PMID: 30501104,Secreted Signaling,PROS1_TYRO3
+EGF,P01133,DCT,EGFR,P00533,DCT,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,DCT,EGFR,P00533,Connecting Tubule,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,DCT,EGFR,P00533,EC_AEA_ Descending Vasa Recta,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,DCT,EGFR,P00533,Endothelial Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,DCT,EGFR,P00533,Fibroblast Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,DCT,EGFR,P00533,Glomerular Capillary,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,DCT,EGFR,P00533,Interstitial Cell_A (in cortex),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,DCT,EGFR,P00533,Interstitial Cell_B (in medulla),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,DCT,EGFR,P00533,Macula Densa,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,DCT,EGFR,P00533,Parietal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,DCT,EGFR,P00533,Principal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,DCT,EGFR,P00533,VSM/Pericyte/ MesengialCell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Endothelial Cell,EGFR,P00533,DCT,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Endothelial Cell,EGFR,P00533,Connecting Tubule,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Endothelial Cell,EGFR,P00533,EC_AEA_ Descending Vasa Recta,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Endothelial Cell,EGFR,P00533,Endothelial Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Endothelial Cell,EGFR,P00533,Fibroblast Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Endothelial Cell,EGFR,P00533,Glomerular Capillary,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Endothelial Cell,EGFR,P00533,Interstitial Cell_A (in cortex),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Endothelial Cell,EGFR,P00533,Interstitial Cell_B (in medulla),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Endothelial Cell,EGFR,P00533,Macula Densa,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Endothelial Cell,EGFR,P00533,Parietal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Endothelial Cell,EGFR,P00533,Principal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Endothelial Cell,EGFR,P00533,VSM/Pericyte/ MesengialCell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Fibroblast Cell,EGFR,P00533,DCT,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Fibroblast Cell,EGFR,P00533,Connecting Tubule,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Fibroblast Cell,EGFR,P00533,EC_AEA_ Descending Vasa Recta,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Fibroblast Cell,EGFR,P00533,Endothelial Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Fibroblast Cell,EGFR,P00533,Fibroblast Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Fibroblast Cell,EGFR,P00533,Glomerular Capillary,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Fibroblast Cell,EGFR,P00533,Interstitial Cell_A (in cortex),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Fibroblast Cell,EGFR,P00533,Interstitial Cell_B (in medulla),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Fibroblast Cell,EGFR,P00533,Macula Densa,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Fibroblast Cell,EGFR,P00533,Parietal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Fibroblast Cell,EGFR,P00533,Principal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Fibroblast Cell,EGFR,P00533,VSM/Pericyte/ MesengialCell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Glomerular Capillary,EGFR,P00533,DCT,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Glomerular Capillary,EGFR,P00533,Connecting Tubule,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Glomerular Capillary,EGFR,P00533,EC_AEA_ Descending Vasa Recta,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Glomerular Capillary,EGFR,P00533,Endothelial Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Glomerular Capillary,EGFR,P00533,Fibroblast Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Glomerular Capillary,EGFR,P00533,Glomerular Capillary,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Glomerular Capillary,EGFR,P00533,Interstitial Cell_A (in cortex),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Glomerular Capillary,EGFR,P00533,Interstitial Cell_B (in medulla),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Glomerular Capillary,EGFR,P00533,Macula Densa,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Glomerular Capillary,EGFR,P00533,Parietal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Glomerular Capillary,EGFR,P00533,Principal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Glomerular Capillary,EGFR,P00533,VSM/Pericyte/ MesengialCell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Macula Densa,EGFR,P00533,DCT,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Macula Densa,EGFR,P00533,Connecting Tubule,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Macula Densa,EGFR,P00533,EC_AEA_ Descending Vasa Recta,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Macula Densa,EGFR,P00533,Endothelial Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Macula Densa,EGFR,P00533,Fibroblast Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Macula Densa,EGFR,P00533,Glomerular Capillary,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Macula Densa,EGFR,P00533,Interstitial Cell_A (in cortex),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Macula Densa,EGFR,P00533,Interstitial Cell_B (in medulla),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Macula Densa,EGFR,P00533,Macula Densa,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Macula Densa,EGFR,P00533,Parietal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Macula Densa,EGFR,P00533,Principal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Macula Densa,EGFR,P00533,VSM/Pericyte/ MesengialCell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Monocyte Derived Cell,EGFR,P00533,DCT,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Monocyte Derived Cell,EGFR,P00533,Connecting Tubule,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Monocyte Derived Cell,EGFR,P00533,EC_AEA_ Descending Vasa Recta,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Monocyte Derived Cell,EGFR,P00533,Endothelial Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Monocyte Derived Cell,EGFR,P00533,Fibroblast Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Monocyte Derived Cell,EGFR,P00533,Glomerular Capillary,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Monocyte Derived Cell,EGFR,P00533,Interstitial Cell_A (in cortex),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Monocyte Derived Cell,EGFR,P00533,Interstitial Cell_B (in medulla),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Monocyte Derived Cell,EGFR,P00533,Macula Densa,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Monocyte Derived Cell,EGFR,P00533,Parietal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Monocyte Derived Cell,EGFR,P00533,Principal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,Monocyte Derived Cell,EGFR,P00533,VSM/Pericyte/ MesengialCell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,TAL,EGFR,P00533,DCT,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,TAL,EGFR,P00533,Connecting Tubule,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,TAL,EGFR,P00533,EC_AEA_ Descending Vasa Recta,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,TAL,EGFR,P00533,Endothelial Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,TAL,EGFR,P00533,Fibroblast Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,TAL,EGFR,P00533,Glomerular Capillary,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,TAL,EGFR,P00533,Interstitial Cell_A (in cortex),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,TAL,EGFR,P00533,Interstitial Cell_B (in medulla),KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,TAL,EGFR,P00533,Macula Densa,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,TAL,EGFR,P00533,Parietal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,TAL,EGFR,P00533,Principal Cell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+EGF,P01133,TAL,EGFR,P00533,VSM/Pericyte/ MesengialCell,KEGG: hsa04012,Secreted Signaling,EGF_EGFR
+ANGPT2,O15123,Endothelial Cell,TEK,Q02763,EC_AEA_ Descending Vasa Recta,PMID: 20651738,Secreted Signaling,ANGPT2_TEK
+ANGPT2,O15123,Endothelial Cell,TEK,Q02763,VSM/Pericyte/ MesengialCell,PMID: 20651738,Secreted Signaling,ANGPT2_TEK
+ANGPT2,O15123,Fibroblast Cell,TEK,Q02763,EC_AEA_ Descending Vasa Recta,PMID: 20651738,Secreted Signaling,ANGPT2_TEK
+ANGPT2,O15123,Fibroblast Cell,TEK,Q02763,VSM/Pericyte/ MesengialCell,PMID: 20651738,Secreted Signaling,ANGPT2_TEK
+ANGPT2,O15123,Parietal Cell,TEK,Q02763,EC_AEA_ Descending Vasa Recta,PMID: 20651738,Secreted Signaling,ANGPT2_TEK
+ANGPT2,O15123,Parietal Cell,TEK,Q02763,VSM/Pericyte/ MesengialCell,PMID: 20651738,Secreted Signaling,ANGPT2_TEK
+ANGPT2,O15123,TAL,TEK,Q02763,EC_AEA_ Descending Vasa Recta,PMID: 20651738,Secreted Signaling,ANGPT2_TEK
+ANGPT2,O15123,TAL,TEK,Q02763,VSM/Pericyte/ MesengialCell,PMID: 20651738,Secreted Signaling,ANGPT2_TEK
+CCL2,P13500,Connecting Tubule,CCR2,P41597,Monocyte Derived Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,Connecting Tubule,CCR2,P41597,Plasma Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,EC_AEA_ Descending Vasa Recta,CCR2,P41597,Monocyte Derived Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,EC_AEA_ Descending Vasa Recta,CCR2,P41597,Plasma Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,Fibroblast Cell,CCR2,P41597,Monocyte Derived Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,Fibroblast Cell,CCR2,P41597,Plasma Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,Glomerular Capillary,CCR2,P41597,Monocyte Derived Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,Glomerular Capillary,CCR2,P41597,Plasma Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,Interstitial Cell_A (in cortex),CCR2,P41597,Monocyte Derived Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,Interstitial Cell_A (in cortex),CCR2,P41597,Plasma Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,M2 Mac,CCR2,P41597,Monocyte Derived Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,M2 Mac,CCR2,P41597,Plasma Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,Parietal Cell,CCR2,P41597,Monocyte Derived Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,Parietal Cell,CCR2,P41597,Plasma Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,TAL,CCR2,P41597,Monocyte Derived Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+CCL2,P13500,TAL,CCR2,P41597,Plasma Cell,KEGG: hsa04060,Secreted Signaling,CCL2_CCR2
+NAMPT,P43490,B-cell,INSR,P06213,B-cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,EC_AEA_ Descending Vasa Recta,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,Endothelial Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,Fibroblast Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,Glomerular Capillary,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,Interstitial Cell_A (in cortex),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,Interstitial Cell_B (in medulla),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,M2 Mac,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,Macula Densa,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,Monocyte Derived Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,Non-Classical Monocyte,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,Parietal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,Plasma Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,Podocyte Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,Principal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,TAL,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,B-cell,INSR,P06213,PT,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,B-cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,EC_AEA_ Descending Vasa Recta,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,Endothelial Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,Fibroblast Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,Glomerular Capillary,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,Interstitial Cell_A (in cortex),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,Interstitial Cell_B (in medulla),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,M2 Mac,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,Macula Densa,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,Monocyte Derived Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,Non-Classical Monocyte,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,Parietal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,Plasma Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,Podocyte Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,Principal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,TAL,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,EC_AEA_ Descending Vasa Recta,INSR,P06213,PT,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,B-cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,EC_AEA_ Descending Vasa Recta,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,Endothelial Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,Fibroblast Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,Glomerular Capillary,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,Interstitial Cell_A (in cortex),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,Interstitial Cell_B (in medulla),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,M2 Mac,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,Macula Densa,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,Monocyte Derived Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,Non-Classical Monocyte,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,Parietal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,Plasma Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,Podocyte Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,Principal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,TAL,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Fibroblast Cell,INSR,P06213,PT,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,B-cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,EC_AEA_ Descending Vasa Recta,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,Endothelial Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,Fibroblast Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,Glomerular Capillary,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,Interstitial Cell_A (in cortex),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,Interstitial Cell_B (in medulla),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,M2 Mac,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,Macula Densa,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,Monocyte Derived Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,Non-Classical Monocyte,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,Parietal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,Plasma Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,Podocyte Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,Principal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,TAL,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,M2 Mac,INSR,P06213,PT,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,B-cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,EC_AEA_ Descending Vasa Recta,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,Endothelial Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,Fibroblast Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,Glomerular Capillary,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,Interstitial Cell_A (in cortex),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,Interstitial Cell_B (in medulla),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,M2 Mac,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,Macula Densa,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,Monocyte Derived Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,Non-Classical Monocyte,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,Parietal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,Plasma Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,Podocyte Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,Principal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,TAL,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Monocyte Derived Cell,INSR,P06213,PT,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,B-cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,EC_AEA_ Descending Vasa Recta,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,Endothelial Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,Fibroblast Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,Glomerular Capillary,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,Interstitial Cell_A (in cortex),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,Interstitial Cell_B (in medulla),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,M2 Mac,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,Macula Densa,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,Monocyte Derived Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,Non-Classical Monocyte,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,Parietal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,Plasma Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,Podocyte Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,Principal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,TAL,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Non-Classical Monocyte,INSR,P06213,PT,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,B-cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,EC_AEA_ Descending Vasa Recta,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,Endothelial Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,Fibroblast Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,Glomerular Capillary,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,Interstitial Cell_A (in cortex),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,Interstitial Cell_B (in medulla),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,M2 Mac,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,Macula Densa,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,Monocyte Derived Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,Non-Classical Monocyte,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,Parietal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,Plasma Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,Podocyte Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,Principal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,TAL,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Parietal Cell,INSR,P06213,PT,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,B-cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,EC_AEA_ Descending Vasa Recta,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,Endothelial Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,Fibroblast Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,Glomerular Capillary,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,Interstitial Cell_A (in cortex),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,Interstitial Cell_B (in medulla),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,M2 Mac,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,Macula Densa,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,Monocyte Derived Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,Non-Classical Monocyte,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,Parietal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,Plasma Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,Podocyte Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,Principal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,TAL,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Plasma Cell,INSR,P06213,PT,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,B-cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,EC_AEA_ Descending Vasa Recta,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,Endothelial Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,Fibroblast Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,Glomerular Capillary,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,Interstitial Cell_A (in cortex),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,Interstitial Cell_B (in medulla),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,M2 Mac,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,Macula Densa,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,Monocyte Derived Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,Non-Classical Monocyte,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,Parietal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,Plasma Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,Podocyte Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,Principal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,TAL,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,Principal Cell,INSR,P06213,PT,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,B-cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,EC_AEA_ Descending Vasa Recta,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,Endothelial Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,Fibroblast Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,Glomerular Capillary,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,Interstitial Cell_A (in cortex),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,Interstitial Cell_B (in medulla),PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,M2 Mac,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,Macula Densa,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,Monocyte Derived Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,Non-Classical Monocyte,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,Parietal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,Plasma Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,Podocyte Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,Principal Cell,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,TAL,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+NAMPT,P43490,VSM/Pericyte/ MesengialCell,INSR,P06213,PT,PMID: 28490838,Secreted Signaling,NAMPT_INSR
+CDH1,P12830,DCT,CDH1,P12830,DCT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,DCT,CDH1,P12830,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,DCT,CDH1,P12830,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,DCT,CDH1,P12830,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,DCT,CDH1,P12830,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,DCT,CDH1,P12830,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,DCT,CDH1,P12830,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,DCT,CDH1,P12830,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,DCT,CDH1,P12830,PT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Connecting Tubule,CDH1,P12830,DCT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Connecting Tubule,CDH1,P12830,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Connecting Tubule,CDH1,P12830,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Connecting Tubule,CDH1,P12830,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Connecting Tubule,CDH1,P12830,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Connecting Tubule,CDH1,P12830,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Connecting Tubule,CDH1,P12830,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Connecting Tubule,CDH1,P12830,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Connecting Tubule,CDH1,P12830,PT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Endothelial Cell,CDH1,P12830,DCT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Endothelial Cell,CDH1,P12830,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Endothelial Cell,CDH1,P12830,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Endothelial Cell,CDH1,P12830,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Endothelial Cell,CDH1,P12830,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Endothelial Cell,CDH1,P12830,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Endothelial Cell,CDH1,P12830,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Endothelial Cell,CDH1,P12830,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Endothelial Cell,CDH1,P12830,PT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_A (in cortex),CDH1,P12830,DCT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_A (in cortex),CDH1,P12830,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_A (in cortex),CDH1,P12830,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_A (in cortex),CDH1,P12830,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_A (in cortex),CDH1,P12830,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_A (in cortex),CDH1,P12830,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_A (in cortex),CDH1,P12830,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_A (in cortex),CDH1,P12830,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_A (in cortex),CDH1,P12830,PT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_B (in medulla),CDH1,P12830,DCT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_B (in medulla),CDH1,P12830,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_B (in medulla),CDH1,P12830,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_B (in medulla),CDH1,P12830,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_B (in medulla),CDH1,P12830,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_B (in medulla),CDH1,P12830,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_B (in medulla),CDH1,P12830,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_B (in medulla),CDH1,P12830,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Interstitial Cell_B (in medulla),CDH1,P12830,PT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Macula Densa,CDH1,P12830,DCT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Macula Densa,CDH1,P12830,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Macula Densa,CDH1,P12830,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Macula Densa,CDH1,P12830,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Macula Densa,CDH1,P12830,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Macula Densa,CDH1,P12830,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Macula Densa,CDH1,P12830,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Macula Densa,CDH1,P12830,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Macula Densa,CDH1,P12830,PT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Parietal Cell,CDH1,P12830,DCT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Parietal Cell,CDH1,P12830,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Parietal Cell,CDH1,P12830,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Parietal Cell,CDH1,P12830,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Parietal Cell,CDH1,P12830,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Parietal Cell,CDH1,P12830,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Parietal Cell,CDH1,P12830,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Parietal Cell,CDH1,P12830,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Parietal Cell,CDH1,P12830,PT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Principal Cell,CDH1,P12830,DCT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Principal Cell,CDH1,P12830,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Principal Cell,CDH1,P12830,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Principal Cell,CDH1,P12830,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Principal Cell,CDH1,P12830,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Principal Cell,CDH1,P12830,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Principal Cell,CDH1,P12830,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Principal Cell,CDH1,P12830,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,Principal Cell,CDH1,P12830,PT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,PT,CDH1,P12830,DCT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,PT,CDH1,P12830,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,PT,CDH1,P12830,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,PT,CDH1,P12830,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,PT,CDH1,P12830,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,PT,CDH1,P12830,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,PT,CDH1,P12830,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,PT,CDH1,P12830,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+CDH1,P12830,PT,CDH1,P12830,PT,KEGG: hsa04514,Cell-Cell Contact,CDH1_CDH1
+SAA1,P0DJI8,Connecting Tubule,FPR2,P25090,Non-Classical Monocyte,PMID: 22610094,Secreted Signaling,SAA1_FPR2
+SAA1,P0DJI8,TAL,FPR2,P25090,Non-Classical Monocyte,PMID: 22610094,Secreted Signaling,SAA1_FPR2
+SAA1,P0DJI8,PT,FPR2,P25090,Non-Classical Monocyte,PMID: 22610094,Secreted Signaling,SAA1_FPR2
+NCAM1,P13591,PT,NCAM1,P13591,PT,KEGG: hsa04514,Cell-Cell Contact,NCAM1_NCAM1
+RARRES2,Q99969,DCT,CMKLR1,Q99788,Fibroblast Cell,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,DCT,CMKLR1,Q99788,M2 Mac,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Connecting Tubule,CMKLR1,Q99788,Fibroblast Cell,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Connecting Tubule,CMKLR1,Q99788,M2 Mac,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Endothelial Cell,CMKLR1,Q99788,Fibroblast Cell,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Endothelial Cell,CMKLR1,Q99788,M2 Mac,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Fibroblast Cell,CMKLR1,Q99788,Fibroblast Cell,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Fibroblast Cell,CMKLR1,Q99788,M2 Mac,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Glomerular Capillary,CMKLR1,Q99788,Fibroblast Cell,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Glomerular Capillary,CMKLR1,Q99788,M2 Mac,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Interstitial Cell_B (in medulla),CMKLR1,Q99788,Fibroblast Cell,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Interstitial Cell_B (in medulla),CMKLR1,Q99788,M2 Mac,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Monocyte Derived Cell,CMKLR1,Q99788,Fibroblast Cell,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Monocyte Derived Cell,CMKLR1,Q99788,M2 Mac,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Parietal Cell,CMKLR1,Q99788,Fibroblast Cell,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Parietal Cell,CMKLR1,Q99788,M2 Mac,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Podocyte Cell,CMKLR1,Q99788,Fibroblast Cell,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,Podocyte Cell,CMKLR1,Q99788,M2 Mac,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,VSM/Pericyte/ MesengialCell,CMKLR1,Q99788,Fibroblast Cell,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+RARRES2,Q99969,VSM/Pericyte/ MesengialCell,CMKLR1,Q99788,M2 Mac,PMID: 24671882,Secreted Signaling,RARRES2_CMKLR1
+IGF1,P05019,B-cell,IGF1R,P08069,Connecting Tubule,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,B-cell,IGF1R,P08069,EC_AEA_ Descending Vasa Recta,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,B-cell,IGF1R,P08069,Glomerular Capillary,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,B-cell,IGF1R,P08069,Interstitial Cell_A (in cortex),PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,B-cell,IGF1R,P08069,Parietal Cell,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,B-cell,IGF1R,P08069,Podocyte Cell,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,B-cell,IGF1R,P08069,TAL,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,M2 Mac,IGF1R,P08069,Connecting Tubule,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,M2 Mac,IGF1R,P08069,EC_AEA_ Descending Vasa Recta,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,M2 Mac,IGF1R,P08069,Glomerular Capillary,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,M2 Mac,IGF1R,P08069,Interstitial Cell_A (in cortex),PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,M2 Mac,IGF1R,P08069,Parietal Cell,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,M2 Mac,IGF1R,P08069,Podocyte Cell,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,M2 Mac,IGF1R,P08069,TAL,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Parietal Cell,IGF1R,P08069,Connecting Tubule,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Parietal Cell,IGF1R,P08069,EC_AEA_ Descending Vasa Recta,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Parietal Cell,IGF1R,P08069,Glomerular Capillary,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Parietal Cell,IGF1R,P08069,Interstitial Cell_A (in cortex),PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Parietal Cell,IGF1R,P08069,Parietal Cell,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Parietal Cell,IGF1R,P08069,Podocyte Cell,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Parietal Cell,IGF1R,P08069,TAL,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Plasma Cell,IGF1R,P08069,Connecting Tubule,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Plasma Cell,IGF1R,P08069,EC_AEA_ Descending Vasa Recta,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Plasma Cell,IGF1R,P08069,Glomerular Capillary,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Plasma Cell,IGF1R,P08069,Interstitial Cell_A (in cortex),PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Plasma Cell,IGF1R,P08069,Parietal Cell,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Plasma Cell,IGF1R,P08069,Podocyte Cell,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Plasma Cell,IGF1R,P08069,TAL,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Podocyte Cell,IGF1R,P08069,Connecting Tubule,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Podocyte Cell,IGF1R,P08069,EC_AEA_ Descending Vasa Recta,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Podocyte Cell,IGF1R,P08069,Glomerular Capillary,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Podocyte Cell,IGF1R,P08069,Interstitial Cell_A (in cortex),PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Podocyte Cell,IGF1R,P08069,Parietal Cell,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Podocyte Cell,IGF1R,P08069,Podocyte Cell,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+IGF1,P05019,Podocyte Cell,IGF1R,P08069,TAL,PMID: 14604834,Secreted Signaling,IGF1_IGF1R
+ANGPT1,Q15389,Fibroblast Cell,TEK,Q02763,EC_AEA_ Descending Vasa Recta,PMID: 20651738,Secreted Signaling,ANGPT1_TEK
+ANGPT1,Q15389,Fibroblast Cell,TEK,Q02763,VSM/Pericyte/ MesengialCell,PMID: 20651738,Secreted Signaling,ANGPT1_TEK
+ANGPT1,Q15389,TAL,TEK,Q02763,EC_AEA_ Descending Vasa Recta,PMID: 20651738,Secreted Signaling,ANGPT1_TEK
+ANGPT1,Q15389,TAL,TEK,Q02763,VSM/Pericyte/ MesengialCell,PMID: 20651738,Secreted Signaling,ANGPT1_TEK
+ANGPT1,Q15389,VSM/Pericyte/ MesengialCell,TEK,Q02763,EC_AEA_ Descending Vasa Recta,PMID: 20651738,Secreted Signaling,ANGPT1_TEK
+ANGPT1,Q15389,VSM/Pericyte/ MesengialCell,TEK,Q02763,VSM/Pericyte/ MesengialCell,PMID: 20651738,Secreted Signaling,ANGPT1_TEK
+ANGPT1,Q15389,PT,TEK,Q02763,EC_AEA_ Descending Vasa Recta,PMID: 20651738,Secreted Signaling,ANGPT1_TEK
+ANGPT1,Q15389,PT,TEK,Q02763,VSM/Pericyte/ MesengialCell,PMID: 20651738,Secreted Signaling,ANGPT1_TEK
+RETN,Q9HD89,Non-Classical Monocyte,TLR4,O00206,EC_AEA_ Descending Vasa Recta,PMID: 30809105,Secreted Signaling,RETN_TLR4
+RETN,Q9HD89,Non-Classical Monocyte,TLR4,O00206,Endothelial Cell,PMID: 30809105,Secreted Signaling,RETN_TLR4
+RETN,Q9HD89,Non-Classical Monocyte,TLR4,O00206,Glomerular Capillary,PMID: 30809105,Secreted Signaling,RETN_TLR4
+RETN,Q9HD89,Non-Classical Monocyte,TLR4,O00206,Interstitial Cell_A (in cortex),PMID: 30809105,Secreted Signaling,RETN_TLR4
+RETN,Q9HD89,Non-Classical Monocyte,TLR4,O00206,M2 Mac,PMID: 30809105,Secreted Signaling,RETN_TLR4
+RETN,Q9HD89,Non-Classical Monocyte,TLR4,O00206,Monocyte Derived Cell,PMID: 30809105,Secreted Signaling,RETN_TLR4
+RETN,Q9HD89,Non-Classical Monocyte,TLR4,O00206,Non-Classical Monocyte,PMID: 30809105,Secreted Signaling,RETN_TLR4
+RETN,Q9HD89,Non-Classical Monocyte,TLR4,O00206,TAL,PMID: 30809105,Secreted Signaling,RETN_TLR4
+RETN,Q9HD89,Non-Classical Monocyte,TLR4,O00206,PT,PMID: 30809105,Secreted Signaling,RETN_TLR4
+PECAM1,P16284,B-cell,PECAM1,P16284,B-cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,B-cell,PECAM1,P16284,M2 Mac,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,B-cell,PECAM1,P16284,Monocyte Derived Cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,B-cell,PECAM1,P16284,Non-Classical Monocyte,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,B-cell,PECAM1,P16284,Plasma Cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,B-cell,PECAM1,P16284,VSM/Pericyte/ MesengialCell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,M2 Mac,PECAM1,P16284,B-cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,M2 Mac,PECAM1,P16284,M2 Mac,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,M2 Mac,PECAM1,P16284,Monocyte Derived Cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,M2 Mac,PECAM1,P16284,Non-Classical Monocyte,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,M2 Mac,PECAM1,P16284,Plasma Cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,M2 Mac,PECAM1,P16284,VSM/Pericyte/ MesengialCell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Monocyte Derived Cell,PECAM1,P16284,B-cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Monocyte Derived Cell,PECAM1,P16284,M2 Mac,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Monocyte Derived Cell,PECAM1,P16284,Monocyte Derived Cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Monocyte Derived Cell,PECAM1,P16284,Non-Classical Monocyte,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Monocyte Derived Cell,PECAM1,P16284,Plasma Cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Monocyte Derived Cell,PECAM1,P16284,VSM/Pericyte/ MesengialCell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Non-Classical Monocyte,PECAM1,P16284,B-cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Non-Classical Monocyte,PECAM1,P16284,M2 Mac,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Non-Classical Monocyte,PECAM1,P16284,Monocyte Derived Cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Non-Classical Monocyte,PECAM1,P16284,Non-Classical Monocyte,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Non-Classical Monocyte,PECAM1,P16284,Plasma Cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Non-Classical Monocyte,PECAM1,P16284,VSM/Pericyte/ MesengialCell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Plasma Cell,PECAM1,P16284,B-cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Plasma Cell,PECAM1,P16284,M2 Mac,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Plasma Cell,PECAM1,P16284,Monocyte Derived Cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Plasma Cell,PECAM1,P16284,Non-Classical Monocyte,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Plasma Cell,PECAM1,P16284,Plasma Cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,Plasma Cell,PECAM1,P16284,VSM/Pericyte/ MesengialCell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,VSM/Pericyte/ MesengialCell,PECAM1,P16284,B-cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,VSM/Pericyte/ MesengialCell,PECAM1,P16284,M2 Mac,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,VSM/Pericyte/ MesengialCell,PECAM1,P16284,Monocyte Derived Cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,VSM/Pericyte/ MesengialCell,PECAM1,P16284,Non-Classical Monocyte,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,VSM/Pericyte/ MesengialCell,PECAM1,P16284,Plasma Cell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+PECAM1,P16284,VSM/Pericyte/ MesengialCell,PECAM1,P16284,VSM/Pericyte/ MesengialCell,KEGG: hsa04514,Cell-Cell Contact,PECAM1_PECAM1
+EDN1,P05305,Connecting Tubule,EDNRA,P25101,Fibroblast Cell,KEGG: hsa04080,Secreted Signaling,EDN1_EDNRA
+EDN1,P05305,Connecting Tubule,EDNRA,P25101,VSM/Pericyte/ MesengialCell,KEGG: hsa04080,Secreted Signaling,EDN1_EDNRA
+EDN1,P05305,EC_AEA_ Descending Vasa Recta,EDNRA,P25101,Fibroblast Cell,KEGG: hsa04080,Secreted Signaling,EDN1_EDNRA
+EDN1,P05305,EC_AEA_ Descending Vasa Recta,EDNRA,P25101,VSM/Pericyte/ MesengialCell,KEGG: hsa04080,Secreted Signaling,EDN1_EDNRA
+EDN1,P05305,Endothelial Cell,EDNRA,P25101,Fibroblast Cell,KEGG: hsa04080,Secreted Signaling,EDN1_EDNRA
+EDN1,P05305,Endothelial Cell,EDNRA,P25101,VSM/Pericyte/ MesengialCell,KEGG: hsa04080,Secreted Signaling,EDN1_EDNRA
+EDN1,P05305,Glomerular Capillary,EDNRA,P25101,Fibroblast Cell,KEGG: hsa04080,Secreted Signaling,EDN1_EDNRA
+EDN1,P05305,Glomerular Capillary,EDNRA,P25101,VSM/Pericyte/ MesengialCell,KEGG: hsa04080,Secreted Signaling,EDN1_EDNRA
+EDN1,P05305,Interstitial Cell_A (in cortex),EDNRA,P25101,Fibroblast Cell,KEGG: hsa04080,Secreted Signaling,EDN1_EDNRA
+EDN1,P05305,Interstitial Cell_A (in cortex),EDNRA,P25101,VSM/Pericyte/ MesengialCell,KEGG: hsa04080,Secreted Signaling,EDN1_EDNRA
+EDN1,P05305,Parietal Cell,EDNRA,P25101,Fibroblast Cell,KEGG: hsa04080,Secreted Signaling,EDN1_EDNRA
+EDN1,P05305,Parietal Cell,EDNRA,P25101,VSM/Pericyte/ MesengialCell,KEGG: hsa04080,Secreted Signaling,EDN1_EDNRA
+OCLN,Q16625,Connecting Tubule,OCLN,Q16625,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Connecting Tubule,OCLN,Q16625,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Connecting Tubule,OCLN,Q16625,Glomerular Capillary,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Connecting Tubule,OCLN,Q16625,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Connecting Tubule,OCLN,Q16625,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Connecting Tubule,OCLN,Q16625,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Connecting Tubule,OCLN,Q16625,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Connecting Tubule,OCLN,Q16625,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Connecting Tubule,OCLN,Q16625,TAL,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Connecting Tubule,OCLN,Q16625,PT,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Endothelial Cell,OCLN,Q16625,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Endothelial Cell,OCLN,Q16625,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Endothelial Cell,OCLN,Q16625,Glomerular Capillary,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Endothelial Cell,OCLN,Q16625,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Endothelial Cell,OCLN,Q16625,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Endothelial Cell,OCLN,Q16625,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Endothelial Cell,OCLN,Q16625,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Endothelial Cell,OCLN,Q16625,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Endothelial Cell,OCLN,Q16625,TAL,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Endothelial Cell,OCLN,Q16625,PT,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Glomerular Capillary,OCLN,Q16625,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Glomerular Capillary,OCLN,Q16625,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Glomerular Capillary,OCLN,Q16625,Glomerular Capillary,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Glomerular Capillary,OCLN,Q16625,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Glomerular Capillary,OCLN,Q16625,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Glomerular Capillary,OCLN,Q16625,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Glomerular Capillary,OCLN,Q16625,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Glomerular Capillary,OCLN,Q16625,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Glomerular Capillary,OCLN,Q16625,TAL,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Glomerular Capillary,OCLN,Q16625,PT,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_A (in cortex),OCLN,Q16625,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_A (in cortex),OCLN,Q16625,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_A (in cortex),OCLN,Q16625,Glomerular Capillary,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_A (in cortex),OCLN,Q16625,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_A (in cortex),OCLN,Q16625,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_A (in cortex),OCLN,Q16625,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_A (in cortex),OCLN,Q16625,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_A (in cortex),OCLN,Q16625,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_A (in cortex),OCLN,Q16625,TAL,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_A (in cortex),OCLN,Q16625,PT,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_B (in medulla),OCLN,Q16625,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_B (in medulla),OCLN,Q16625,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_B (in medulla),OCLN,Q16625,Glomerular Capillary,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_B (in medulla),OCLN,Q16625,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_B (in medulla),OCLN,Q16625,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_B (in medulla),OCLN,Q16625,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_B (in medulla),OCLN,Q16625,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_B (in medulla),OCLN,Q16625,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_B (in medulla),OCLN,Q16625,TAL,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Interstitial Cell_B (in medulla),OCLN,Q16625,PT,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Macula Densa,OCLN,Q16625,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Macula Densa,OCLN,Q16625,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Macula Densa,OCLN,Q16625,Glomerular Capillary,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Macula Densa,OCLN,Q16625,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Macula Densa,OCLN,Q16625,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Macula Densa,OCLN,Q16625,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Macula Densa,OCLN,Q16625,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Macula Densa,OCLN,Q16625,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Macula Densa,OCLN,Q16625,TAL,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Macula Densa,OCLN,Q16625,PT,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Parietal Cell,OCLN,Q16625,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Parietal Cell,OCLN,Q16625,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Parietal Cell,OCLN,Q16625,Glomerular Capillary,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Parietal Cell,OCLN,Q16625,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Parietal Cell,OCLN,Q16625,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Parietal Cell,OCLN,Q16625,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Parietal Cell,OCLN,Q16625,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Parietal Cell,OCLN,Q16625,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Parietal Cell,OCLN,Q16625,TAL,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Parietal Cell,OCLN,Q16625,PT,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Principal Cell,OCLN,Q16625,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Principal Cell,OCLN,Q16625,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Principal Cell,OCLN,Q16625,Glomerular Capillary,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Principal Cell,OCLN,Q16625,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Principal Cell,OCLN,Q16625,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Principal Cell,OCLN,Q16625,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Principal Cell,OCLN,Q16625,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Principal Cell,OCLN,Q16625,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Principal Cell,OCLN,Q16625,TAL,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,Principal Cell,OCLN,Q16625,PT,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,TAL,OCLN,Q16625,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,TAL,OCLN,Q16625,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,TAL,OCLN,Q16625,Glomerular Capillary,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,TAL,OCLN,Q16625,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,TAL,OCLN,Q16625,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,TAL,OCLN,Q16625,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,TAL,OCLN,Q16625,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,TAL,OCLN,Q16625,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,TAL,OCLN,Q16625,TAL,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,TAL,OCLN,Q16625,PT,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,PT,OCLN,Q16625,Connecting Tubule,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,PT,OCLN,Q16625,Endothelial Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,PT,OCLN,Q16625,Glomerular Capillary,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,PT,OCLN,Q16625,Interstitial Cell_A (in cortex),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,PT,OCLN,Q16625,Interstitial Cell_B (in medulla),KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,PT,OCLN,Q16625,Macula Densa,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,PT,OCLN,Q16625,Parietal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,PT,OCLN,Q16625,Principal Cell,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,PT,OCLN,Q16625,TAL,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+OCLN,Q16625,PT,OCLN,Q16625,PT,KEGG: hsa04514,Cell-Cell Contact,OCLN_OCLN
+APLN,Q9ULZ1,Podocyte Cell,APLNR,P35414,Endothelial Cell,KEGG: hsa04371,Secreted Signaling,APLN_APLNR
+APLN,Q9ULZ1,Podocyte Cell,APLNR,P35414,Glomerular Capillary,KEGG: hsa04371,Secreted Signaling,APLN_APLNR

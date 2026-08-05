@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Where Is the Data? — DKDM</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main>
+
+<section class="page-head container"><p class="eyebrow">Help</p><h1>Where Is the Data?</h1>
+<p class="prose muted">A single reference for every DKDM resource: what it is, which system stores it, and the exact steps to reach it.</p></section>
+<section class="container section" style="padding-top:8px">
+<div class="table-wrap"><table class="dk"><thead><tr><th>Resource</th><th>Location</th><th>How to find it</th></tr></thead>
+<tbody><tr><td>Traceable annotations</td><td><span class="loc-tag">MINERVA</span></td><td class="muted">Click a gene or interaction in the MINERVA map.</td></tr><tr><td>Literature references</td><td><span class="loc-tag">MINERVA</span></td><td class="muted">Click a gene or interaction in the MINERVA map.</td></tr><tr><td>ODE equations</td><td><span class="loc-tag">Dynamic DKDM</span></td><td class="muted">Click a gene or interaction in the Dynamic DKDM model.</td></tr><tr><td>Network centrality analysis</td><td><span class="loc-tag">FAIRDOMHub</span></td><td class="muted">Open the cell-type resources and download the CSV file.</td></tr><tr><td>GO enrichment analysis</td><td><span class="loc-tag">FAIRDOMHub</span></td><td class="muted">Open the cell-type resources and download the CSV file.</td></tr><tr><td>Pathway enrichment analysis</td><td><span class="loc-tag">FAIRDOMHub</span></td><td class="muted">Open the cell-type resources and download the CSV file.</td></tr><tr><td>Cell–cell interactions</td><td><span class="loc-tag">Cell–Cell Interaction Map</span></td><td class="muted">Open the interaction map from the homepage.</td></tr><tr><td>miRNA regulation</td><td><span class="loc-tag">miRNA–Target Interaction Map</span></td><td class="muted">Open the interaction map from the homepage.</td></tr></tbody></table></div>
+<div class="callout" style="margin-top:24px">Looking for one specific cell type? Open <a href="cell-types.html">Cell Types</a> and click any cell to get its MINERVA map, ODE model and direct CSV downloads in one panel.</div>
+</section>
+
+</main>
+<script src="js/data.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/main.js"></script>
+<script>window.PAGE=""; DKDMLayout.mount();</script>
+</body>
+</html>

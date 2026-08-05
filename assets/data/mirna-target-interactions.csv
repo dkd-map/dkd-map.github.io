@@ -1,0 +1,238 @@
+miRNA,Target Gene,Interaction Type,Prediction Score,Experiment,Reference (PMID)
+hsa-miR-127-3p,CASP9,Predicted only,0.416046023,DIDL tool,Not Applicable
+hsa-miR-127-3p,NAMPT,Predicted only,0.493981928,DIDL tool,Not Applicable
+hsa-miR-127-3p,PTPN6,Predicted only,0.371347576,DIDL tool,Not Applicable
+hsa-miR-127-3p,SERPINH1,Predicted only,0.560959756,DIDL tool,Not Applicable
+hsa-miR-1274a,CDKN1A,Predicted only,0.64172107,DIDL tool,Not Applicable
+hsa-miR-1274a,HIPK2,Predicted only,0.161616519,DIDL tool,Not Applicable
+hsa-miR-1274a,MAPK8,Predicted only,0.114004783,DIDL tool,Not Applicable
+hsa-miR-1274a,PIK3R1,Predicted only,0.352235079,DIDL tool,Not Applicable
+hsa-miR-1275,MECP2,Experimentally validated,Not Applicable,Luciferase reporter assay,33251277
+hsa-miR-1280,ARG2,Predicted only,0.115829043,DIDL tool,Not Applicable
+hsa-miR-1280,BECN1,Predicted only,0.374245137,DIDL tool,Not Applicable
+hsa-miR-1280,EDNRA,Predicted only,0.185961291,DIDL tool,Not Applicable
+hsa-miR-1280,PODXL,Predicted only,0.14931111,DIDL tool,Not Applicable
+hsa-miR-1280,ROCK1,Predicted only,0.430312604,DIDL tool,Not Applicable
+hsa-miR-1280,RORA,Predicted only,0.129342303,DIDL tool,Not Applicable
+hsa-miR-1280,SMURF1,Predicted only,0.178797483,DIDL tool,Not Applicable
+hsa-miR-1280,VIM,Predicted only,0.400505215,DIDL tool,Not Applicable
+hsa-miR-139-5p,BCL2,Both predicted and validated,0.974182944,Luciferase reporter assay,27244080
+hsa-miR-139-5p,CTNNB1,Experimentally validated,Not Applicable,Luciferase reporter assay,32641995
+hsa-miR-139-5p,FOS,Both predicted and validated,0.938443581,qRT-PCR,23001723
+hsa-miR-139-5p,FOXO1,Experimentally validated,Not Applicable,Western blotting,34249000
+hsa-miR-139-5p,IFNG,Predicted only,0.859594941,DIDL tool,Not Applicable
+hsa-miR-139-5p,IGF1R,Both predicted and validated,0.98542736,Luciferase reporter assay,22580051
+hsa-miR-139-5p,IL10,Predicted only,0.727813363,DIDL tool,Not Applicable
+hsa-miR-139-5p,JUN,Both predicted and validated,0.770183603,ChIP-seq,25499265
+hsa-miR-139-5p,NFKB1,Both predicted and validated,0.841610491,Luciferase reporter assay,24158791
+hsa-miR-139-5p,NOTCH1,Both predicted and validated,0.98175019,Luciferase reporter assay,27738333
+hsa-miR-139-5p,PIK3CA,Both predicted and validated,0.882000566,Luciferase reporter assay,24158791
+hsa-miR-139-5p,RAP1A,Predicted only,0.592943013,DIDL tool,Not Applicable
+hsa-miR-139-5p,ROCK2,Both predicted and validated,0.847214778,Luciferase reporter assay,24942287
+hsa-miR-139-5p,SMAD1,Predicted only,0.849002957,DIDL tool,Not Applicable
+hsa-miR-139-5p,SRC,Predicted only,0.76563251,DIDL tool,Not Applicable
+hsa-miR-139-5p,WNT1,Predicted only,0.922406574,DIDL tool,Not Applicable
+hsa-miR-142-3p,CTNNB1,Experimentally validated,Not Applicable,Immunocytochemistry (ICC),33643894
+hsa-miR-142-3p,DPYSL2,Predicted only,0.693513811,DIDL tool,Not Applicable
+hsa-miR-142-3p,HMGB1,Both predicted and validated,0.93403856,Luciferase reporter assay,26617792
+hsa-miR-142-3p,IL1A,Both predicted and validated,0.609697541,Luciferase reporter assay,22870299
+hsa-miR-142-3p,PRKCA,Predicted only,0.617552837,DIDL tool,Not Applicable
+hsa-miR-142-3p,PROM1,Both predicted and validated,0.595663329,Luciferase reporter assay,23619912
+hsa-miR-142-3p,RAC1,Both predicted and validated,0.913444857,Luciferase reporter assay,24743945
+hsa-miR-142-3p,ROCK2,Both predicted and validated,0.865187069,Luciferase reporter assay,24743945
+hsa-miR-142-3p,TEK,Predicted only,0.585672677,DIDL tool,Not Applicable
+hsa-miR-142-3p,TGFBR1,Both predicted and validated,0.933609287,Luciferase reporter assay,24558198
+hsa-miR-142-3p,THBS2,Predicted only,0.601673722,DIDL tool,Not Applicable
+hsa-miR-142-5p,DKK1,Predicted only,0.749551237,DIDL tool,Not Applicable
+hsa-miR-142-5p,DUSP1,Predicted only,0.559002817,DIDL tool,Not Applicable
+hsa-miR-142-5p,HIF1A,Both predicted and validated,0.889758627,Luciferase reporter assay,28069592
+hsa-miR-142-5p,NFE2L2,Both predicted and validated,0.587756038,Luciferase reporter assay,23236440
+hsa-miR-142-5p,PTEN,Both predicted and validated,0.955791116,Luciferase reporter assay,27796281
+hsa-miR-142-5p,RAC1,Both predicted and validated,0.765978833,Western blot,25530132
+hsa-miR-142-5p,SIRT1,Both predicted and validated,0.909274201,Immunofluorescence,23752207
+hsa-miR-142-5p,SMAD3,Both predicted and validated,0.826823672,Luciferase reporter assay,27683030
+hsa-miR-142-5p,SOCS1,Both predicted and validated,0.741242806,ChIP-seq,26436920
+hsa-miR-142-5p,TGFB2,Predicted only,0.796218197,DIDL tool,Not Applicable
+hsa-miR-146b-5p,A2M,Experimentally validated,Not Applicable,Luciferase reporter assay,31422941
+hsa-miR-146b-5p,CD40LG,Predicted only,0.419165999,DIDL tool,Not Applicable
+hsa-miR-146b-5p,CDKN1A,Experimentally validated,Not Applicable,Luciferase reporter assay,20101223
+hsa-miR-146b-5p,EGFR,Predicted only,0.936617017,DIDL tool,Not Applicable
+hsa-miR-146b-5p,HMGB1,Predicted only,0.791798353,DIDL tool,Not Applicable
+hsa-miR-146b-5p,IL6,Both predicted and validated,0.841341754,Luciferase reporter assay,26338965
+hsa-miR-146b-5p,IRAK1,Both predicted and validated,0.550156772,Luciferase reporter assay,16885212
+hsa-miR-146b-5p,MFN2,Predicted only,0.532585025,DIDL tool,Not Applicable
+hsa-miR-146b-5p,NFKB1,Both predicted and validated,0.727800131,Luciferase reporter assay,18504431
+hsa-miR-146b-5p,TLR3,Predicted only,0.399318248,DIDL tool,Not Applicable
+hsa-miR-146b-5p,TLR4,Both predicted and validated,0.631400665,Luciferase reporter assay,23798430
+hsa-miR-146b-5p,TRAF6,Both predicted and validated,0.545108169,Luciferase reporter assay,16885212
+hsa-miR-199a-5p,APOE,Both predicted and validated,0.78832225,ELISA,23142051
+hsa-miR-199a-5p,BECN1,Both predicted and validated,0.987858236,Luciferase reporter assay,23337876
+hsa-miR-199a-5p,CDH1,Both predicted and validated,0.984000385,Immunofluorescence,25080937
+hsa-miR-199a-5p,CLTC,Predicted only,0.772213141,DIDL tool,Not Applicable
+hsa-miR-199a-5p,EDN1,Both predicted and validated,0.871444603,Luciferase reporter assay,19783678
+hsa-miR-199a-5p,ERN1,Both predicted and validated,0.765787184,Luciferase reporter assay,23598416
+hsa-miR-199a-5p,EZH2,Experimentally validated,Not Applicable,Luciferase reporter assay,19818710
+hsa-miR-199a-5p,HIF1A,Both predicted and validated,0.960493028,Luciferase reporter assay,21847633
+hsa-miR-199a-5p,HMOX1,Predicted only,0.844175756,DIDL tool,Not Applicable
+hsa-miR-199a-5p,IKBKB,Both predicted and validated,0.969416102,Reporter assay,18408758
+hsa-miR-199a-5p,JUNB,Both predicted and validated,0.765006304,Luciferase reporter assay,25938468
+hsa-miR-199a-5p,KL,Both predicted and validated,0.793449879,Immunohistochemistry,24655788
+hsa-miR-199a-5p,LDLR,Predicted only,0.870652437,DIDL tool,Not Applicable
+hsa-miR-199a-5p,NFKB1,Both predicted and validated,0.963270545,Luciferase reporter assay,24299514
+hsa-miR-199a-5p,PTGS2,Both predicted and validated,0.987972697,Luciferase reporter assay,24413338
+hsa-miR-199a-5p,SIRT1,Both predicted and validated,0.947170317,qRT-PCR,23760629
+hsa-miR-199a-5p,SMAD3,Both predicted and validated,0.986505946,Luciferase reporter assay,27038547
+hsa-miR-199a-5p,SMAD4,Both predicted and validated,0.935597221,Luciferase reporter assay,22821565
+hsa-miR-199a-5p,SNAI1,Both predicted and validated,0.971071998,Luciferase reporter assay,25041364
+hsa-miR-199a-5p,SP1,Experimentally validated,Not Applicable,Immunofluorescence,33276722
+hsa-miR-199a-5p,TGFB2,Both predicted and validated,0.988566538,Luciferase reporter assay,27842518
+hsa-miR-199a-5p,TGFBR1,Predicted only,0.984845916,DIDL tool,Not Applicable
+hsa-miR-199a-5p,VEGFA,Both predicted and validated,0.874344548,Luciferase reporter assay,24155090
+hsa-miR-199b-5p,HES1,Experimentally validated,Not Applicable,Flow,19308264
+hsa-miR-199b-5p,HIF1A,Experimentally validated,Not Applicable,Luciferase reporter assay,21557766
+hsa-miR-199b-5p,MAP3K14,Predicted only,0.059557024,DIDL tool,Not Applicable
+hsa-miR-199b-5p,PODXL,Experimentally validated,Not Applicable,Immunohistochemistry,22374871
+hsa-miR-199b-5p,SNAI1,Experimentally validated,Not Applicable,Luciferase reporter assay,31705138
+hsa-miR-199b-5p,THBS1,Predicted only,0.184510514,DIDL tool,Not Applicable
+hsa-miR-199b-5p,VEGFA,Experimentally validated,Not Applicable,Western blotting,32178301
+hsa-miR-28-5p,ALDH5A1,Predicted only,0.523695827,DIDL tool,Not Applicable
+hsa-miR-28-5p,CDKN1A,Both predicted and validated,0.945827484,qRT-PCR,20190813
+hsa-miR-28-5p,FGA,Predicted only,0.498932421,DIDL tool,Not Applicable
+hsa-miR-28-5p,FOXO1,Experimentally validated,Not Applicable,Luciferase reporter assay,31934134
+hsa-miR-28-5p,HSPG2,Predicted only,0.399908632,DIDL tool,Not Applicable
+hsa-miR-28-5p,IGF1,Both predicted and validated,0.853733857,Luciferase reporter assay,26160280
+hsa-miR-28-5p,LEPR,Predicted only,0.397776544,DIDL tool,Not Applicable
+hsa-miR-28-5p,MAPK1,Both predicted and validated,0.82341814,Luciferase reporter assay,20445018
+hsa-miR-28-5p,NAV3,Predicted only,0.520286858,DIDL tool,Not Applicable
+hsa-miR-28-5p,PCNA,Experimentally validated,Not Applicable,Immunohistochemistry (IHC),33624782
+hsa-miR-28-5p,PIK3R1,Predicted only,0.714050472,DIDL tool,Not Applicable
+hsa-miR-28-5p,TP53,Predicted only,0.929924647,DIDL tool,Not Applicable
+hsa-miR-296-5p,BAX,Experimentally validated,Not Applicable,Luciferase reporter assay,31433907
+hsa-miR-296-5p,ELAVL1,Experimentally validated,Not Applicable,Luciferase reporter assay,26898797
+hsa-miR-296-5p,IKBKB,Predicted only,0.264968783,DIDL tool,Not Applicable
+hsa-miR-296-5p,MMP7,Predicted only,0.236601993,DIDL tool,Not Applicable
+hsa-miR-296-5p,STAT3,Experimentally validated,Not Applicable,qRT-PCR,33664565
+hsa-miR-320a,AQP1,Both predicted and validated,0.719805559,Luciferase reporter assay,20628061
+hsa-miR-320a,AR,Predicted only,0.911361396,DIDL tool,Not Applicable
+hsa-miR-320a,AXL,Predicted only,0.764637291,DIDL tool,Not Applicable
+hsa-miR-320a,CTNNB1,Predicted only,0.985201756,DIDL tool,Not Applicable
+hsa-miR-320a,FAS,Predicted only,0.918316046,DIDL tool,Not Applicable
+hsa-miR-320a,HMGB1,Predicted only,0.983273109,DIDL tool,Not Applicable
+hsa-miR-320a,HSPA4,Predicted only,0.83069551,DIDL tool,Not Applicable
+hsa-miR-320a,IGF1R,Both predicted and validated,0.935752153,Luciferase reporter assay,24161401
+hsa-miR-320a,IL4,Experimentally validated,Not Applicable,Luciferase reporter assay,31432141
+hsa-miR-320a,MAPK1,Both predicted and validated,0.985340277,Luciferase reporter assay,23196978
+hsa-miR-320a,MTDH,Both predicted and validated,0.985594849,Immunohistochemistry,27229534
+hsa-miR-320a,NR3C2,Predicted only,0.749346673,DIDL tool,Not Applicable
+hsa-miR-320a,PIK3CA,Experimentally validated,Not Applicable,Luciferase reporter assay,34194551
+hsa-miR-320a,PTEN,Both predicted and validated,0.865737995,Luciferase reporter assay,24161401
+hsa-miR-320a,RAC1,Predicted only,0.973860602,DIDL tool,Not Applicable
+hsa-miR-320a,RPS6KB1,Predicted only,0.910012126,DIDL tool,Not Applicable
+hsa-miR-320a,RUNX2,Both predicted and validated,0.976318796,Luciferase reporter assay,27965096
+hsa-miR-320a,SOD3,Predicted only,0.71372956,DIDL tool,Not Applicable
+hsa-miR-320a,TAC1,Experimentally validated,Not Applicable,Luciferase reporter assay,17855557
+hsa-miR-320a,TFRC,Both predicted and validated,0.81425484,Luciferase reporter assay,18523662
+hsa-miR-320a,VEGFA,Predicted only,0.91427656,DIDL tool,Not Applicable
+hsa-miR-320a,VIM,Predicted only,0.975174447,DIDL tool,Not Applicable
+hsa-miR-320a,YWHAZ,Both predicted and validated,0.872026026,Luciferase reporter assay,27229534
+hsa-miR-339-3p,ACAT1,Predicted only,0.173652515,DIDL tool,Not Applicable
+hsa-miR-339-3p,FOXO1,Predicted only,0.647757908,DIDL tool,Not Applicable
+hsa-miR-339-3p,LEPR,Predicted only,0.148713097,DIDL tool,Not Applicable
+hsa-miR-339-3p,NFKB1,Predicted only,0.410268704,DIDL tool,Not Applicable
+hsa-miR-339-3p,TLR3,Predicted only,0.147956952,DIDL tool,Not Applicable
+hsa-miR-342-3p,BMP7,Both predicted and validated,0.53742978,Luciferase reporter assay,21172025
+hsa-miR-342-3p,DNMT1,Both predicted and validated,0.844337801,Luciferase reporter assay,21565830
+hsa-miR-342-3p,MAPK1,Experimentally validated,Not Applicable,Luciferase reporter assay,32248545
+hsa-miR-342-3p,MTDH,Predicted only,0.785858611,DIDL tool,Not Applicable
+hsa-miR-342-3p,SOX6,Experimentally validated,Not Applicable,Luciferase reporter assay,31746345
+hsa-miR-342-3p,SREBF1,Both predicted and validated,0.451659451,Luciferase reporter assay,23951060
+hsa-miR-342-3p,TGFBR1,Predicted only,0.718843758,DIDL tool,Not Applicable
+hsa-miR-342-3p,VCAM1,Predicted only,0.317479104,DIDL tool,Not Applicable
+hsa-miR-361-3p,APOB,Predicted only,0.054578289,DIDL tool,Not Applicable
+hsa-miR-361-3p,IL2,Predicted only,0.106133714,DIDL tool,Not Applicable
+hsa-miR-361-3p,PPARGC1A,Predicted only,0.156540751,DIDL tool,Not Applicable
+hsa-miR-362-3p,CASP9,Experimentally validated,Not Applicable,Luciferase reporter assay,33459949
+hsa-miR-362-3p,ERG,Experimentally validated,Not Applicable,Luciferase reporter assay,31659098
+hsa-miR-362-3p,IL1B,Experimentally validated,Not Applicable,Luciferase reporter assay,33459949
+hsa-miR-362-3p,MAPK1,Experimentally validated,Not Applicable,Luciferase reporter assay,33459949
+hsa-miR-362-3p,NFASC,Predicted only,0.138264999,DIDL tool,Not Applicable
+hsa-miR-362-3p,RAC1,Predicted only,0.454883575,DIDL tool,Not Applicable
+hsa-miR-429,AGO2,Predicted only,0.755723536,DIDL tool,Not Applicable
+hsa-miR-429,AKT1,Experimentally validated,Not Applicable,Luciferase reporter assay,31814979
+hsa-miR-429,BCL2,Both predicted and validated,0.934101462,Luciferase reporter assay,21993663
+hsa-miR-429,DNMT1,Both predicted and validated,0.985945006,ChIP-seq,25595591
+hsa-miR-429,EGFR,Predicted only,0.982276738,DIDL tool,Not Applicable
+hsa-miR-429,EZH2,Both predicted and validated,0.983166397,ChIP-seq,25595591
+hsa-miR-429,FSCN1,Predicted only,0.934383969,DIDL tool,Not Applicable
+hsa-miR-429,HIF1A,Both predicted and validated,0.985568106,qRT-PCR,25550463
+hsa-miR-429,IDH1,Predicted only,0.709645212,DIDL tool,Not Applicable
+hsa-miR-429,IL4,Predicted only,0.76865234,DIDL tool,Not Applicable
+hsa-miR-429,PTEN,Both predicted and validated,0.91154621,Luciferase reporter assay,24866238
+hsa-miR-429,SNAI1,Predicted only,0.996174574,DIDL tool,Not Applicable
+hsa-miR-429,SP1,Predicted only,0.984906912,DIDL tool,Not Applicable
+hsa-miR-429,VEGFA,Predicted only,0.949071745,DIDL tool,Not Applicable
+hsa-miR-513a-5p,DPYSL2,Predicted only,0.166618556,DIDL tool,Not Applicable
+hsa-miR-513a-5p,HSPD1,Predicted only,0.101272382,DIDL tool,Not Applicable
+hsa-miR-513a-5p,MFF,Predicted only,0.15189676,DIDL tool,Not Applicable
+hsa-miR-513a-5p,TRAF6,Predicted only,0.14167583,DIDL tool,Not Applicable
+hsa-miR-542-3p,AKT1,Both predicted and validated,0.876267672,Immunohistochemistry,26286747
+hsa-miR-542-3p,ANGPT2,Both predicted and validated,0.416769832,Luciferase reporter assay,24403060
+hsa-miR-542-3p,BMP7,Both predicted and validated,0.515109042,Luciferase reporter assay,24503542
+hsa-miR-542-3p,CDKN1A,Predicted only,0.824144781,DIDL tool,Not Applicable
+hsa-miR-542-3p,ILK,Both predicted and validated,0.42219619,Immunoblot,21860426
+hsa-miR-542-3p,LOX,Predicted only,0.507056952,DIDL tool,Not Applicable
+hsa-miR-542-3p,MMP9,Experimentally validated,Not Applicable,ELISA,33785768
+hsa-miR-542-3p,MTDH,Both predicted and validated,0.762475471,Luciferase reporter assay,25432696
+hsa-miR-542-3p,PIK3R1,Both predicted and validated,0.649380763,Immunohistochemistry,26286747
+hsa-miR-542-3p,TGFB1,Experimentally validated,Not Applicable,ELISA,33785768
+hsa-miR-572,CCND1,Predicted only,0.677276671,DIDL tool,Not Applicable
+hsa-miR-572,CDKN1A,Both predicted and validated,0.659780165,qRT-PCR,20190813
+hsa-miR-572,CKB,Predicted only,0.115045235,DIDL tool,Not Applicable
+hsa-miR-572,G6PD,Predicted only,0.167961478,DIDL tool,Not Applicable
+hsa-miR-572,IDH1,Predicted only,0.122824505,DIDL tool,Not Applicable
+hsa-miR-572,IRS2,Predicted only,0.274401993,DIDL tool,Not Applicable
+hsa-miR-572,TRIB3,Predicted only,0.164376035,DIDL tool,Not Applicable
+hsa-miR-574-5p,ATF3,Predicted only,0.117313489,DIDL tool,Not Applicable
+hsa-miR-574-5p,HIF1A,Predicted only,0.548335195,DIDL tool,Not Applicable
+hsa-miR-574-5p,HMGB1,Experimentally validated,Not Applicable,Luciferase reporter assay,33202146
+hsa-miR-574-5p,POSTN,Predicted only,0.103701018,DIDL tool,Not Applicable
+hsa-miR-574-5p,SOCS2,Predicted only,0.091164105,DIDL tool,Not Applicable
+hsa-miR-590-5p,ATF3,Predicted only,0.400248577,DIDL tool,Not Applicable
+hsa-miR-590-5p,JAK2,Predicted only,0.566366434,DIDL tool,Not Applicable
+hsa-miR-590-5p,SMAD3,Predicted only,0.774456044,DIDL tool,Not Applicable
+hsa-miR-590-5p,SMAD7,Predicted only,0.797796845,DIDL tool,Not Applicable
+hsa-miR-590-5p,STAT3,Experimentally validated,Not Applicable,Luciferase reporter assay,31520555
+hsa-miR-590-5p,TGFBI,Predicted only,0.356570125,DIDL tool,Not Applicable
+hsa-miR-590-5p,TJP1,Predicted only,0.450725168,DIDL tool,Not Applicable
+hsa-miR-634,CFB,Predicted only,0.093228094,DIDL tool,Not Applicable
+hsa-miR-634,EGFR,Experimentally validated,Not Applicable,ELISA,33294587
+hsa-miR-634,STAT3,Experimentally validated,Not Applicable,Luciferase reporter assay,32077744
+hsa-miR-638,ESR1,Predicted only,0.670064569,DIDL tool,Not Applicable
+hsa-miR-638,EZH2,Predicted only,0.794304013,DIDL tool,Not Applicable
+hsa-miR-638,NLRP3,Predicted only,0.260884523,DIDL tool,Not Applicable
+hsa-miR-638,PROM1,Predicted only,0.261211991,DIDL tool,Not Applicable
+hsa-miR-638,PTEN,Predicted only,0.902137856,DIDL tool,Not Applicable
+hsa-miR-638,ROCK1,Predicted only,0.623594403,DIDL tool,Not Applicable
+hsa-miR-638,TP53,Predicted only,0.840612113,DIDL tool,Not Applicable
+hsa-miR-663b,APAF1,Predicted only,0.200291634,DIDL tool,Not Applicable
+hsa-miR-663b,CD8A,Predicted only,0.074458815,DIDL tool,Not Applicable
+hsa-miR-663b,NR3C1,Predicted only,0.115757972,DIDL tool,Not Applicable
+hsa-miR-665,CDH3,Experimentally validated,Not Applicable,ELISA,33968210
+hsa-miR-665,ELN,Predicted only,0.193855077,DIDL tool,Not Applicable
+hsa-miR-665,FBN1,Predicted only,0.151121005,DIDL tool,Not Applicable
+hsa-miR-665,FSCN1,Predicted only,0.292718351,DIDL tool,Not Applicable
+hsa-miR-665,IGF1R,Predicted only,0.537005961,DIDL tool,Not Applicable
+hsa-miR-665,SIRT3,Predicted only,0.101317085,DIDL tool,Not Applicable
+hsa-miR-665,SMAD3,Experimentally validated,Not Applicable,Luciferase reporter assay,34196584
+hsa-miR-665,VLDLR,Predicted only,0.082700454,DIDL tool,Not Applicable
+hsa-miR-762,FSCN1,Predicted only,0.286168367,DIDL tool,Not Applicable
+hsa-miR-762,NOX4,Predicted only,0.066178575,DIDL tool,Not Applicable
+hsa-miR-762,RORA,Predicted only,0.060939401,DIDL tool,Not Applicable
+hsa-miR-762,TLR2,Predicted only,0.270442367,DIDL tool,Not Applicable
+hsa-miR-762,TNFRSF11A,Predicted only,0.086835004,DIDL tool,Not Applicable
+hsa-miR-762,WNT1,Experimentally validated,Not Applicable,Western blotting,34092606
+hsa-miR-940,ATP6V1B2,Predicted only,0.067068562,DIDL tool,Not Applicable
+hsa-miR-940,DUSP1,Both predicted and validated,0.189057231,qRT-PCR,24675421
+hsa-miR-940,FABP3,Predicted only,0.11019025,DIDL tool,Not Applicable
+hsa-miR-940,SMAD2,Predicted only,0.490152001,DIDL tool,Not Applicable
+hsa-miR-940,TRAF6,Predicted only,0.17343834,DIDL tool,Not Applicable

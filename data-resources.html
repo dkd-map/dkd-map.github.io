@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data & Resources — DKDM</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<main>
+
+<section class="page-head container"><p class="eyebrow">About</p><h1>Data &amp; Resources</h1>
+<p class="prose muted">DKDM information is spread across a few connected systems. This page tells you exactly where each type of resource lives, with a direct button to reach it.</p></section>
+<section class="container section" style="padding-top:8px">
+<div class="table-wrap"><table class="dk"><thead><tr><th>Information type</th><th>Location</th><th>Go</th></tr></thead>
+<tbody><tr><td>Cell-type annotations and references</td><td><span class="loc-tag">MINERVA</span></td><td><a class="btn btn-ghost btn-sm" href="cell-types.html">Open cell types →</a></td></tr><tr><td>ODE equations</td><td><span class="loc-tag">Dynamic DKDM</span></td><td><a class="btn btn-ghost btn-sm" id="dr-dynamic" href="DYN" target="_blank" rel="noopener">Open Dynamic DKDM →</a></td></tr><tr><td>Network centrality analysis</td><td><span class="loc-tag">FAIRDOMHub</span></td><td><a class="btn btn-ghost btn-sm" id="dr-fairdomhub" href="FH" target="_blank" rel="noopener">Open FAIRDOMHub →</a></td></tr><tr><td>GO enrichment analysis</td><td><span class="loc-tag">FAIRDOMHub</span></td><td><a class="btn btn-ghost btn-sm" id="dr-fairdomhub" href="FH" target="_blank" rel="noopener">Open FAIRDOMHub →</a></td></tr><tr><td>Pathway enrichment analysis</td><td><span class="loc-tag">FAIRDOMHub</span></td><td><a class="btn btn-ghost btn-sm" id="dr-fairdomhub" href="FH" target="_blank" rel="noopener">Open FAIRDOMHub →</a></td></tr><tr><td>Cell–cell communication network</td><td><span class="loc-tag">Cell–Cell Interaction Map</span></td><td><a class="btn btn-ghost btn-sm" href="about-cci.html">Open map →</a></td></tr><tr><td>miRNA–target network</td><td><span class="loc-tag">miRNA–Target Interaction Map</span></td><td><a class="btn btn-ghost btn-sm" href="about-mirna.html">Open map →</a></td></tr></tbody></table></div>
+<div class="callout" style="margin-top:24px"><strong>How to cite DKDM.</strong> <span id="citeText"></span></div>
+</section>
+
+</main>
+<script src="js/data.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/main.js"></script>
+<script>window.PAGE="about"; DKDMLayout.mount();
+   var dyn=document.getElementById("dr-dynamic");if(dyn)dyn.href=DKDM.dynamicDkdmUrl;
+   document.querySelectorAll("#dr-fairdomhub").forEach(function(a){a.href=DKDM.links.fairdomhub;});
+   document.getElementById("citeText").textContent=DKDM.citation;</script>
+</body>
+</html>

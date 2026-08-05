@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DKDM — Diabetic Kidney Disease Map</title>
+  <meta name="description" content="DKDM: A multi-scale map for systematic studies of diabetic kidney disease, from macro anatomy to molecular interactions.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Hanken+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main>
+    <!-- REV 2 (follow-up): the tagline lives in the header now, so it is NOT
+         repeated here. The homepage opens straight into the scroll cue. -->
+    <section class="hero container">
+      <div class="scroll-hint">Scroll to explore<span class="chev"></span></div>
+    </section>
+
+    <section class="container">
+      <div class="home-stack">
+
+        <!-- Plain-language DKD intro -->
+        <div class="dkd-intro" id="dkdIntro">
+          <p class="eyebrow">What is diabetic kidney disease?</p>
+          <h2>A disease that damages the kidneys&rsquo; filtering system &mdash; cell type by cell type</h2>
+          <p class="dkd-intro-lead">Diabetic kidney disease (DKD) is the leading cause of end-stage renal disease worldwide, affecting 20&ndash;40% of people with diabetes. It progressively damages the kidney&rsquo;s microscopic filtering units &mdash; the nephrons &mdash; through a combination of metabolic stress, inflammation, fibrosis, and vascular injury. Current therapies slow progression but do not halt it.</p>
+          <p class="dkd-intro-lead">The <strong>Diabetic Kidney Disease Map (DKDM)</strong> is a free, open-access resource that organizes everything we know about DKD at the molecular level &mdash; across all 24 types of kidney cells &mdash; into one interactive platform. Whether you are looking for a specific gene, exploring enriched pathways, or simulating a cell&rsquo;s signaling network, DKDM gives you the tools to navigate the disease systematically.</p>
+        </div>
+
+        <!-- Who is this for? -->
+        <div class="audience-section" id="audienceSection">
+          <p class="eyebrow">Who is this for?</p>
+          <h2>Built for anyone investigating diabetic kidney disease</h2>
+          <div class="audience-grid">
+            <div class="audience-card">
+              <div class="audience-icon">N</div>
+              <h3>Nephrologists &amp; Clinicians</h3>
+              <p>Find which genes and pathways are dysregulated in specific kidney cell types. Link from any gene to clinical databases for therapeutic context.</p>
+            </div>
+            <div class="audience-card">
+              <div class="audience-icon">S</div>
+              <h3>Systems Biologists</h3>
+              <p>Download cell-type-specific PPI networks, centrality analyses, and SBML-format ODE models for simulation and network analysis.</p>
+            </div>
+            <div class="audience-card">
+              <div class="audience-icon">D</div>
+              <h3>Drug Discovery Researchers</h3>
+              <p>Identify hub genes as potential targets, explore druggability scores, and find cell&ndash;cell communication axes relevant to DKD.</p>
+            </div>
+            <div class="audience-card">
+              <div class="audience-icon">R</div>
+              <h3>Students &amp; Educators</h3>
+              <p>Start with the Use Cases page for step-by-step examples, then explore the interactive maps and documentation to learn systems biology in a real disease context.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Question-centric exploration boxes -->
+        <div class="explore-section">
+          <p class="eyebrow">Start exploring</p>
+          <h2>What do you want to investigate?</h2>
+          <div class="boxes" id="navBoxes"><!-- boxes injected by main.js --></div>
+        </div>
+
+        <!-- Anatomy -->
+        <div class="anatomy" id="anatomy">
+          <div class="anatomy-card">
+            <p class="eyebrow">Anatomical overview</p>
+            <h2>From whole-organ anatomy to single cells</h2>
+            <p class="sub">DKDM maps 24 renal cell types across the nephron and renal corpuscle. Use this illustration to orient yourself before diving into a specific cell type, the cell&ndash;cell communication network, or the dynamic models.</p>
+            <div class="anatomy-figure">
+              <img src="assets/anatomy/DKD_Anatomy.jpg" alt="Anatomical illustration of the renal corpuscle, nephron, connecting tubule and kidney cross-section, with labelled cell types.">
+            </div>
+            <div class="tag-row" style="margin-top:18px">
+              <a class="btn btn-primary btn-sm" href="cell-types.html">Browse 24 cell types &rarr;</a>
+              <a class="btn btn-ghost btn-sm" href="about-overview.html">What is DKDM?</a>
+              <a class="btn btn-ghost btn-sm" href="use-cases.html">See worked examples</a>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <script src="js/data.js"></script>
+  <script src="js/layout.js"></script>
+  <script src="js/main.js"></script>
+  <script>window.PAGE="home"; DKDMLayout.mount();</script>
+</body>
+</html>

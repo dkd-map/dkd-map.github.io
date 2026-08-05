@@ -7,14 +7,21 @@
   let allSymbols = [];
 
   // ── External database link builder ──────────────────────────────
-  function extLinks(symbol) {
-    return [
-      { label: 'NCBI Gene',    url: 'https://www.ncbi.nlm.nih.gov/gene/?term=' + symbol },
-      { label: 'UniProt',      url: 'https://www.uniprot.org/uniprotkb?query=' + symbol },
-      { label: 'HGNC',         url: 'https://www.genenames.org/data/gene-symbol-report/#!/symbol/' + symbol },
-      { label: 'Open Targets', url: 'https://platform.opentargets.org/search?search=' + symbol },
-      { label: 'KEGG',         url: 'https://www.genome.jp/dbget-bin/www_bfind?submode=1&mode=1&search_str=' + symbol },
+  function extLinks(symbol, gene) {
+    const s = encodeURIComponent(symbol);
+    // KEGG GENES entries are keyed by NCBI Gene ID (hsa:<entrezId>), not by symbol.
+    // KEGG dropped gene-symbol aliases, so we only emit a KEGG link when we have the ID.
+    const eid = gene && gene.entrezId;
+
+    const links = [
+      { label: 'NCBI Gene',    url: eid ? 'https://www.ncbi.nlm.nih.gov/gene/' + eid
+                                        : 'https://www.ncbi.nlm.nih.gov/gene/?term=' + s },
+      { label: 'UniProt',      url: 'https://www.uniprot.org/uniprotkb?query=' + s },
+      { label: 'HGNC',         url: 'https://www.genenames.org/tools/search/#!/all?query=' + s },
+      { label: 'Open Targets', url: 'https://platform.opentargets.org/search?q=' + s },
     ];
+    if (eid) links.push({ label: 'KEGG', url: 'https://www.kegg.jp/entry/hsa:' + eid });
+    return links;
   }
 
   // ── Load the gene index ─────────────────────────────────────────
@@ -66,7 +73,7 @@
     const g = GENE_INDEX[sym];
 
     // External links
-    const links = extLinks(sym);
+    const links = extLinks(sym, g);
     const linksHtml = '<div class="gene-ext-links">' +
       '<span class="gene-ext-label">Learn more:</span>' +
       links.map(l => '<a href="' + l.url + '" target="_blank" rel="noopener" class="gene-ext-link">' + l.label + ' ↗</a>').join('') +

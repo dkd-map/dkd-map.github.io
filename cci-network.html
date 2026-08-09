@@ -44,6 +44,9 @@
   .fig figcaption b{ color:var(--ink); font-family:var(--font-display); display:block; margin-bottom:3px; }
   .lr-tag{ display:inline-block; font-family:var(--font-mono); font-size:.72rem; background:var(--paper-2);
            border:1px solid var(--line); border-radius:6px; padding:2px 7px; margin:2px 3px 2px 0; color:var(--indigo); }
+  .rec-scroll{ max-height:430px; overflow-y:auto; }
+  .rec-scroll table.dk thead th{ position:sticky; top:0; z-index:2; }
+  #recIntro b{ color:var(--indigo); font-family:var(--font-display); }
   @media (max-width:700px){ #cciFigure{ height:460px; } }
   @media (prefers-reduced-motion:reduce){ *{ transition:none !important; } }
 </style>
@@ -59,7 +62,7 @@
       to a receiver cell type; hover an edge to read the pairs it carries, or pick a cell type to isolate it.</p>
     <div class="tag-row" style="margin-top:18px">
       <button class="btn btn-primary btn-sm" id="dlCsv">⬇ Download CSV</button>
-      <a class="btn btn-ghost btn-sm" href="assets/data/cell-cell-interactions.xlsx" download>⬇ Download Excel</a>
+      <a class="btn btn-ghost btn-sm" href="assets/data/cell-cell-interactions.csv" download>⬇ Download full dataset</a>
       <a class="btn btn-ghost btn-sm" href="about-cci.html">How this network was built</a>
     </div>
   </section>
@@ -96,6 +99,18 @@
   </section>
 
   <section class="container" style="padding-bottom:40px">
+    <h2 class="section-title">Interaction records</h2>
+    <p class="section-intro" id="recIntro">Every row behind the network above. Click a cell type in the figure
+      and this table follows.</p>
+    <div class="table-wrap rec-scroll">
+      <table class="dk">
+        <thead><tr><th>Sender (ligand)</th><th>Receiver (receptor)</th><th>Ligand→receptor pair</th></tr></thead>
+        <tbody id="cciRows"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="container" style="padding-bottom:40px">
     <h2 class="section-title">Network statistics</h2>
     <p class="section-intro">Computed across the complete cell–cell interaction matrix of all 24 renal cell types.</p>
     <div class="fig-grid">
@@ -123,17 +138,6 @@
         <figcaption><b>Degree distributions</b>In-, out- and total degree, and total interaction strength across
           the 24 cell types.</figcaption>
       </figure>
-    </div>
-  </section>
-
-  <section class="container" style="padding-bottom:60px">
-    <h2 class="section-title">Interaction records</h2>
-    <p class="section-intro">Every row behind the network above. The table follows the filters you set on the figure.</p>
-    <div class="table-wrap">
-      <table class="dk">
-        <thead><tr><th>Sender (ligand)</th><th>Receiver (receptor)</th><th>Ligand→receptor pair</th></tr></thead>
-        <tbody id="cciRows"></tbody>
-      </table>
     </div>
   </section>
 
@@ -268,6 +272,11 @@
 
   function renderRows(){
     const rows = RECORDS.filter(r => visible({ source:r.source, target:r.target }));
+    document.getElementById("recIntro").innerHTML = sel.value
+      ? `Showing <b>${rows.length}</b> of ${RECORDS.length} records for <b>${sel.value}</b>. `
+        + `Click the same cell type again to show all.`
+      : `All <b>${RECORDS.length}</b> records behind the network above. `
+        + `Click a cell type in the figure and this table follows.`;
     document.getElementById("cciRows").innerHTML = rows.map(r => {
       const [lig, rec] = r.interaction.split("_");
       return `<tr><td>${r.source}</td><td>${r.target}</td>

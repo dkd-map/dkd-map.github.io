@@ -65,8 +65,8 @@ function header(active) {
             </button>
             <div class="dropdown">
               <a href="about-overview.html">Project Overview<small>What DKDM is and why it exists</small></a>
-              <a href="${D.cciMapUrl}" target="_blank" rel="noopener">Cell–Cell Interaction Map<small>Tissue-level signalling network</small></a>
-              <a href="${D.mirnaMapUrl}" target="_blank" rel="noopener">miRNA–Target Regulatory Network<small>Post-transcriptional regulation</small></a>
+              <a href="${D.cciMapUrl}">Cell–Cell Interaction Map<small>Tissue-level signalling network</small></a>
+              <a href="${D.mirnaMapUrl}">miRNA–Target Regulatory Network<small>Post-transcriptional regulation</small></a>
               <a href="about-dynamic.html">Dynamic DKDM Framework<small>Parametric ODE models</small></a>
               <a href="data-resources.html">Data &amp; Resources<small>Where to find every resource</small></a>
             </div>

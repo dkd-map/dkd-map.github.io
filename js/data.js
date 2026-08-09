@@ -19,9 +19,9 @@ const DKDM = {
   /* The MINERVA annotated disease map (the static cell maps link here). */
   minervaMapUrl: "https://dkdm.elixir-luxembourg.org/minerva/index.html?id=DKDM_113025_V03",
 
-  /* ---- Cell-Cell & miRNA interactive maps (Google Sites) -------- */
-  cciMapUrl: "https://sites.google.com/view/dkdm-cci/home",
-  mirnaMapUrl: "https://sites.google.com/view/dkdm-mirna-target/home",
+/* ---- Cell-Cell & miRNA interactive maps (in-repo pages) ------- */
+  cciMapUrl: "cci-network.html",
+  mirnaMapUrl: "mirna-network.html",
 
   /* Direct CSV downloads for the two networks (see assets/data/) */
   cciCsv:   "assets/data/cell-cell-interactions.csv",

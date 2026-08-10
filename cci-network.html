@@ -36,7 +36,7 @@
   .stat .v{ font-family:var(--font-display); font-size:1.5rem; font-weight:700; color:var(--indigo); }
   .stat .k{ font-family:var(--font-mono); font-size:.68rem; letter-spacing:.09em;
             text-transform:uppercase; color:var(--ink-soft); margin-top:2px; }
-  .fig-grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(420px,1fr)); gap:22px; }
+  .fig-grid{ display:grid; grid-template-columns:repeat(auto-fit,minmax(min(420px,100%),1fr)); gap:22px; }
   .fig{ background:var(--card); border:1px solid var(--line); border-radius:var(--radius);
         box-shadow:var(--shadow); overflow:hidden; }
   .fig img{ width:100%; height:auto; background:#fff; }
@@ -47,7 +47,19 @@
   .rec-scroll{ max-height:430px; overflow-y:auto; }
   .rec-scroll table.dk thead th{ position:sticky; top:0; z-index:2; }
   #recIntro b{ color:var(--indigo); font-family:var(--font-display); }
-  @media (max-width:700px){ #cciFigure{ height:460px; } }
+  @media (max-width:820px){
+    /* Scaling a 1000-unit viewBox into a 288px phone renders 11px labels at
+       3.2px. Hold a legible width and let the reader pan sideways instead. */
+    #cciFigure{ height:auto; overflow-x:auto; -webkit-overflow-scrolling:touch; }
+    #cciFigure svg{ min-width:760px; height:490px; }
+    .cci-label{ font-size:15px; }
+    .pan-hint{ display:block; }
+    .net-toolbar{ gap:8px; }
+    .net-toolbar .net-select{ width:100%; }
+    .net-card{ padding:16px; }
+  }
+  .pan-hint{ display:none; font-family:var(--font-mono); font-size:.7rem; letter-spacing:.08em;
+             text-transform:uppercase; color:var(--ink-soft); margin:10px 0 0; }
   @media (prefers-reduced-motion:reduce){ *{ transition:none !important; } }
 </style>
 </head>
@@ -80,6 +92,7 @@
         </select>
       </div>
       <div id="cciFigure"></div>
+      <p class="pan-hint">Swipe the figure sideways to explore →</p>
       <p style="font-size:.88rem;color:var(--ink-soft);margin:12px 0 0">
         Cell types are placed alphabetically around the circle, so the layout is identical on every
         visit and between machines. Arc thickness is the number of ligand–receptor pairs carried;

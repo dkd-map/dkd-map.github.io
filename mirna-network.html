@@ -50,6 +50,17 @@
   .ev-pred{ background:var(--paper-2); color:var(--ink-soft); }
   .score{ font-family:var(--font-mono); font-size:.86rem; }
   table.dk td a{ font-family:var(--font-mono); font-size:.86rem; }
+  @media (max-width:820px){
+    #bip{ overflow-x:auto; -webkit-overflow-scrolling:touch; }
+    #bip svg{ min-width:700px; }
+    .bip-label{ font-size:13px; }
+    .net-scroll{ max-height:520px; }
+    .net-search{ width:100%; min-width:0; }
+    .net-card{ padding:16px; }
+    .pan-hint{ display:block; }
+  }
+  .pan-hint{ display:none; font-family:var(--font-mono); font-size:.7rem; letter-spacing:.08em;
+             text-transform:uppercase; color:var(--ink-soft); margin:10px 0 0; }
   @media (prefers-reduced-motion:reduce){ *{ transition:none !important; } }
 </style>
 </head>
@@ -81,6 +92,7 @@
       </div>
 
       <div class="net-scroll"><div id="bip"></div></div>
+      <p class="pan-hint">Swipe the figure sideways to explore →</p>
 
       <div class="legend">
         <span><i class="swatch" style="background:#2E9B96"></i> Experimentally validated</span>
